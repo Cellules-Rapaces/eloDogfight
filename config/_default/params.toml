@@ -1,0 +1,97 @@
+# Meta Data for SEO
+
+## Homepage
+title = "ELO Dogfight Challenge"
+titleSeparator = "-"
+titleAddition = "1v1 guns only DCS World competition"
+description = "1v1 guns only DCS World competition."
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+images = ["cellules-rapaces_og.png"]
+ogLocale = "fr_FR"
+domainTLD = "elodogfight.cellules-rapaces.fr"
+titleHome = "ELO Dogfight"
+
+## Twitter Cards
+twitterSite = "@CellulesRapaces"
+twitterCreator = "@Couby40"
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "Cellules Rapaces"
+schemaAuthor = "CoubyStark"
+schemaAuthorTwitter = "https://twitter.com/Couby40"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/couby/"
+schemaAuthorGitHub = "https://github.com/Couby"
+schemaLocale = "fr-FR"
+schemaLogo = "logo-cellules-rapaces.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "cellules-rapaces.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/CellulesRapaces"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/Cellules-Rapaces"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+smallLimit = "300"
+
+# Footer
+footer = ""
+
+# Feed
+copyRight = "Copyright (c) 2004–2022 CoubyStark"
+
+# Alert
+alert = false
+alertDismissable = true
+alertText = "Texte dans l'alerte ! <a class=\"alert-link stretched-link\" href=\"https://lien/\">Texte du lien</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/Cellules-Rapaces/elodogfight"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = false
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = true
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true
+
+[markup.goldmark.renderer]
+unsafe= true

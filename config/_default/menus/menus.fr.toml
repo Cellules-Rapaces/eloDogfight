@@ -1,0 +1,103 @@
+[[main]]
+  name = "Présentation"
+  url = "/presentation/"
+  weight = 5
+
+[[main]]
+  name = "Résultats"
+  weight = 30
+  identifier = "resultats"
+  url = "/resultats/"
+
+[[main]]
+  name = "Classement F-14B"
+  weight = 30
+  url = "/resultats/classement_f14b/classement_f14b"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement F-15C"
+  weight = 30
+  url = "/resultats/classement_f15c/classement_f15c"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement F-16C Block50"
+  weight = 30
+  url = "/resultats/classement_f16c50/classement_f16c50"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement F/A-18C"
+  weight = 30
+  url = "/resultats/classement_fa18c/classement_fa18c"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement JF-17"
+  weight = 30
+  url = "/resultats/classement_jf17/classement_jf17"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement M-2000C"
+  weight = 30
+  url = "/resultats/classement_m2000c/classement_m2000c"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement Mirage F1-CE"
+  weight = 30
+  url = "/resultats/classement_mf1ce/classement_mf1ce"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement MiG-21Bis"
+  weight = 30
+  url = "/resultats/classement_mig21bis/classement_mig21bis"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement MiG-29S"
+  weight = 30
+  url = "/resultats/classement_mig29s/classement_mig29s"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement Su-27"
+  weight = 30
+  url = "/resultats/classement_su27/classement_su27"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement Su-33"
+  weight = 30
+  url = "/resultats/classement_su33/classement_su33"
+  parent = "resultats"
+
+[[main]]
+  name = "Règles"
+  weight = 40
+  url = "/regles/"
+
+[[main]]
+  name = "Questions/Réponses"
+  weight = 50
+  url = "/questions/"
+
+# [[docs]]
+#   name = "Pilotes"
+#   weight = 10
+#   identifier = "pilotes-docs"
+#   url = "/pilotes/"
+
+# [[docs]]
+#   name = "Help"
+#   weight = 60
+#   identifier = "help"
+#   url = "/docs/help/"
+
+# [[footer]]
+#   name = "Privacy"
+#   url = "/privacy-policy/"
+#   weight = 10

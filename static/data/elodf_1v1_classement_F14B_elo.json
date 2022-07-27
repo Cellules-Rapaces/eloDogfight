@@ -1,0 +1,16 @@
+[
+	{
+		"Classement": 1,
+		"Player": "Nod",
+		"ELO": 1343,
+		"Combats": 7,
+		"Kill ratio": 2.5
+	},
+	{
+		"Classement": 2,
+		"Player": "CoubyStark",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0
+	}
+]
