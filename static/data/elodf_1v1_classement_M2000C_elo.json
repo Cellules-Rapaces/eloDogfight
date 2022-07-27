@@ -2,22 +2,22 @@
 	{
 		"Classement": 1,
 		"Player": "Dikennek",
-		"ELO": 1504,
-		"Combats": 8,
-		"Kill ratio": 11
+		"ELO": 1509,
+		"Combats": 9,
+		"Kill ratio": 5.75
 	},
 	{
 		"Classement": 2,
 		"Player": "Asta",
-		"ELO": 1294,
-		"Combats": 6,
-		"Kill ratio": 2.6
+		"ELO": 1358,
+		"Combats": 7,
+		"Kill ratio": 3.2
 	},
 	{
 		"Classement": 3,
 		"Player": "CoubyStark",
-		"ELO": 1114,
-		"Combats": 20,
-		"Kill ratio": 0.33
+		"ELO": 1112,
+		"Combats": 21,
+		"Kill ratio": 0.31
 	}
 ]

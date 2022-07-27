@@ -5,5 +5,12 @@
 		"ELO": 1119,
 		"Combats": 2,
 		"Kill ratio": 5
+	},
+	{
+		"Classement": 2,
+		"Player": "Null 1-1 | Zero",
+		"ELO": 1054,
+		"Combats": 1,
+		"Kill ratio": 2
 	}
 ]
