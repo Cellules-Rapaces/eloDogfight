@@ -68,8 +68,8 @@ alertText = "Texte dans l'alerte ! <a class=\"alert-link stretched-link\" href=\
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/Cellules-Rapaces/elodogfight"
-docsRepoBranch = "master"
+docsRepo = "https://github.com/Cellules-Rapaces/eloDogfight"
+docsRepoBranch = "main"
 docsRepoSubPath = ""
 editPage = false
 lastMod = false
