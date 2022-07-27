@@ -8,13 +8,20 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "HALO 4-5 | Dior",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null
+	},
+	{
+		"Classement": 3,
 		"Player": "CoubyStark",
 		"ELO": 1002,
 		"Combats": 2,
 		"Kill ratio": 0.2
 	},
 	{
-		"Classement": 3,
+		"Classement": 4,
 		"Player": "Popeye 1-2 | 0Cage0",
 		"ELO": 1001,
 		"Combats": 1,

@@ -8,6 +8,13 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "Fresco 1-4 Darkblue",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 2,
 		"Player": "CoubyStark",
 		"ELO": 1001,
 		"Combats": 1,
