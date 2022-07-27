@@ -1,0 +1,23 @@
+[
+	{
+		"Classement": 1,
+		"Player": "Dikennek",
+		"ELO": 1504,
+		"Combats": 8,
+		"Kill ratio": 11
+	},
+	{
+		"Classement": 2,
+		"Player": "Asta",
+		"ELO": 1294,
+		"Combats": 6,
+		"Kill ratio": 2.6
+	},
+	{
+		"Classement": 3,
+		"Player": "CoubyStark",
+		"ELO": 1114,
+		"Combats": 20,
+		"Kill ratio": 0.33
+	}
+]
