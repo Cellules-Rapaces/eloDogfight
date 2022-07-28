@@ -477,16 +477,19 @@
 		"F16C50": {
 			"LVL": "LVL1",
 			"ELO": [
+				1065,
 				1001,
 				1000
 			],
-			"Kills": 1,
+			"Kills": 4,
 			"Morts": 2,
 			"Match_date": [
+				"2022-07-28T22:18:45.000Z",
 				"2022-07-27T21:25:48.000Z",
 				"2022-05-25T21:10:53.000Z"
 			],
 			"Tracers": [
+				1,
 				0,
 				0
 			]
@@ -581,6 +584,65 @@
 			],
 			"Tracers": [
 				1,
+				0
+			]
+		}
+	},
+	{
+		"undefined": {
+			"LVL": "LVL1",
+			"ELO": [
+				1055,
+				1001,
+				1000
+			],
+			"Kills": null,
+			"Morts": null,
+			"Match_date": [
+				null,
+				null,
+				"2022-05-25T21:10:53.000Z"
+			],
+			"Tracers": [
+				null,
+				null,
+				0
+			]
+		}
+	},
+	{
+		"undefined": {
+			"LVL": "LVL1",
+			"ELO": [
+				1000
+			],
+			"Kills": 0,
+			"Morts": 0,
+			"Match_date": [
+				"2022-05-25T21:10:53.000Z"
+			],
+			"Tracers": [
+				0
+			]
+		}
+	},
+	{
+		"Player_UCID": "ddd847e5638abe08b2593bdcd587daf9",
+		"Player_Name": "AFR3157",
+		"FA18C": {
+			"LVL": "LVL1",
+			"ELO": [
+				1001,
+				1000
+			],
+			"Kills": 0,
+			"Morts": 3,
+			"Match_date": [
+				"2022-07-28T22:18:45.000Z",
+				"2022-05-25T21:10:53.000Z"
+			],
+			"Tracers": [
+				0,
 				0
 			]
 		}
