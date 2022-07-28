@@ -8,6 +8,13 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "COUTEAU 1-1 | Le Bibs",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null
+	},
+	{
+		"Classement": 3,
 		"Player": "Null",
 		"ELO": 1054,
 		"Combats": 1,
