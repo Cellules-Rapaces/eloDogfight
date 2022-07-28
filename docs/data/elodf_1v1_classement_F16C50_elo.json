@@ -2,13 +2,13 @@
 	{
 		"Classement": 1,
 		"Player": "CoubyStark",
-		"ELO": 1195,
-		"Combats": 6,
-		"Kill ratio": 1.25
+		"ELO": 1131,
+		"Combats": 5,
+		"Kill ratio": 0.88
 	},
 	{
 		"Classement": 2,
-		"Player": "WHISKY 4-1 | FrenchEagle",
+		"Player": "FrenchEagle",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0.5
