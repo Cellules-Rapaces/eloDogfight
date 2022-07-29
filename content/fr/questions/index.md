@@ -42,3 +42,6 @@ Attention toutefois à l'équilibre du match. Il appartient à chaque joueur de 
 
 ## Qui organise et administre ELO Dogfight ?
 **CoubyStark**, sous la bannière des **Cellules Rapaces**, équipe eSport de la **communauté des gamers de l'Armée de l'Air et de l'Espace**.
+
+## Que faire si les deux avions arrivent à court de carburant et parviennent à se poser ?
+Soyez **fairplay** ! Par échange audio/chat entendez-vous pour vous éjecter en même temps. Cela fera une manche "nulle" qui sera à rejouer.

@@ -39,6 +39,8 @@ La mise en place du script AutoSpawn est obligatoire afin de pouvoir sloter sur 
 
 💾 [Télécharger le script AutoSpawn](ELO-DF_auto-spawn_GameGUI.lua)
 
+{{< alert icon="💡" text="Faire click droit - enregistrer sous - avec votre navigateur favoris. Vérifiez que le fichier enregistré présente bien l'extension ".lua". A défaut modifier/ajouter le au fichier." />}}
+
 A mettre en place dans **```[utilisateur]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
 
 Ce script permet, à l'issue d'une manche, de faire resloter automatiquement les deux joueurs !
