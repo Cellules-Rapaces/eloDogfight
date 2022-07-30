@@ -45,3 +45,12 @@ Attention toutefois à l'équilibre du match. Il appartient à chaque joueur de 
 
 ## Que faire si les deux avions arrivent à court de carburant et parviennent à se poser ?
 Soyez **fairplay** ! Par échange audio/chat entendez-vous pour vous éjecter en même temps. Cela fera une manche "nulle" qui sera à rejouer.
+
+## L'usurpation ou conflit d'identité est-elle possible ?
+Non.
+Les résultats au niveau du serveur intègrent tous l'UCID des joueurs. Il s'agit d'un identifiant unique associé au compte DCS du joueur.
+Les résultats affichés au niveau du site web n'exposent pas cet UCID. Ceux-ci sont basés sur le nickname. Toutefois dès qu'il y a un conflit de nickname l'administrateur est avertis pour traiter manuellement la situation. Il ajustera le nickname du dernier joueur avec celui-ci (ajout d'un indice).
+
+## Est-il possible de modifier mon nickname joueur affiché dans les résultats ?
+Oui.
+Pour cela il faut contacter **CoubyStark** sur le Discord Rapace.
