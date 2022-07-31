@@ -1,7 +1,7 @@
 ---
-title: "Classement M-2000C"
+title: "M-2000C Rating"
 description: ""
-lead: "Classement M-2000C"
+lead: "M-2000C Rating"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -25,10 +25,10 @@ toc: true
   data-url="/data/elodf_1v1_classement_M2000C_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Classement</th>
-      <th data-field="Player">Pilote</th>
+      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Combats</th>
+      <th data-field="Combats" data-sortable="true">Fights</th>
       <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
     </tr>
   </thead>

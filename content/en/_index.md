@@ -1,6 +1,6 @@
 ---
-title : "Duels au canon sur DCS World"
-description: "Défi combat canon 1v1 sur DCS World."
+title : "Gun Duels in DCS World"
+description: "DCS World 1v1 guns only challenge."
 lead: "Fight's On !"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
@@ -12,8 +12,8 @@ images: []
 
 <section class="section section-sm">
   <div class="container">
-    Ici, bientôt, les Top 3 des meilleurs pilotes en combat canon individuel sur DCS World, par type d'avion !</br >
+    Here, soon, the Top 3 of the best pilots in individual gun combat on DCS World, by type of aircraft!</br >
     </br >
-    <em>Lien vers replay du stream de lancement avec Cage et FrenchEagle</em>
+    <em></em>
   </div>
 </section>
