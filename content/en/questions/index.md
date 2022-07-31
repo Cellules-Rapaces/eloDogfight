@@ -1,56 +1,56 @@
 ---
-title: "Questions - Réponses"
+title: "Questions - Answers"
 description: ""
-lead: "Questions - Réponses"
+lead: "Questions - Answers"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 ---
 
-{{< alert icon="💡" text="Vous ne trouvez pas votre question ? Venez nous la poser sur Discord." />}}
+{{< alert icon="💡" text="Can't find your question? Come ask us on Discord." />}}
 
-## Quels sont les réglages du serveur ?
+## What are server settings?
 ![DCS Server settings](elodf_dcs_server_settings.jpg)
 
-## Comment sont définis les niveaux de carburant initiaux ?
-Pour le moment en s'appuyant sur les mêmes réglages que sur la **compétition canon BFR** et/ou le serveur **Dogfighters**.
+## How are initial fuel levels set?
+For the moment, using the same settings as on the **canon BFR competition** and/or the **Dogfighters** server.
 
-Ils doivent permettre 5 minutes de pleine post-combustion/plein gaz à chaque avion.
+They must allow 5 minutes of full afterburner/full throttle to each aircraft.
 ![Fuel data](elodf_fuel_data.jpg)
 
-Ce point sera étudié et documenté plus finement pour tenir compte des consommations différentes selon les altitudes. Ceci pour assurer un équilibre toujours plus juste.
+This point will be studied and documented more finely to take into account the different consumptions according to the altitudes. This is to ensure an even fairer balance.
 
-## Comment savoir si le premier merge a eu lieu ?
-Ce point peut être délicat, en particulier pour les nouveaux venus. Nous recommandons d'assurer un croisement au plus près.
+## How do I know if the first merge happened?
+This point can be tricky, especially for newcomers. We recommend ensuring a crossing as close as possible.
 
-A défaut, lorsque vous voyez que les deux avions on commencé à se tourner autour en ayant fait plus de 90° de changement de cap... c'est que le merge est passé !
+Failing that, when you see that the two planes have started to turn around having made more than 90° of course change... it means that the merge has passed!
 
-Soyez cheuvaleresque et commencez par un croisement au casque !
+Be chivalrous and start with a helmet crossing!
 
-## Qu'est ce que le ELO ?
-Le ELO représente la force d'un compétiteur et permet de classer/comparer des joueurs.
-Ce principe vient du jeu d'échecs. Consultez l'article wikipédia [classement ELO](https://fr.wikipedia.org/wiki/Classement_Elo).
+## What is ELO?
+The ELO represents the strength of a competitor and makes it possible to classify/compare players.
+This principle comes from the game of chess. Consult the Wikipedia article [ELO ranking](https://en.wikipedia.org/wiki/Elo_rating_system).
 
-## Que faire si le script AutoSpwan "bugue" ?
-Vous pouvez toujours faire un respawn manuel. Passez spectateur, et reslotez sur votre avion (coordonnez avec l'adversaire). Vous verrez qu'à partir du moment où vous avez un match en cours, le serveur ne vous permettra pas de rejoindre un autre slot.
+## What to do if the AutoSpwan script "bugs"?
+You can still do a manual respawn. Become a spectator, and reslot on your plane (coordinate with the opponent). You will see that from the moment you have a match in progress, the server will not allow you to join another slot.
 
-## Je peux affronter n'importe quel avion avec n'importe quel avion ?
-Oui.
+## I can fight any plane with any plane?
+Yes.
 
-Attention toutefois à l'équilibre du match. Il appartient à chaque joueur de choisir/gérer quel avion il utilise et affronte. Cela nécessite aussi de s'accorder avec l'adversaire du moment. Il n'y a aucune imposition/obligation. Mais ne perdez pas de vu que le calcul du ELO pour l'avion que vous utilisez ne tient compte que du résultat du match et du ELO de l'adversaire sur l'avion qu'il utilise. Le calcul du ELO ne tient pas compte du type d'avion affronté.
+However, pay attention to the balance of the match. It is up to each player to choose/manage which aircraft they use and battle against. It also requires agreeing with the adversary of the moment. There is no imposition/obligation. But keep in mind that the ELO calculation for the aircraft you are using only takes into account the match result and the opponent's ELO on the aircraft they are using. The calculation of the ELO does not take into account the type of aircraft confronted.
 
-## Qui organise et administre ELO Dogfight ?
-**CoubyStark**, sous la bannière des **Cellules Rapaces**, équipe eSport de la **communauté des gamers de l'Armée de l'Air et de l'Espace**.
+## Who organizes and administers ELO Dogfight?
+**CoubyStark**, under the banner of **Cellules Rapaces**, eSport team of the **community of Air and Space Force gamers**.
 
-## Que faire si les deux avions arrivent à court de carburant et parviennent à se poser ?
-Soyez **fairplay** ! Par échange audio/chat entendez-vous pour vous éjecter en même temps. Cela fera une manche "nulle" qui sera à rejouer.
+## What if both planes run out of fuel and manage to land?
+Be **fairplay**! By audio/chat exchange do you mean to eject at the same time. This will make a "null" round which will have to be replayed.
 
-## L'usurpation ou conflit d'identité est-elle possible ?
-Non.
-Les résultats au niveau du serveur intègrent tous l'UCID des joueurs. Il s'agit d'un identifiant unique associé au compte DCS du joueur.
-Les résultats affichés au niveau du site web n'exposent pas cet UCID. Ceux-ci sont basés sur le nickname. Toutefois dès qu'il y a un conflit de nickname l'administrateur est avertis pour traiter manuellement la situation. Il ajustera le nickname du dernier joueur avec celui-ci (ajout d'un indice).
+## Is impersonation or identity conflict possible?
+No.
+Server-level results all include player UCIDs. This is a unique identifier associated with the player's DCS account.
+Results displayed at the website level do not expose this UCID. These are based on the nickname. However as soon as there is a nickname conflict the administrator is warned to manually deal with the situation. It will adjust the nickname of the last player with this one (adding a hint).
 
-## Est-il possible de modifier mon nickname joueur affiché dans les résultats ?
-Oui.
-Pour cela il faut contacter **CoubyStark** sur le Discord Rapace.
+## Is it possible to modify my player nickname displayed in the results?
+Yes.
+To do this, contact **CoubyStark** on the Rapace Discord.
