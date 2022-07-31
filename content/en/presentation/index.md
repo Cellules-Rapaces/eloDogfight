@@ -12,7 +12,7 @@ Introducing the ELO Dogfight Challenge, by Coubystark.
 
 ## In short
 
-The ELO Dogfight server offers you to carry out **1 against 1 cannon fights**, with the plane of your choice, **H24**, 7/7.</br>
+The ELO Dogfight server offers you to carry out **1 against 1 gun fights**, with the plane of your choice, **H24**, 7/7.</br>
 The matches are played **in 3 points** (possible results: 3-0 or 2-1).</br>
 All match results are saved on the server, and an **"ELO"** is calculated for each pilot, **per aircraft used**, based on the result of each match.
 
