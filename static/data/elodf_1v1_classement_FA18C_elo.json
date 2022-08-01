@@ -8,24 +8,24 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "AFR3157",
+		"ELO": 1127,
+		"Combats": 10,
+		"Kill ratio": 0.25
+	},
+	{
+		"Classement": 3,
 		"Player": "Stan Hursiak",
 		"ELO": 1119,
 		"Combats": 2,
 		"Kill ratio": 5
 	},
 	{
-		"Classement": 3,
+		"Classement": 4,
 		"Player": "Dior",
 		"ELO": 1064,
 		"Combats": 1,
 		"Kill ratio": null
-	},
-	{
-		"Classement": 4,
-		"Player": "AFR3157",
-		"ELO": 1063,
-		"Combats": 9,
-		"Kill ratio": 0.13
 	},
 	{
 		"Classement": 5,
