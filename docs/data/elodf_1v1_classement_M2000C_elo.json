@@ -16,9 +16,9 @@
 	{
 		"Classement": 3,
 		"Player": "CoubyStark",
-		"ELO": 1114,
-		"Combats": 20,
-		"Kill ratio": 0.33
+		"ELO": 1135,
+		"Combats": 21,
+		"Kill ratio": 0.4
 	},
 	{
 		"Classement": 4,
@@ -26,6 +26,13 @@
 		"ELO": 1055,
 		"Combats": 1,
 		"Kill ratio": 2
+	},
+	{
+		"Classement": 5,
+		"Player": "Madmat",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0
 	},
 	{
 		"Classement": 5,
