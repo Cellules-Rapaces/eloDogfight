@@ -1,20 +1,20 @@
 [
 	{
 		"Classement": 1,
+		"Player": "Le Bibs",
+		"ELO": 1128,
+		"Combats": 2,
+		"Kill ratio": null
+	},
+	{
+		"Classement": 2,
 		"Player": "Stan Hursiak",
 		"ELO": 1119,
 		"Combats": 2,
 		"Kill ratio": 5
 	},
 	{
-		"Classement": 2,
-		"Player": "Le Bibs",
-		"ELO": 1064,
-		"Combats": 1,
-		"Kill ratio": null
-	},
-	{
-		"Classement": 2,
+		"Classement": 3,
 		"Player": "Dior",
 		"ELO": 1064,
 		"Combats": 1,
@@ -23,9 +23,9 @@
 	{
 		"Classement": 4,
 		"Player": "AFR3157",
-		"ELO": 1061,
-		"Combats": 7,
-		"Kill ratio": 0.17
+		"ELO": 1062,
+		"Combats": 8,
+		"Kill ratio": 0.14
 	},
 	{
 		"Classement": 5,
