@@ -8,13 +8,20 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "Dikennek",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null
+	},
+	{
+		"Classement": 3,
 		"Player": "Darkblue",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0
 	},
 	{
-		"Classement": 2,
+		"Classement": 3,
 		"Player": "CoubyStark",
 		"ELO": 1001,
 		"Combats": 1,
