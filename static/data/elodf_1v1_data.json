@@ -403,16 +403,19 @@
 		"MiG29S": {
 			"LVL": "LVL1",
 			"ELO": [
+				1109,
 				1054,
 				1000
 			],
-			"Kills": 2,
-			"Morts": 1,
+			"Kills": 4,
+			"Morts": 2,
 			"Match_date": [
+				"2022-08-02T21:10:46.000Z",
 				"2022-07-27T21:06:36.000Z",
 				"2022-05-25T21:10:53.000Z"
 			],
 			"Tracers": [
+				1,
 				1,
 				0
 			]
@@ -912,6 +915,27 @@
 			"Tracers": [
 				1,
 				1,
+				1,
+				0
+			]
+		}
+	},
+	{
+		"Player_UCID": "4a0f9bcf51c3e2eedb9bbe6ad8def5cb",
+		"Player_Name": "MASTIFF 1-1 | Jike",
+		"FA18C": {
+			"LVL": "LVL1",
+			"ELO": [
+				1001,
+				1000
+			],
+			"Kills": 1,
+			"Morts": 2,
+			"Match_date": [
+				"2022-08-02T21:10:46.000Z",
+				"2022-05-25T21:10:53.000Z"
+			],
+			"Tracers": [
 				1,
 				0
 			]
