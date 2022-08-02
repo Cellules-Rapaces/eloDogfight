@@ -8,20 +8,20 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "AFR3157",
+		"ELO": 1140,
+		"Combats": 15,
+		"Kill ratio": 0.29
+	},
+	{
+		"Classement": 3,
 		"Player": "Le Bibs",
 		"ELO": 1128,
 		"Combats": 2,
 		"Kill ratio": null
 	},
 	{
-		"Classement": 3,
-		"Player": "AFR3157",
-		"ELO": 1119,
-		"Combats": 14,
-		"Kill ratio": 0.2
-	},
-	{
-		"Classement": 3,
+		"Classement": 4,
 		"Player": "Stan Hursiak",
 		"ELO": 1119,
 		"Combats": 2,
