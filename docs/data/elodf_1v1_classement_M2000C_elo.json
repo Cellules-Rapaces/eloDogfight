@@ -22,24 +22,24 @@
 	},
 	{
 		"Classement": 4,
+		"Player": "FrenchEagle",
+		"ELO": 1120,
+		"Combats": 3,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 5,
 		"Player": "Madmat",
 		"ELO": 1066,
 		"Combats": 3,
 		"Kill ratio": 0.5
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "Le Bibs",
 		"ELO": 1064,
 		"Combats": 1,
 		"Kill ratio": null
-	},
-	{
-		"Classement": 6,
-		"Player": "FrenchEagle",
-		"ELO": 1056,
-		"Combats": 2,
-		"Kill ratio": 1
 	},
 	{
 		"Classement": 7,
