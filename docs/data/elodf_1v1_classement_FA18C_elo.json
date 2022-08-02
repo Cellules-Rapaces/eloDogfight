@@ -2,9 +2,9 @@
 	{
 		"Classement": 1,
 		"Player": "Dior",
-		"ELO": 1174,
-		"Combats": 3,
-		"Kill ratio": 3.5
+		"ELO": 1238,
+		"Combats": 4,
+		"Kill ratio": 5
 	},
 	{
 		"Classement": 2,
@@ -16,12 +16,12 @@
 	{
 		"Classement": 3,
 		"Player": "AFR3157",
-		"ELO": 1121,
-		"Combats": 13,
-		"Kill ratio": 0.22
+		"ELO": 1119,
+		"Combats": 14,
+		"Kill ratio": 0.2
 	},
 	{
-		"Classement": 4,
+		"Classement": 3,
 		"Player": "Stan Hursiak",
 		"ELO": 1119,
 		"Combats": 2,
