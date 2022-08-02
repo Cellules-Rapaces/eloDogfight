@@ -42,7 +42,14 @@
 		"Kill ratio": null
 	},
 	{
-		"Classement": 7,
+		"Classement": 6,
+		"Player": "Dior",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null
+	},
+	{
+		"Classement": 8,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
