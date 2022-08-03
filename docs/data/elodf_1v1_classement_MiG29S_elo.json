@@ -1,17 +1,17 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Le Bibs",
-		"ELO": 1123,
-		"Combats": 3,
-		"Kill ratio": 3.5
-	},
-	{
-		"Classement": 2,
 		"Player": "Asta",
 		"ELO": 1119,
 		"Combats": 2,
 		"Kill ratio": 5
+	},
+	{
+		"Classement": 2,
+		"Player": "Le Bibs",
+		"ELO": 1118,
+		"Combats": 4,
+		"Kill ratio": 1.4
 	},
 	{
 		"Classement": 3,
