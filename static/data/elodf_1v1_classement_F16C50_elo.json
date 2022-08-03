@@ -1,17 +1,17 @@
 [
 	{
 		"Classement": 1,
+		"Player": "FrenchEagle",
+		"ELO": 1175,
+		"Combats": 4,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 2,
 		"Player": "CoubyStark",
 		"ELO": 1126,
 		"Combats": 6,
 		"Kill ratio": 0.64
-	},
-	{
-		"Classement": 2,
-		"Player": "FrenchEagle",
-		"ELO": 1120,
-		"Combats": 3,
-		"Kill ratio": 2
 	},
 	{
 		"Classement": 3,
