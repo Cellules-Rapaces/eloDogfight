@@ -9,23 +9,23 @@
 	{
 		"Classement": 2,
 		"Player": "Asta",
-		"ELO": 1284,
-		"Combats": 8,
-		"Kill ratio": 1.4
+		"ELO": 1348,
+		"Combats": 9,
+		"Kill ratio": 1.7
 	},
 	{
 		"Classement": 3,
 		"Player": "CoubyStark",
-		"ELO": 1187,
-		"Combats": 25,
+		"ELO": 1185,
+		"Combats": 26,
 		"Kill ratio": 0.5
 	},
 	{
 		"Classement": 4,
 		"Player": "Dior",
-		"ELO": 1183,
-		"Combats": 3,
-		"Kill ratio": 8
+		"ELO": 1178,
+		"Combats": 4,
+		"Kill ratio": 3
 	},
 	{
 		"Classement": 5,
@@ -37,9 +37,9 @@
 	{
 		"Classement": 6,
 		"Player": "Madmat",
-		"ELO": 1067,
-		"Combats": 4,
-		"Kill ratio": 0.5
+		"ELO": 1068,
+		"Combats": 5,
+		"Kill ratio": 0.36
 	},
 	{
 		"Classement": 7,

@@ -19,5 +19,12 @@
 		"ELO": 1064,
 		"Combats": 1,
 		"Kill ratio": null
+	},
+	{
+		"Classement": 4,
+		"Player": "Stan Hursiak",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0
 	}
 ]
