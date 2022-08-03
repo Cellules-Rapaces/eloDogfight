@@ -8,30 +8,30 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "Stan Hursiak",
+		"ELO": 1154,
+		"Combats": 7,
+		"Kill ratio": 1.1
+	},
+	{
+		"Classement": 3,
 		"Player": "AFR3157",
 		"ELO": 1136,
 		"Combats": 17,
 		"Kill ratio": 0.24
 	},
 	{
-		"Classement": 3,
+		"Classement": 4,
 		"Player": "Le Bibs",
 		"ELO": 1128,
 		"Combats": 2,
 		"Kill ratio": null
 	},
 	{
-		"Classement": 4,
-		"Player": "Stan Hursiak",
-		"ELO": 1099,
-		"Combats": 6,
-		"Kill ratio": 1
-	},
-	{
 		"Classement": 5,
 		"Player": "FrenchEagle",
-		"ELO": 1056,
-		"Combats": 2,
+		"ELO": 1057,
+		"Combats": 3,
 		"Kill ratio": 0.5
 	},
 	{
