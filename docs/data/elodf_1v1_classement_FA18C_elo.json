@@ -1,15 +1,15 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Dior",
-		"ELO": 1302,
-		"Combats": 5,
-		"Kill ratio": 6.5
+		"Player": "Le Bibs",
+		"ELO": 1306,
+		"Combats": 6,
+		"Kill ratio": 5
 	},
 	{
 		"Classement": 2,
-		"Player": "Le Bibs",
-		"ELO": 1251,
+		"Player": "Dior",
+		"ELO": 1302,
 		"Combats": 5,
 		"Kill ratio": 6.5
 	},
@@ -44,8 +44,8 @@
 	{
 		"Classement": 7,
 		"Player": "BAIONNETTE 1-1 | rq",
-		"ELO": 1056,
-		"Combats": 2,
+		"ELO": 1057,
+		"Combats": 3,
 		"Kill ratio": 0.5
 	},
 	{
