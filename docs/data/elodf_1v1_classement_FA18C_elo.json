@@ -15,31 +15,31 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Stan Hursiak",
-		"ELO": 1154,
-		"Combats": 7,
-		"Kill ratio": 1.1
+		"Player": "Dikennek",
+		"ELO": 1165,
+		"Combats": 3,
+		"Kill ratio": 2
 	},
 	{
 		"Classement": 4,
+		"Player": "Stan Hursiak",
+		"ELO": 1149,
+		"Combats": 8,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 5,
 		"Player": "AFR3157",
 		"ELO": 1136,
 		"Combats": 17,
 		"Kill ratio": 0.24
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "FrenchEagle",
 		"ELO": 1112,
 		"Combats": 4,
 		"Kill ratio": 0.71
-	},
-	{
-		"Classement": 6,
-		"Player": "Dikennek",
-		"ELO": 1110,
-		"Combats": 2,
-		"Kill ratio": 2
 	},
 	{
 		"Classement": 7,

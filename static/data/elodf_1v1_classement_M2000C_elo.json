@@ -16,8 +16,8 @@
 	{
 		"Classement": 3,
 		"Player": "CoubyStark",
-		"ELO": 1185,
-		"Combats": 26,
+		"ELO": 1183,
+		"Combats": 27,
 		"Kill ratio": 0.5
 	},
 	{
@@ -36,17 +36,17 @@
 	},
 	{
 		"Classement": 6,
+		"Player": "Le Bibs",
+		"ELO": 1119,
+		"Combats": 2,
+		"Kill ratio": 5
+	},
+	{
+		"Classement": 7,
 		"Player": "Madmat",
 		"ELO": 1068,
 		"Combats": 5,
 		"Kill ratio": 0.36
-	},
-	{
-		"Classement": 7,
-		"Player": "Le Bibs",
-		"ELO": 1064,
-		"Combats": 1,
-		"Kill ratio": null
 	},
 	{
 		"Classement": 8,
