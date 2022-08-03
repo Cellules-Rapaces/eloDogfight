@@ -29,17 +29,17 @@
 	},
 	{
 		"Classement": 5,
+		"Player": "Le Bibs",
+		"ELO": 1183,
+		"Combats": 3,
+		"Kill ratio": 8
+	},
+	{
+		"Classement": 6,
 		"Player": "FrenchEagle",
 		"ELO": 1170,
 		"Combats": 5,
 		"Kill ratio": 1.14
-	},
-	{
-		"Classement": 6,
-		"Player": "Le Bibs",
-		"ELO": 1119,
-		"Combats": 2,
-		"Kill ratio": 5
 	},
 	{
 		"Classement": 7,
