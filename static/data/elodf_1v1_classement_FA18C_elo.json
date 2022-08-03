@@ -8,24 +8,24 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Le Bibs",
-		"ELO": 1192,
-		"Combats": 3,
-		"Kill ratio": null
+		"Player": "Dikennek",
+		"ELO": 1220,
+		"Combats": 4,
+		"Kill ratio": 2
 	},
 	{
 		"Classement": 3,
-		"Player": "Dikennek",
-		"ELO": 1165,
-		"Combats": 3,
-		"Kill ratio": 2
+		"Player": "Le Bibs",
+		"ELO": 1187,
+		"Combats": 4,
+		"Kill ratio": 5
 	},
 	{
 		"Classement": 4,
 		"Player": "Stan Hursiak",
-		"ELO": 1149,
-		"Combats": 8,
-		"Kill ratio": 1
+		"ELO": 1144,
+		"Combats": 9,
+		"Kill ratio": 0.8
 	},
 	{
 		"Classement": 5,

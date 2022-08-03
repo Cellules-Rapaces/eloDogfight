@@ -15,17 +15,17 @@
 	},
 	{
 		"Classement": 3,
+		"Player": "Dior",
+		"ELO": 1242,
+		"Combats": 5,
+		"Kill ratio": 4
+	},
+	{
+		"Classement": 4,
 		"Player": "CoubyStark",
 		"ELO": 1204,
 		"Combats": 28,
 		"Kill ratio": 0.56
-	},
-	{
-		"Classement": 4,
-		"Player": "Dior",
-		"ELO": 1178,
-		"Combats": 4,
-		"Kill ratio": 3
 	},
 	{
 		"Classement": 5,
