@@ -8,17 +8,17 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "Le Bibs",
+		"ELO": 1251,
+		"Combats": 5,
+		"Kill ratio": 6.5
+	},
+	{
+		"Classement": 3,
 		"Player": "Dikennek",
 		"ELO": 1220,
 		"Combats": 4,
 		"Kill ratio": 2
-	},
-	{
-		"Classement": 3,
-		"Player": "Le Bibs",
-		"ELO": 1187,
-		"Combats": 4,
-		"Kill ratio": 5
 	},
 	{
 		"Classement": 4,
