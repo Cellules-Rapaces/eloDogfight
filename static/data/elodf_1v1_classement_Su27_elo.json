@@ -5,5 +5,12 @@
 		"ELO": 1322,
 		"Combats": 15,
 		"Kill ratio": 0.88
+	},
+	{
+		"Classement": 2,
+		"Player": "FrenchEagle",
+		"ELO": 1055,
+		"Combats": 1,
+		"Kill ratio": 2
 	}
 ]
