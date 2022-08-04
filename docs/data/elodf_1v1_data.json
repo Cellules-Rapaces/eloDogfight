@@ -1190,46 +1190,8 @@
 		}
 	},
 	{
-		"undefined": {
-			"LVL": "LVL1",
-			"ELO": [
-				1055,
-				1001,
-				1000
-			],
-			"Kills": null,
-			"Morts": null,
-			"Match_date": [
-				null,
-				null,
-				"2022-05-25T21:10:53.000Z"
-			],
-			"Tracers": [
-				null,
-				null,
-				0
-			]
-		}
-	},
-	{
-		"undefined": {
-			"LVL": "LVL1",
-			"ELO": [
-				1000
-			],
-			"Kills": 0,
-			"Morts": 0,
-			"Match_date": [
-				"2022-05-25T21:10:53.000Z"
-			],
-			"Tracers": [
-				0
-			]
-		}
-	},
-	{
 		"Player_UCID": "645dd1527a5d524ce5d917feff410047",
-		"Player_Name": "BAIONNETTE 1-1 | rq",
+		"Player_Name": "rq",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
