@@ -4,69 +4,79 @@
 		"Player": "Le Bibs",
 		"ELO": 1306,
 		"Combats": 6,
-		"Kill ratio": 5
+		"Kill ratio": 5,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 2,
 		"Player": "Dior",
 		"ELO": 1302,
 		"Combats": 5,
-		"Kill ratio": 6.5
+		"Kill ratio": 6.5,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
 		"Player": "Dikennek",
 		"ELO": 1220,
 		"Combats": 4,
-		"Kill ratio": 2
+		"Kill ratio": 2,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 4,
 		"Player": "Stan Hursiak",
 		"ELO": 1144,
 		"Combats": 9,
-		"Kill ratio": 0.8
+		"Kill ratio": 0.8,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 5,
 		"Player": "AFR3157",
 		"ELO": 1124,
 		"Combats": 17,
-		"Kill ratio": 0.24
+		"Kill ratio": 0.24,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 6,
 		"Player": "FrenchEagle",
 		"ELO": 1112,
 		"Combats": 4,
-		"Kill ratio": 0.71
+		"Kill ratio": 0.71,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 7,
 		"Player": "rq",
 		"ELO": 1057,
 		"Combats": 3,
-		"Kill ratio": 0.5
+		"Kill ratio": 0.5,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 8,
 		"Player": "CoubyStark",
 		"ELO": 1002,
 		"Combats": 2,
-		"Kill ratio": 0.2
+		"Kill ratio": 0.2,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 9,
 		"Player": "Jike",
 		"ELO": 1001,
 		"Combats": 1,
-		"Kill ratio": 0.5
+		"Kill ratio": 0.5,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 9,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
-		"Kill ratio": 0
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	}
 ]

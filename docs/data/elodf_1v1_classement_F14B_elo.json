@@ -4,27 +4,31 @@
 		"Player": "Nod",
 		"ELO": 1343,
 		"Combats": 7,
-		"Kill ratio": 2.5
+		"Kill ratio": 2.5,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 2,
 		"Player": "Dikennek",
 		"ELO": 1128,
 		"Combats": 2,
-		"Kill ratio": null
+		"Kill ratio": null,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
 		"Player": "Darkblue",
 		"ELO": 1001,
 		"Combats": 1,
-		"Kill ratio": 0
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
 		"Player": "CoubyStark",
 		"ELO": 1001,
 		"Combats": 1,
-		"Kill ratio": 0
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	}
 ]

@@ -4,20 +4,23 @@
 		"Player": "Le Bibs",
 		"ELO": 1064,
 		"Combats": 1,
-		"Kill ratio": null
+		"Kill ratio": null,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 2,
 		"Player": "AFR3157",
 		"ELO": 1003,
 		"Combats": 3,
-		"Kill ratio": 0.29
+		"Kill ratio": 0.29,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
 		"Player": "Dior",
 		"ELO": 1001,
 		"Combats": 1,
-		"Kill ratio": 0
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	}
 ]

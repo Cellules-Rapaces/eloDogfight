@@ -30,6 +30,7 @@ toc: true
       <th data-field="ELO" data-sortable="true">ELO</th>
       <th data-field="Combats" data-sortable="true">Fights</th>
       <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
+      <th data-field="LVL" data-sortable="true">Level</th>
     </tr>
   </thead>
 </table>

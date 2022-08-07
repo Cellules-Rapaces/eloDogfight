@@ -4,27 +4,31 @@
 		"Player": "FrenchEagle",
 		"ELO": 1239,
 		"Combats": 5,
-		"Kill ratio": 2.75
+		"Kill ratio": 2.75,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 2,
 		"Player": "CoubyStark",
 		"ELO": 1125,
 		"Combats": 6,
-		"Kill ratio": 0.64
+		"Kill ratio": 0.64,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
 		"Player": "Le Bibs",
 		"ELO": 1064,
 		"Combats": 1,
-		"Kill ratio": null
+		"Kill ratio": null,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 4,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,
-		"Kill ratio": 0
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	}
 ]

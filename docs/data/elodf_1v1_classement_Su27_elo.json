@@ -4,20 +4,23 @@
 		"Player": "Asta",
 		"ELO": 1406,
 		"Combats": 15,
-		"Kill ratio": 0.88
+		"Kill ratio": 0.88,
+		"LVL": "LVL2"
 	},
 	{
 		"Classement": 2,
 		"Player": "Le Bibs",
 		"ELO": 1064,
 		"Combats": 1,
-		"Kill ratio": null
+		"Kill ratio": null,
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
 		"Player": "FrenchEagle",
 		"ELO": 1055,
 		"Combats": 1,
-		"Kill ratio": 2
+		"Kill ratio": 2,
+		"LVL": "LVL1"
 	}
 ]
