@@ -7,72 +7,72 @@
   name = "Résultats"
   weight = 20
   identifier = "resultats"
-  url = "/resultats/"
+  url = "/resultats/classements/"
 
 [[main]]
   name = "Classement F-14B"
   weight = 30
-  url = "/resultats/classement_f14b"
+  url = "/resultats/classements/classement_f14b"
   parent = "resultats"
 
 [[main]]
   name = "Classement F-15C"
   weight = 40
-  url = "/resultats/classement_f15c"
+  url = "/resultats/classements/classement_f15c"
   parent = "resultats"
 
 [[main]]
   name = "Classement F-16C Block50"
   weight = 50
-  url = "/resultats/classement_f16c50"
+  url = "/resultats/classements/classement_f16c50"
   parent = "resultats"
 
 [[main]]
   name = "Classement F/A-18C"
   weight = 60
-  url = "/resultats/classement_fa18c"
+  url = "/resultats/classements/classement_fa18c"
   parent = "resultats"
 
 [[main]]
   name = "Classement JF-17"
   weight = 70
-  url = "/resultats/classement_jf17"
+  url = "/resultats/classements/classement_jf17"
   parent = "resultats"
 
 [[main]]
   name = "Classement M-2000C"
   weight = 80
-  url = "/resultats/classement_m2000c"
+  url = "/resultats/classements/classement_m2000c"
   parent = "resultats"
 
 [[main]]
   name = "Classement Mirage F1-CE"
   weight = 90
-  url = "/resultats/classement_mf1ce"
+  url = "/resultats/classements/classement_mf1ce"
   parent = "resultats"
 
 [[main]]
   name = "Classement MiG-21Bis"
   weight = 100
-  url = "/resultats/classement_mig21bis"
+  url = "/resultats/classements/classement_mig21bis"
   parent = "resultats"
 
 [[main]]
   name = "Classement MiG-29S"
   weight = 110
-  url = "/resultats/classement_mig29s"
+  url = "/resultats/classements/classement_mig29s"
   parent = "resultats"
 
 [[main]]
   name = "Classement Su-27"
   weight = 120
-  url = "/resultats/classement_su27"
+  url = "/resultats/classements/classement_su27"
   parent = "resultats"
 
 [[main]]
   name = "Classement Su-33"
   weight = 130
-  url = "/resultats/classement_su33"
+  url = "/resultats/classements/classement_su33"
   parent = "resultats"
 
 [[main]]
@@ -89,72 +89,72 @@
   name = "Résultats"
   weight = 500
   identifier = "resultats-docs"
-  url = "/resultats/"
+  url = "/resultats/classements/"
 
 [[docs]]
   name = "Classement F-14B"
   weight = 510
-  url = "/resultats/classement_f14b"
+  url = "/resultats/classements/classement_f14b"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement F-15C"
   weight = 520
-  url = "/resultats/classement_f15c"
+  url = "/resultats/classements/classement_f15c"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement F-16C Block50"
   weight = 530
-  url = "/resultats/classement_f16c50"
+  url = "/resultats/classements/classement_f16c50"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement F/A-18C"
   weight = 540
-  url = "/resultats/classement_fa18c"
+  url = "/resultats/classements/classement_fa18c"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement JF-17"
   weight = 550
-  url = "/resultats/classement_jf17"
+  url = "/resultats/classements/classement_jf17"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement M-2000C"
   weight = 560
-  url = "/resultats/classement_m2000c"
+  url = "/resultats/classements/classement_m2000c"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement Mirage F1-CE"
   weight = 570
-  url = "/resultats/classement_mf1ce"
+  url = "/resultats/classements/classement_mf1ce"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement MiG-21Bis"
   weight = 580
-  url = "/resultats/classement_mig21bis"
+  url = "/resultats/classements/classement_mig21bis"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement MiG-29S"
   weight = 590
-  url = "/resultats/classement_mig29s"
+  url = "/resultats/classements/classement_mig29s"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement Su-27"
   weight = 600
-  url = "/resultats/classement_su27"
+  url = "/resultats/classements/classement_su27"
   parent = "resultats-docs"
 
 [[docs]]
   name = "Classement Su-33"
   weight = 610
-  url = "/resultats/classement_su33"
+  url = "/resultats/classements/classement_su33"
   parent = "resultats-docs"
 
 # [[docs]]
