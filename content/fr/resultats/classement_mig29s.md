@@ -1,15 +1,15 @@
 ---
-title: "Classement M-2000C"
+title: "Classement MiG-29S"
 description: ""
-lead: "Classement M-2000C"
+lead: "Classement MiG-29S"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "resultats"
-weight: 130
+    parent: "resultats-docs"
+weight: 90
 toc: true
 ---
 
@@ -22,7 +22,7 @@ toc: true
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_M2000C_elo.json">
+  data-url="/data/elodf_1v1_classement_MiG29S_elo.json">
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Classement</th>

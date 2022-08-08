@@ -1,15 +1,15 @@
 ---
-title: "Classement Su-27"
+title: "Classement F-16C Block50"
 description: ""
-lead: "Classement Su-27"
+lead: "Classement F-16C Block50"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "resultats"
-weight: 130
+    parent: "resultats-docs"
+weight: 30
 toc: true
 ---
 
@@ -22,7 +22,7 @@ toc: true
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_Su27_elo.json">
+  data-url="/data/elodf_1v1_classement_F16C50_elo.json">
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Classement</th>

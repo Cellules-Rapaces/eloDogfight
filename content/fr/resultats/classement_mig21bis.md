@@ -1,15 +1,15 @@
 ---
-title: "Classement F-15C"
+title: "Classement MiG-21Bis"
 description: ""
-lead: "Classement F-15C"
+lead: "Classement MiG-21Bis"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "resultats"
-weight: 130
+    parent: "resultats-docs"
+weight: 80
 toc: true
 ---
 
@@ -22,7 +22,7 @@ toc: true
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_F15C_elo.json">
+  data-url="/data/elodf_1v1_classement_MiG21Bis_elo.json">
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Classement</th>

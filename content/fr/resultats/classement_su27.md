@@ -1,15 +1,15 @@
 ---
-title: "Classement MiG-21Bis"
+title: "Classement Su-27"
 description: ""
-lead: "Classement MiG-21Bis"
+lead: "Classement Su-27"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "resultats"
-weight: 130
+    parent: "resultats-docs"
+weight: 10
 toc: true
 ---
 
@@ -22,7 +22,7 @@ toc: true
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_MiG21Bis_elo.json">
+  data-url="/data/elodf_1v1_classement_Su27_elo.json">
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Classement</th>

@@ -1,15 +1,15 @@
 ---
-title: "Classement MiG-29S"
+title: "Classement JF-17"
 description: ""
-lead: "Classement MiG-29S"
+lead: "Classement JF-17"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "resultats"
-weight: 130
+    parent: "resultats-docs"
+weight: 50
 toc: true
 ---
 
@@ -22,7 +22,7 @@ toc: true
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_MiG29S_elo.json">
+  data-url="/data/elodf_1v1_classement_JF17_elo.json">
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Classement</th>
