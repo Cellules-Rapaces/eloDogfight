@@ -9,6 +9,14 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "Dior",
+		"ELO": 1352,
+		"Combats": 7,
+		"Kill ratio": 3.2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 3,
 		"Player": "Asta",
 		"ELO": 1348,
 		"Combats": 9,
@@ -16,18 +24,10 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
-		"Player": "Dior",
-		"ELO": 1297,
-		"Combats": 6,
-		"Kill ratio": 3.5,
-		"LVL": "LVL1"
-	},
-	{
 		"Classement": 4,
 		"Player": "CoubyStark",
-		"ELO": 1209,
-		"Combats": 29,
+		"ELO": 1207,
+		"Combats": 30,
 		"Kill ratio": 0.55,
 		"LVL": "LVL1"
 	},
