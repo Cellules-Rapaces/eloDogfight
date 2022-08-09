@@ -82,6 +82,8 @@ lastMod = false
   clipBoard = true
   instantPage = true
   flexSearch = true
+  searchSectionsShow = []
+  searchSectionsIndex = []
   darkMode = true
   bootStrapJs = true
   breadCrumb = false
@@ -91,7 +93,7 @@ lastMod = false
   docsVersioning = false
   fullWidth = true
   navbarSticky = true
-  
+
 [menu]
   [menu.section]
     auto = true
