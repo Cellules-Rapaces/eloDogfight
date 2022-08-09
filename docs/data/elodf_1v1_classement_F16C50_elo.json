@@ -17,18 +17,18 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Le Bibs",
-		"ELO": 1064,
-		"Combats": 1,
-		"Kill ratio": null,
+		"Player": "Stinger 1-1 | PluToN",
+		"ELO": 1111,
+		"Combats": 3,
+		"Kill ratio": 1.25,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 4,
-		"Player": "Stinger 1-1 | PluToN",
-		"ELO": 1056,
-		"Combats": 2,
-		"Kill ratio": 1,
+		"Player": "Le Bibs",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null,
 		"LVL": "LVL1"
 	},
 	{
