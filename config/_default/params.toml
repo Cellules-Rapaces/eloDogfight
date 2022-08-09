@@ -90,7 +90,8 @@ lastMod = false
   multilingualMode = true
   docsVersioning = false
   fullWidth = true
-
+  navbarSticky = true
+  
 [menu]
   [menu.section]
     auto = true
