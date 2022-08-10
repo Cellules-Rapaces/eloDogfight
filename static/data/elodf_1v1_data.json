@@ -1273,46 +1273,8 @@
 		}
 	},
 	{
-		"undefined": {
-			"LVL": "LVL1",
-			"ELO": [
-				1055,
-				1001,
-				1000
-			],
-			"Kills": null,
-			"Morts": null,
-			"Match_date": [
-				null,
-				null,
-				"2022-05-25T21:10:53.000Z"
-			],
-			"Tracers": [
-				null,
-				null,
-				0
-			]
-		}
-	},
-	{
-		"undefined": {
-			"LVL": "LVL1",
-			"ELO": [
-				1000
-			],
-			"Kills": 0,
-			"Morts": 0,
-			"Match_date": [
-				"2022-05-25T21:10:53.000Z"
-			],
-			"Tracers": [
-				0
-			]
-		}
-	},
-	{
 		"Player_UCID": "8e812624e03202934ecca1d088bd7c03",
-		"Player_Name": "Stinger 1-1 | PluToN",
+		"Player_Name": "PluToN",
 		"F16C50": {
 			"LVL": "LVL1",
 			"ELO": [
