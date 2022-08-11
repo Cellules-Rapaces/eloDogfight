@@ -2,9 +2,9 @@
 	{
 		"Classement": 1,
 		"Player": "Dior",
-		"ELO": 1412,
-		"Combats": 7,
-		"Kill ratio": 4.25,
+		"ELO": 1407,
+		"Combats": 12,
+		"Kill ratio": 1.4,
 		"LVL": "LVL2"
 	},
 	{
@@ -25,6 +25,14 @@
 	},
 	{
 		"Classement": 4,
+		"Player": "Xartos",
+		"ELO": 1164,
+		"Combats": 3,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 5,
 		"Player": "Stan Hursiak",
 		"ELO": 1144,
 		"Combats": 9,
@@ -32,7 +40,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "AFR3157",
 		"ELO": 1140,
 		"Combats": 19,
@@ -40,7 +48,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 7,
 		"Player": "FrenchEagle",
 		"ELO": 1112,
 		"Combats": 4,
@@ -48,7 +56,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": 8,
 		"Player": "rq",
 		"ELO": 1057,
 		"Combats": 3,
@@ -56,7 +64,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 9,
 		"Player": "CoubyStark",
 		"ELO": 1002,
 		"Combats": 2,
@@ -64,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 10,
 		"Player": "Jike",
 		"ELO": 1001,
 		"Combats": 1,
@@ -72,7 +80,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 10,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,

@@ -49,6 +49,14 @@
 	},
 	{
 		"Classement": 7,
+		"Player": "_raz_",
+		"ELO": 1118,
+		"Combats": 2,
+		"Kill ratio": 5,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 8,
 		"Player": "Madmat",
 		"ELO": 1068,
 		"Combats": 5,
@@ -56,7 +64,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 9,
 		"Player": "rq",
 		"ELO": 1001,
 		"Combats": 1,
@@ -64,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 9,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
@@ -72,7 +80,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 9,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,
