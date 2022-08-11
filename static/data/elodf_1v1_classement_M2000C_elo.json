@@ -9,18 +9,18 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Dior",
-		"ELO": 1352,
-		"Combats": 7,
-		"Kill ratio": 3.2,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 3,
 		"Player": "Asta",
 		"ELO": 1348,
 		"Combats": 9,
 		"Kill ratio": 1.7,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 3,
+		"Player": "Dior",
+		"ELO": 1347,
+		"Combats": 8,
+		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
@@ -65,6 +65,14 @@
 	},
 	{
 		"Classement": 9,
+		"Player": "Xartos",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 10,
 		"Player": "rq",
 		"ELO": 1001,
 		"Combats": 1,
@@ -72,7 +80,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 10,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
@@ -80,7 +88,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 10,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,
