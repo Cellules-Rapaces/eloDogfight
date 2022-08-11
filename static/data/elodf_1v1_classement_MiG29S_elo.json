@@ -22,5 +22,21 @@
 		"Combats": 2,
 		"Kill ratio": 2,
 		"LVL": "LVL1"
+	},
+	{
+		"Classement": 4,
+		"Player": "Xartos",
+		"ELO": 1064,
+		"Combats": 1,
+		"Kill ratio": null,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 5,
+		"Player": "Dior",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	}
 ]
