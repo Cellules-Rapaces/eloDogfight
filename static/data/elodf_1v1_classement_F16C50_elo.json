@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "FrenchEagle",
-		"ELO": 1239,
+		"ELO": 1131,
 		"Combats": 5,
 		"Kill ratio": 2.75,
 		"LVL": "LVL1"
@@ -10,7 +10,7 @@
 	{
 		"Classement": 2,
 		"Player": "CoubyStark",
-		"ELO": 1125,
+		"ELO": 1098,
 		"Combats": 6,
 		"Kill ratio": 0.64,
 		"LVL": "LVL1"
@@ -18,7 +18,7 @@
 	{
 		"Classement": 3,
 		"Player": "PluToN",
-		"ELO": 1111,
+		"ELO": 1066,
 		"Combats": 3,
 		"Kill ratio": 1.25,
 		"LVL": "LVL1"
@@ -26,7 +26,7 @@
 	{
 		"Classement": 4,
 		"Player": "Le Bibs",
-		"ELO": 1064,
+		"ELO": 1035,
 		"Combats": 1,
 		"Kill ratio": null,
 		"LVL": "LVL1"

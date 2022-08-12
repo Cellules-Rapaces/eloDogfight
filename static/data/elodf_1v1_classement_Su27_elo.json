@@ -2,15 +2,15 @@
 	{
 		"Classement": 1,
 		"Player": "Asta",
-		"ELO": 1406,
+		"ELO": 1120,
 		"Combats": 15,
 		"Kill ratio": 0.88,
-		"LVL": "LVL2"
+		"LVL": "LVL1"
 	},
 	{
 		"Classement": 2,
 		"Player": "Le Bibs",
-		"ELO": 1064,
+		"ELO": 1035,
 		"Combats": 1,
 		"Kill ratio": null,
 		"LVL": "LVL1"
@@ -18,7 +18,7 @@
 	{
 		"Classement": 3,
 		"Player": "FrenchEagle",
-		"ELO": 1055,
+		"ELO": 1030,
 		"Combats": 1,
 		"Kill ratio": 2,
 		"LVL": "LVL1"

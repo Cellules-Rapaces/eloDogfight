@@ -2,73 +2,73 @@
 	{
 		"Classement": 1,
 		"Player": "Dikennek",
-		"ELO": 1628,
+		"ELO": 1232,
 		"Combats": 11,
 		"Kill ratio": 5.6,
-		"LVL": "LVL2"
-	},
-	{
-		"Classement": 2,
-		"Player": "Asta",
-		"ELO": 1348,
-		"Combats": 9,
-		"Kill ratio": 1.7,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": 2,
 		"Player": "Dior",
-		"ELO": 1347,
+		"ELO": 1120,
 		"Combats": 8,
 		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
-		"Player": "CoubyStark",
-		"ELO": 1224,
-		"Combats": 33,
-		"Kill ratio": 0.6,
+		"Classement": 3,
+		"Player": "Asta",
+		"ELO": 1118,
+		"Combats": 9,
+		"Kill ratio": 1.7,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 4,
 		"Player": "Le Bibs",
-		"ELO": 1183,
+		"ELO": 1105,
 		"Combats": 3,
 		"Kill ratio": 8,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 5,
 		"Player": "FrenchEagle",
-		"ELO": 1170,
+		"ELO": 1100,
 		"Combats": 5,
 		"Kill ratio": 1.14,
 		"LVL": "LVL1"
 	},
 	{
+		"Classement": 6,
+		"Player": "CoubyStark",
+		"ELO": 1096,
+		"Combats": 33,
+		"Kill ratio": 0.6,
+		"LVL": "LVL1"
+	},
+	{
 		"Classement": 7,
 		"Player": "_raz_",
-		"ELO": 1118,
+		"ELO": 1092,
 		"Combats": 2,
 		"Kill ratio": 5,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 8,
-		"Player": "Madmat",
-		"ELO": 1068,
-		"Combats": 5,
-		"Kill ratio": 0.36,
+		"Player": "Xartos",
+		"ELO": 1050,
+		"Combats": 1,
+		"Kill ratio": null,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 9,
-		"Player": "Xartos",
-		"ELO": 1064,
-		"Combats": 1,
-		"Kill ratio": null,
+		"Player": "Madmat",
+		"ELO": 1048,
+		"Combats": 5,
+		"Kill ratio": 0.36,
 		"LVL": "LVL1"
 	},
 	{

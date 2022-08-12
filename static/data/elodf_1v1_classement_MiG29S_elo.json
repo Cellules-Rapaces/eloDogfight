@@ -1,32 +1,32 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Asta",
-		"ELO": 1119,
-		"Combats": 2,
-		"Kill ratio": 5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 2,
 		"Player": "Le Bibs",
-		"ELO": 1113,
+		"ELO": 1073,
 		"Combats": 5,
 		"Kill ratio": 1.14,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": 1,
 		"Player": "Null",
-		"ELO": 1109,
+		"ELO": 1073,
 		"Combats": 2,
 		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
+		"Classement": 3,
+		"Player": "Asta",
+		"ELO": 1066,
+		"Combats": 2,
+		"Kill ratio": 5,
+		"LVL": "LVL1"
+	},
+	{
 		"Classement": 4,
 		"Player": "Xartos",
-		"ELO": 1064,
+		"ELO": 1035,
 		"Combats": 1,
 		"Kill ratio": null,
 		"LVL": "LVL1"

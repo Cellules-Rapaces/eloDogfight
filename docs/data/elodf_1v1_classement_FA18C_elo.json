@@ -1,56 +1,56 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Dior",
-		"ELO": 1407,
-		"Combats": 12,
-		"Kill ratio": 1.4,
-		"LVL": "LVL2"
-	},
-	{
-		"Classement": 2,
 		"Player": "Le Bibs",
-		"ELO": 1306,
+		"ELO": 1147,
 		"Combats": 6,
 		"Kill ratio": 5,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": 2,
 		"Player": "Dikennek",
-		"ELO": 1220,
+		"ELO": 1136,
 		"Combats": 4,
 		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": 3,
 		"Player": "Xartos",
-		"ELO": 1164,
+		"ELO": 1104,
 		"Combats": 3,
 		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 4,
 		"Player": "Stan Hursiak",
-		"ELO": 1144,
+		"ELO": 1098,
 		"Combats": 9,
 		"Kill ratio": 0.8,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 5,
 		"Player": "AFR3157",
-		"ELO": 1140,
+		"ELO": 1093,
 		"Combats": 19,
 		"Kill ratio": 0.3,
 		"LVL": "LVL1"
 	},
 	{
+		"Classement": 6,
+		"Player": "Dior",
+		"ELO": 1081,
+		"Combats": 12,
+		"Kill ratio": 1.4,
+		"LVL": "LVL1"
+	},
+	{
 		"Classement": 7,
 		"Player": "FrenchEagle",
-		"ELO": 1112,
+		"ELO": 1068,
 		"Combats": 4,
 		"Kill ratio": 0.71,
 		"LVL": "LVL1"
@@ -58,7 +58,7 @@
 	{
 		"Classement": 8,
 		"Player": "rq",
-		"ELO": 1057,
+		"ELO": 1038,
 		"Combats": 3,
 		"Kill ratio": 0.5,
 		"LVL": "LVL1"
