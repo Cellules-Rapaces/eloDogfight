@@ -25,6 +25,14 @@
 	},
 	{
 		"Classement": 4,
+		"Player": "CoubyStark",
+		"ELO": 1106,
+		"Combats": 34,
+		"Kill ratio": 0.65,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 5,
 		"Player": "Le Bibs",
 		"ELO": 1105,
 		"Combats": 3,
@@ -32,19 +40,11 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "FrenchEagle",
 		"ELO": 1100,
 		"Combats": 5,
 		"Kill ratio": 1.14,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 6,
-		"Player": "CoubyStark",
-		"ELO": 1096,
-		"Combats": 33,
-		"Kill ratio": 0.6,
 		"LVL": "LVL1"
 	},
 	{
@@ -66,9 +66,9 @@
 	{
 		"Classement": 9,
 		"Player": "Madmat",
-		"ELO": 1048,
-		"Combats": 5,
-		"Kill ratio": 0.36,
+		"ELO": 1049,
+		"Combats": 6,
+		"Kill ratio": 0.29,
 		"LVL": "LVL1"
 	},
 	{
