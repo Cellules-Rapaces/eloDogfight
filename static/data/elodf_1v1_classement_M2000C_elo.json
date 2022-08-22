@@ -9,18 +9,18 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Dior",
-		"ELO": 1120,
-		"Combats": 8,
-		"Kill ratio": 2,
+		"Player": "Madmat",
+		"ELO": 1147,
+		"Combats": 9,
+		"Kill ratio": 0.69,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
-		"Player": "Madmat",
-		"ELO": 1119,
+		"Player": "Dior",
+		"ELO": 1120,
 		"Combats": 8,
-		"Kill ratio": 0.6,
+		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
@@ -58,9 +58,9 @@
 	{
 		"Classement": 8,
 		"Player": "Willy",
-		"ELO": 1097,
-		"Combats": 8,
-		"Kill ratio": 2.29,
+		"ELO": 1098,
+		"Combats": 9,
+		"Kill ratio": 1.89,
 		"LVL": "LVL1"
 	},
 	{
