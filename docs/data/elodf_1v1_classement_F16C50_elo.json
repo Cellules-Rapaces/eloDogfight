@@ -1,6 +1,14 @@
 [
 	{
 		"Classement": 1,
+		"Player": "CoubyStark",
+		"ELO": 1157,
+		"Combats": 8,
+		"Kill ratio": 0.85,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 2,
 		"Player": "FrenchEagle",
 		"ELO": 1131,
 		"Combats": 5,
@@ -8,18 +16,10 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 2,
-		"Player": "CoubyStark",
-		"ELO": 1127,
-		"Combats": 7,
-		"Kill ratio": 0.75,
-		"LVL": "LVL1"
-	},
-	{
 		"Classement": 3,
 		"Player": "Wolkern721",
-		"ELO": 1092,
-		"Combats": 11,
+		"ELO": 1093,
+		"Combats": 12,
 		"Kill ratio": 0.52,
 		"LVL": "LVL1"
 	},
