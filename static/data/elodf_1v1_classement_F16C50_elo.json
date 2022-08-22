@@ -25,6 +25,14 @@
 	},
 	{
 		"Classement": 4,
+		"Player": "Wolkern721",
+		"ELO": 1035,
+		"Combats": 6,
+		"Kill ratio": 0.38,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 4,
 		"Player": "Le Bibs",
 		"ELO": 1035,
 		"Combats": 1,
@@ -32,7 +40,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,

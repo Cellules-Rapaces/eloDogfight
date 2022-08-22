@@ -17,6 +17,14 @@
 	},
 	{
 		"Classement": 3,
+		"Player": "Willy",
+		"ELO": 1030,
+		"Combats": 1,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 4,
 		"Player": "Darkblue",
 		"ELO": 1001,
 		"Combats": 1,
@@ -24,7 +32,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": 4,
 		"Player": "CoubyStark",
 		"ELO": 1001,
 		"Combats": 1,
