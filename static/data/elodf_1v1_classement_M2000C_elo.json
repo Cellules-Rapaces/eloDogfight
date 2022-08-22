@@ -10,9 +10,9 @@
 	{
 		"Classement": 2,
 		"Player": "Willy",
-		"ELO": 1162,
-		"Combats": 6,
-		"Kill ratio": 4.67,
+		"ELO": 1127,
+		"Combats": 7,
+		"Kill ratio": 3,
 		"LVL": "LVL1"
 	},
 	{
@@ -32,11 +32,11 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 4,
 		"Player": "CoubyStark",
-		"ELO": 1106,
-		"Combats": 34,
-		"Kill ratio": 0.65,
+		"ELO": 1118,
+		"Combats": 35,
+		"Kill ratio": 0.67,
 		"LVL": "LVL1"
 	},
 	{
