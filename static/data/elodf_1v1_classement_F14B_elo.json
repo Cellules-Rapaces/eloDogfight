@@ -25,6 +25,14 @@
 	},
 	{
 		"Classement": 4,
+		"Player": "SStt",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 4,
 		"Player": "Darkblue",
 		"ELO": 1001,
 		"Combats": 1,

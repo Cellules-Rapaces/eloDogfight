@@ -65,6 +65,14 @@
 	},
 	{
 		"Classement": 9,
+		"Player": "Hipgnosie",
+		"ELO": 1035,
+		"Combats": 1,
+		"Kill ratio": null,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 10,
 		"Player": "Madmat",
 		"ELO": 1033,
 		"Combats": 1,
@@ -72,7 +80,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 10,
+		"Classement": 11,
 		"Player": "CoubyStark",
 		"ELO": 1002,
 		"Combats": 2,
@@ -80,7 +88,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 11,
+		"Classement": 12,
 		"Player": "Willy",
 		"ELO": 1001,
 		"Combats": 1,
@@ -88,7 +96,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 11,
+		"Classement": 12,
 		"Player": "Jike",
 		"ELO": 1001,
 		"Combats": 1,
@@ -96,7 +104,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 11,
+		"Classement": 12,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
