@@ -90,13 +90,13 @@
 	{
 		"Classement": 12,
 		"Player": "Hipgnosie",
-		"ELO": 1001,
-		"Combats": 1,
-		"Kill ratio": 0,
+		"ELO": 1002,
+		"Combats": 2,
+		"Kill ratio": 0.2,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": 13,
 		"Player": "rq",
 		"ELO": 1001,
 		"Combats": 1,
@@ -104,7 +104,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": 13,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
@@ -112,7 +112,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": 13,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,
