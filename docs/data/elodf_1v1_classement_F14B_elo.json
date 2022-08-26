@@ -18,13 +18,13 @@
 	{
 		"Classement": 3,
 		"Player": "SStt",
-		"ELO": 1032,
-		"Combats": 3,
-		"Kill ratio": 0.5,
+		"ELO": 1033,
+		"Combats": 4,
+		"Kill ratio": 0.33,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": 4,
 		"Player": "Willy",
 		"ELO": 1032,
 		"Combats": 3,
