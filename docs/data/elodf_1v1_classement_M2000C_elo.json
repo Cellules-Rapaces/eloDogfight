@@ -73,16 +73,16 @@
 	},
 	{
 		"Classement": 10,
-		"Player": "Xartos",
-		"ELO": 1050,
-		"Combats": 1,
-		"Kill ratio": null,
+		"Player": "SStt",
+		"ELO": 1065,
+		"Combats": 2,
+		"Kill ratio": 5,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 11,
-		"Player": "SStt",
-		"ELO": 1035,
+		"Player": "Xartos",
+		"ELO": 1050,
 		"Combats": 1,
 		"Kill ratio": null,
 		"LVL": "LVL1"
