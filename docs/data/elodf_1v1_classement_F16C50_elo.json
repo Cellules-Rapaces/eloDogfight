@@ -33,6 +33,14 @@
 	},
 	{
 		"Classement": 5,
+		"Player": "SStt",
+		"ELO": 1035,
+		"Combats": 1,
+		"Kill ratio": null,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 5,
 		"Player": "Le Bibs",
 		"ELO": 1035,
 		"Combats": 1,
@@ -40,7 +48,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 7,
 		"Player": "Willy",
 		"ELO": 1001,
 		"Combats": 1,
@@ -48,7 +56,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 7,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,
