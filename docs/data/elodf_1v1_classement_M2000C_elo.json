@@ -17,6 +17,14 @@
 	},
 	{
 		"Classement": 3,
+		"Player": "SStt",
+		"ELO": 1124,
+		"Combats": 4,
+		"Kill ratio": 3,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 4,
 		"Player": "Dior",
 		"ELO": 1120,
 		"Combats": 8,
@@ -24,7 +32,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": 5,
 		"Player": "Asta",
 		"ELO": 1118,
 		"Combats": 9,
@@ -32,7 +40,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": 5,
 		"Player": "CoubyStark",
 		"ELO": 1118,
 		"Combats": 35,
@@ -40,7 +48,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 7,
 		"Player": "Le Bibs",
 		"ELO": 1105,
 		"Combats": 3,
@@ -48,7 +56,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": 8,
 		"Player": "FrenchEagle",
 		"ELO": 1100,
 		"Combats": 5,
@@ -56,19 +64,11 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 9,
 		"Player": "Willy",
 		"ELO": 1098,
 		"Combats": 9,
 		"Kill ratio": 1.89,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 9,
-		"Player": "SStt",
-		"ELO": 1093,
-		"Combats": 3,
-		"Kill ratio": 3.5,
 		"LVL": "LVL1"
 	},
 	{
