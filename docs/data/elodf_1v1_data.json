@@ -1858,43 +1858,5 @@
 				0
 			]
 		}
-	},
-	{
-		"undefined": {
-			"LVL": "LVL1",
-			"ELO": [
-				1030,
-				1001,
-				1000
-			],
-			"Kills": null,
-			"Morts": null,
-			"Match_date": [
-				null,
-				null,
-				"2022-05-25T21:10:53.000Z"
-			],
-			"Tracers": [
-				null,
-				null,
-				0
-			]
-		}
-	},
-	{
-		"undefined": {
-			"LVL": "LVL1",
-			"ELO": [
-				1000
-			],
-			"Kills": 0,
-			"Morts": 0,
-			"Match_date": [
-				"2022-05-25T21:10:53.000Z"
-			],
-			"Tracers": [
-				0
-			]
-		}
 	}
 ]
