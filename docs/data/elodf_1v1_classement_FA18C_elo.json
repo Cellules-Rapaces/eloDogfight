@@ -26,13 +26,13 @@
 	{
 		"Classement": 4,
 		"Player": "Hipgnosie",
-		"ELO": 1098,
-		"Combats": 6,
-		"Kill ratio": 1.57,
+		"ELO": 1099,
+		"Combats": 7,
+		"Kill ratio": 1.1,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": 5,
 		"Player": "Stan Hursiak",
 		"ELO": 1098,
 		"Combats": 9,
@@ -57,6 +57,14 @@
 	},
 	{
 		"Classement": 8,
+		"Player": "SStt",
+		"ELO": 1074,
+		"Combats": 2,
+		"Kill ratio": 5,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 9,
 		"Player": "FrenchEagle",
 		"ELO": 1068,
 		"Combats": 4,
@@ -64,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 10,
 		"Player": "rq",
 		"ELO": 1038,
 		"Combats": 3,
@@ -72,15 +80,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 10,
-		"Player": "SStt",
-		"ELO": 1033,
-		"Combats": 1,
-		"Kill ratio": 2,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 10,
+		"Classement": 11,
 		"Player": "Madmat",
 		"ELO": 1033,
 		"Combats": 1,
