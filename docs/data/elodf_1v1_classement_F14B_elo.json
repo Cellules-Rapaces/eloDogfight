@@ -9,6 +9,14 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "SStt",
+		"ELO": 1069,
+		"Combats": 6,
+		"Kill ratio": 0.64,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 3,
 		"Player": "Dikennek",
 		"ELO": 1067,
 		"Combats": 2,
@@ -16,15 +24,15 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
-		"Player": "SStt",
-		"ELO": 1033,
-		"Combats": 4,
-		"Kill ratio": 0.33,
+		"Classement": 4,
+		"Player": "Hipgnosie",
+		"ELO": 1034,
+		"Combats": 2,
+		"Kill ratio": 0.5,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": 5,
 		"Player": "Willy",
 		"ELO": 1032,
 		"Combats": 3,
@@ -32,7 +40,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "Darkblue",
 		"ELO": 1001,
 		"Combats": 1,
@@ -40,7 +48,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "CoubyStark",
 		"ELO": 1001,
 		"Combats": 1,
