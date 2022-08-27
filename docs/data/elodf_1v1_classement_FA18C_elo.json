@@ -25,14 +25,6 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "Hipgnosie",
-		"ELO": 1100,
-		"Combats": 8,
-		"Kill ratio": 1,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 5,
 		"Player": "Stan Hursiak",
 		"ELO": 1098,
 		"Combats": 9,
@@ -40,7 +32,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 5,
 		"Player": "AFR3157",
 		"ELO": 1093,
 		"Combats": 19,
@@ -48,7 +40,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": 6,
 		"Player": "Dior",
 		"ELO": 1081,
 		"Combats": 12,
@@ -56,7 +48,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 7,
 		"Player": "SStt",
 		"ELO": 1074,
 		"Combats": 2,
@@ -64,11 +56,19 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 8,
 		"Player": "FrenchEagle",
 		"ELO": 1068,
 		"Combats": 4,
 		"Kill ratio": 0.71,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 9,
+		"Player": "Hipgnosie",
+		"ELO": 1064,
+		"Combats": 9,
+		"Kill ratio": 0.8,
 		"LVL": "LVL1"
 	},
 	{
