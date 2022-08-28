@@ -97,6 +97,14 @@
 	},
 	{
 		"Classement": 13,
+		"Player": "AFR3157_2",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 13,
 		"Player": "Willy",
 		"ELO": 1001,
 		"Combats": 1,
