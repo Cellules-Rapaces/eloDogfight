@@ -89,6 +89,14 @@
 	},
 	{
 		"Classement": 12,
+		"Player": "[L16 | ½] Chouca",
+		"ELO": 1035,
+		"Combats": 1,
+		"Kill ratio": null,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 13,
 		"Player": "Hipgnosie",
 		"ELO": 1003,
 		"Combats": 3,
@@ -96,7 +104,15 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": 14,
+		"Player": "Rayak 61 I John spa 103",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 14,
 		"Player": "rq",
 		"ELO": 1001,
 		"Combats": 1,
@@ -104,7 +120,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": 14,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
@@ -112,7 +128,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": 14,
 		"Player": "Stan Hursiak",
 		"ELO": 1001,
 		"Combats": 1,
