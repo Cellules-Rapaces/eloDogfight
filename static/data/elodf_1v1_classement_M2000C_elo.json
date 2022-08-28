@@ -9,18 +9,18 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Madmat",
-		"ELO": 1147,
-		"Combats": 9,
-		"Kill ratio": 0.69,
+		"Player": "Le Bibs",
+		"ELO": 1167,
+		"Combats": 5,
+		"Kill ratio": 14,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 3,
-		"Player": "Le Bibs",
-		"ELO": 1142,
-		"Combats": 4,
-		"Kill ratio": 11,
+		"Player": "Madmat",
+		"ELO": 1147,
+		"Combats": 9,
+		"Kill ratio": 0.69,
 		"LVL": "LVL1"
 	},
 	{
@@ -90,9 +90,9 @@
 	{
 		"Classement": 12,
 		"Player": "[L16 | ½] Chouca",
-		"ELO": 1035,
-		"Combats": 1,
-		"Kill ratio": null,
+		"ELO": 1036,
+		"Combats": 2,
+		"Kill ratio": 1,
 		"LVL": "LVL1"
 	},
 	{
