@@ -41,6 +41,14 @@
 	},
 	{
 		"Classement": 6,
+		"Player": "FrenchEagle",
+		"ELO": 1092,
+		"Combats": 5,
+		"Kill ratio": 0.88,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 7,
 		"Player": "Dior",
 		"ELO": 1081,
 		"Combats": 12,
@@ -48,19 +56,11 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": 8,
 		"Player": "SStt",
 		"ELO": 1074,
 		"Combats": 2,
 		"Kill ratio": 5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 8,
-		"Player": "FrenchEagle",
-		"ELO": 1068,
-		"Combats": 4,
-		"Kill ratio": 0.71,
 		"LVL": "LVL1"
 	},
 	{
