@@ -17,18 +17,18 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Xartos",
-		"ELO": 1104,
-		"Combats": 3,
-		"Kill ratio": 2,
+		"Player": "Stan Hursiak",
+		"ELO": 1131,
+		"Combats": 10,
+		"Kill ratio": 0.88,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 4,
-		"Player": "Stan Hursiak",
-		"ELO": 1098,
-		"Combats": 9,
-		"Kill ratio": 0.8,
+		"Player": "Xartos",
+		"ELO": 1104,
+		"Combats": 3,
+		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
