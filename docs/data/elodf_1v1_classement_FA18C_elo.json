@@ -81,6 +81,14 @@
 	},
 	{
 		"Classement": 11,
+		"Player": "Charly",
+		"ELO": 1044,
+		"Combats": 1,
+		"Kill ratio": null,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 12,
 		"Player": "rq",
 		"ELO": 1038,
 		"Combats": 3,
@@ -88,7 +96,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": 13,
 		"Player": "Madmat",
 		"ELO": 1033,
 		"Combats": 1,
@@ -96,7 +104,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": 14,
 		"Player": "CoubyStark",
 		"ELO": 1002,
 		"Combats": 2,
@@ -104,7 +112,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 14,
+		"Classement": 15,
 		"Player": "AFR3157_2",
 		"ELO": 1001,
 		"Combats": 1,
@@ -112,7 +120,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 14,
+		"Classement": 15,
 		"Player": "Jike",
 		"ELO": 1001,
 		"Combats": 1,
@@ -120,7 +128,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 14,
+		"Classement": 15,
 		"Player": "0Cage0",
 		"ELO": 1001,
 		"Combats": 1,
