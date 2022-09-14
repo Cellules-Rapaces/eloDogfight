@@ -9,6 +9,14 @@
 	},
 	{
 		"Classement": 2,
+		"Player": "Asta",
+		"ELO": 1188,
+		"Combats": 11,
+		"Kill ratio": 2.3,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 3,
 		"Player": "Le Bibs",
 		"ELO": 1167,
 		"Combats": 5,
@@ -16,23 +24,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
-		"Player": "Asta",
-		"ELO": 1156,
-		"Combats": 10,
-		"Kill ratio": 2,
-		"LVL": "LVL1"
-	},
-	{
 		"Classement": 4,
-		"Player": "CoubyStark",
-		"ELO": 1126,
-		"Combats": 36,
-		"Kill ratio": 0.69,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 5,
 		"Player": "SStt",
 		"ELO": 1124,
 		"Combats": 4,
@@ -40,7 +32,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 5,
 		"Player": "FrenchEagle",
 		"ELO": 1122,
 		"Combats": 6,
@@ -48,15 +40,15 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
-		"Player": "Madmat",
-		"ELO": 1115,
-		"Combats": 10,
-		"Kill ratio": 0.58,
+		"Classement": 6,
+		"Player": "CoubyStark",
+		"ELO": 1117,
+		"Combats": 37,
+		"Kill ratio": 0.66,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 7,
 		"Player": "Willy",
 		"ELO": 1098,
 		"Combats": 9,
@@ -64,7 +56,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": 8,
 		"Player": "_raz_",
 		"ELO": 1092,
 		"Combats": 2,
@@ -72,11 +64,19 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 10,
+		"Classement": 9,
 		"Player": "Dior",
 		"ELO": 1089,
 		"Combats": 9,
 		"Kill ratio": 1.45,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 10,
+		"Player": "Madmat",
+		"ELO": 1079,
+		"Combats": 11,
+		"Kill ratio": 0.5,
 		"LVL": "LVL1"
 	},
 	{
