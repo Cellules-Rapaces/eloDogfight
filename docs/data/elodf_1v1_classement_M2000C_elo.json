@@ -17,14 +17,22 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Madmat",
-		"ELO": 1147,
-		"Combats": 9,
-		"Kill ratio": 0.69,
+		"Player": "Asta",
+		"ELO": 1156,
+		"Combats": 10,
+		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
 		"Classement": 4,
+		"Player": "CoubyStark",
+		"ELO": 1126,
+		"Combats": 36,
+		"Kill ratio": 0.69,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 5,
 		"Player": "SStt",
 		"ELO": 1124,
 		"Combats": 4,
@@ -32,7 +40,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "FrenchEagle",
 		"ELO": 1122,
 		"Combats": 6,
@@ -40,19 +48,11 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
-		"Player": "Asta",
-		"ELO": 1118,
-		"Combats": 9,
-		"Kill ratio": 1.7,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 6,
-		"Player": "CoubyStark",
-		"ELO": 1118,
-		"Combats": 35,
-		"Kill ratio": 0.67,
+		"Classement": 7,
+		"Player": "Madmat",
+		"ELO": 1115,
+		"Combats": 10,
+		"Kill ratio": 0.58,
 		"LVL": "LVL1"
 	},
 	{
