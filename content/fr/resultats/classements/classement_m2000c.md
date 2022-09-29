@@ -26,6 +26,7 @@ toc: true
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Classement</th>
+      <th data-field="Country" data-sortable="true">Pays</th>
       <th data-field="Player">Pilote</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
       <th data-field="Combats" data-sortable="true">Combats</th>

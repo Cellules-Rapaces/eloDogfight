@@ -2,9 +2,11 @@
 	{
 		"Player_UCID": "c10ed2fd2ab453f95cf1eaf5bd8ba0f5",
 		"Player_Name": "CoubyStark",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
+				1136,
 				1127,
 				1117,
 				1126,
@@ -45,9 +47,10 @@
 				1001,
 				1000
 			],
-			"Kills": 47,
+			"Kills": 50,
 			"Morts": 67,
 			"Match_date": [
+				"2022-09-17T19:24:22.000Z",
 				"2022-09-14T21:33:42.000Z",
 				"2022-09-14T21:22:40.000Z",
 				"2022-09-14T21:13:09.000Z",
@@ -89,6 +92,7 @@
 				"2022-05-25T21:10:53.000Z"
 			],
 			"Tracers": [
+				1,
 				1,
 				1,
 				1,
@@ -211,16 +215,19 @@
 		"JF17": {
 			"LVL": "LVL1",
 			"ELO": [
+				1038,
 				1037,
 				1000
 			],
 			"Kills": 2,
-			"Morts": 1,
+			"Morts": 4,
 			"Match_date": [
+				"2022-09-17T19:15:04.000Z",
 				"2022-09-14T22:02:24.000Z",
 				"2022-05-25T21:10:53.000Z"
 			],
 			"Tracers": [
+				1,
 				1,
 				0
 			]
@@ -229,6 +236,7 @@
 	{
 		"Player_UCID": "505159ac842ebacc1b7f8becb0f89775",
 		"Player_Name": "Nod",
+		"Player_Country": "fr",
 		"F14B": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -268,6 +276,7 @@
 	{
 		"Player_UCID": "7c97e1d19d28e1726730b6174161c5ec",
 		"Player_Name": "Asta",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -401,6 +410,7 @@
 	{
 		"Player_UCID": "dbb8be7e42af05729aa681387acca944",
 		"Player_Name": "Dikennek",
+		"Player_Country": "us",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -498,6 +508,7 @@
 	{
 		"Player_UCID": "dd868c15eec12ac72e22ac7bcb4c0c33",
 		"Player_Name": "Null",
+		"Player_Country": "fr",
 		"MiG29S": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -522,6 +533,7 @@
 	{
 		"Player_UCID": "e81856ade04c0b83e885fa9be1c58eb9",
 		"Player_Name": "Stan Hursiak",
+		"Player_Country": "fr",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -630,6 +642,7 @@
 	{
 		"Player_UCID": "f65b44fccd4782d033ce64786193d616",
 		"Player_Name": "0Cage0",
+		"Player_Country": "be",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -685,6 +698,7 @@
 	{
 		"Player_UCID": "ddedfb14b65071b9dcb443232cfb1ebc",
 		"Player_Name": "FrenchEagle",
+		"Player_Country": "fr",
 		"F16C50": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -816,6 +830,7 @@
 	{
 		"Player_UCID": "0e0ffb668e83a25860ca5d72ef714962",
 		"Player_Name": "Dior",
+		"Player_Country": "fr",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -869,18 +884,21 @@
 		"MiG21Bis": {
 			"LVL": "LVL1",
 			"ELO": [
+				1032,
 				1031,
 				1001,
 				1000
 			],
 			"Kills": 3,
-			"Morts": 3,
+			"Morts": 6,
 			"Match_date": [
+				"2022-09-17T19:24:22.000Z",
 				"2022-08-02T21:20:16.000Z",
 				"2022-07-27T22:33:20.000Z",
 				"2022-05-25T21:10:53.000Z"
 			],
 			"Tracers": [
+				1,
 				1,
 				1,
 				0
@@ -909,6 +927,7 @@
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
+				1119,
 				1089,
 				1120,
 				1163,
@@ -920,9 +939,10 @@
 				1043,
 				1000
 			],
-			"Kills": 16,
+			"Kills": 19,
 			"Morts": 11,
 			"Match_date": [
+				"2022-09-17T19:15:04.000Z",
 				"2022-08-28T23:17:48.000Z",
 				"2022-08-12T00:07:39.000Z",
 				"2022-08-08T21:41:50.000Z",
@@ -935,6 +955,7 @@
 				"2022-05-25T21:10:53.000Z"
 			],
 			"Tracers": [
+				1,
 				1,
 				0,
 				0,
@@ -985,6 +1006,7 @@
 	{
 		"Player_UCID": "5db3f6192a35d9c67dbc982c18c549b3",
 		"Player_Name": "Darkblue",
+		"Player_Country": "fr",
 		"F14B": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1023,6 +1045,7 @@
 	{
 		"Player_UCID": "ddd847e5638abe08b2593bdcd587daf9",
 		"Player_Name": "AFR3157",
+		"Player_Country": "gf",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1124,6 +1147,7 @@
 	{
 		"Player_UCID": "96b7fe23a4c8d003f04a67507b350f53",
 		"Player_Name": "Le Bibs",
+		"Player_Country": "fr",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1312,6 +1336,7 @@
 	{
 		"Player_UCID": "dbda2f7122e164c83386c68a6869eaed",
 		"Player_Name": "Madmat",
+		"Player_Country": "us",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1386,6 +1411,7 @@
 	{
 		"Player_UCID": "4a0f9bcf51c3e2eedb9bbe6ad8def5cb",
 		"Player_Name": "Jike",
+		"Player_Country": "fr",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1407,6 +1433,7 @@
 	{
 		"Player_UCID": "645dd1527a5d524ce5d917feff410047",
 		"Player_Name": "rq",
+		"Player_Country": "fr",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1451,6 +1478,7 @@
 	{
 		"Player_UCID": "8e812624e03202934ecca1d088bd7c03",
 		"Player_Name": "PluToN",
+		"Player_Country": "be",
 		"F16C50": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1478,6 +1506,7 @@
 	{
 		"Player_UCID": "827640653ab591a2e1fb5c1ab992f8cb",
 		"Player_Name": "_raz_",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1502,6 +1531,7 @@
 	{
 		"Player_UCID": "652027e38b9701c3a452c2bc6d9fa83c",
 		"Player_Name": "Xartos",
+		"Player_Country": "us",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1580,6 +1610,7 @@
 	{
 		"Player_UCID": "438d7ea554ab011e58b6569f7a73b929",
 		"Player_Name": "Willy",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1728,6 +1759,7 @@
 	{
 		"Player_UCID": "8f112b7f0db9ccd387c10cdac32160d1",
 		"Player_Name": "Wolkern721",
+		"Player_Country": "us",
 		"F16C50": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1814,6 +1846,7 @@
 	{
 		"Player_UCID": "cd4b0ee8eb5604f63951f1ed6d665393",
 		"Player_Name": "SStt",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -1916,6 +1949,7 @@
 	{
 		"Player_UCID": "8de17d56ac5e805f4d1917f0f3096374",
 		"Player_Name": "Hipgnosie",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -2004,6 +2038,7 @@
 	{
 		"Player_UCID": "7d37db6672b335f2f63c3fd132081a6f",
 		"Player_Name": "Chouca",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -2031,6 +2066,7 @@
 	{
 		"Player_UCID": "ff00f2035be22c8adc41aa867dac5f45",
 		"Player_Name": "John spa 103",
+		"Player_Country": "fr",
 		"M2000C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -2052,6 +2088,7 @@
 	{
 		"Player_UCID": "1a7c542f5424f909d6d1b86b45ea9100",
 		"Player_Name": "AFR3157_2",
+		"Player_Country": "gf",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
@@ -2073,6 +2110,7 @@
 	{
 		"Player_UCID": "cc86c7480d14a74c084a45707aadb134",
 		"Player_Name": "Charly",
+		"Player_Country": "fr",
 		"FA18C": {
 			"LVL": "LVL1",
 			"ELO": [
