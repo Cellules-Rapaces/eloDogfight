@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "Willy",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
 		"Combats": 1,
 		"Kill ratio": 2,
@@ -11,7 +11,7 @@
 	{
 		"Classement": 1,
 		"Player": "Darkblue",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
 		"Combats": 1,
 		"Kill ratio": 2,
@@ -20,7 +20,7 @@
 	{
 		"Classement": 1,
 		"Player": "0Cage0",
-		"Country": "be",
+		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1030,
 		"Combats": 1,
 		"Kill ratio": 2,
@@ -29,7 +29,7 @@
 	{
 		"Classement": 4,
 		"Player": "Wolkern721",
-		"Country": "us",
+		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
 		"Kill ratio": 0.5,
@@ -38,7 +38,7 @@
 	{
 		"Classement": 4,
 		"Player": "Le Bibs",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
 		"Kill ratio": 0.2,
@@ -47,7 +47,7 @@
 	{
 		"Classement": 4,
 		"Player": "Stan Hursiak",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
 		"Kill ratio": 0.2,
@@ -56,7 +56,7 @@
 	{
 		"Classement": 7,
 		"Player": "FrenchEagle",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0.5,

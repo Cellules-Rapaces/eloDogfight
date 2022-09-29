@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "Le Bibs",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
 		"Combats": 1,
 		"Kill ratio": null,
@@ -11,7 +11,7 @@
 	{
 		"Classement": 2,
 		"Player": "AFR3157",
-		"Country": "gf",
+		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1004,
 		"Combats": 4,
 		"Kill ratio": 0.33,
@@ -20,7 +20,7 @@
 	{
 		"Classement": 3,
 		"Player": "Dior",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
 		"Kill ratio": 0,

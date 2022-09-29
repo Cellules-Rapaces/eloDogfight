@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "Nod",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1169,
 		"Combats": 7,
 		"Kill ratio": 2.5,
@@ -11,7 +11,7 @@
 	{
 		"Classement": 2,
 		"Player": "SStt",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1069,
 		"Combats": 6,
 		"Kill ratio": 0.64,
@@ -20,7 +20,7 @@
 	{
 		"Classement": 3,
 		"Player": "Dikennek",
-		"Country": "us",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1067,
 		"Combats": 2,
 		"Kill ratio": null,
@@ -29,7 +29,7 @@
 	{
 		"Classement": 4,
 		"Player": "Hipgnosie",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1034,
 		"Combats": 2,
 		"Kill ratio": 0.5,
@@ -38,7 +38,7 @@
 	{
 		"Classement": 5,
 		"Player": "Willy",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1032,
 		"Combats": 3,
 		"Kill ratio": 0.8,
@@ -47,7 +47,7 @@
 	{
 		"Classement": 6,
 		"Player": "Darkblue",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0,
@@ -56,7 +56,7 @@
 	{
 		"Classement": 6,
 		"Player": "CoubyStark",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0,

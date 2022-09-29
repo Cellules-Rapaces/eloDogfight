@@ -13,6 +13,9 @@ weight: 30
 toc: true
 ---
 
+<!-- Flag icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
+
 <div class="table-responsive">
 <table
   id="table"

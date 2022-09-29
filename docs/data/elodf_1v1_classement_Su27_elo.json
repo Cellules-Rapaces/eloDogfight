@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "Asta",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1120,
 		"Combats": 15,
 		"Kill ratio": 0.88,
@@ -11,7 +11,7 @@
 	{
 		"Classement": 2,
 		"Player": "Le Bibs",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
 		"Combats": 1,
 		"Kill ratio": null,
@@ -20,7 +20,7 @@
 	{
 		"Classement": 3,
 		"Player": "FrenchEagle",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
 		"Combats": 1,
 		"Kill ratio": 2,

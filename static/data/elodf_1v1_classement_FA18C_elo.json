@@ -2,7 +2,7 @@
 	{
 		"Classement": 1,
 		"Player": "Le Bibs",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1168,
 		"Combats": 7,
 		"Kill ratio": 4.25,
@@ -11,7 +11,7 @@
 	{
 		"Classement": 2,
 		"Player": "Dikennek",
-		"Country": "us",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1136,
 		"Combats": 4,
 		"Kill ratio": 2,
@@ -20,7 +20,7 @@
 	{
 		"Classement": 3,
 		"Player": "Stan Hursiak",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1131,
 		"Combats": 10,
 		"Kill ratio": 0.88,
@@ -29,7 +29,7 @@
 	{
 		"Classement": 4,
 		"Player": "Xartos",
-		"Country": "us",
+		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
 		"Combats": 3,
 		"Kill ratio": 2,
@@ -38,7 +38,7 @@
 	{
 		"Classement": 5,
 		"Player": "AFR3157",
-		"Country": "gf",
+		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1093,
 		"Combats": 19,
 		"Kill ratio": 0.3,
@@ -47,7 +47,7 @@
 	{
 		"Classement": 6,
 		"Player": "FrenchEagle",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1092,
 		"Combats": 5,
 		"Kill ratio": 0.88,
@@ -56,7 +56,7 @@
 	{
 		"Classement": 7,
 		"Player": "Willy",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1089,
 		"Combats": 5,
 		"Kill ratio": 1.14,
@@ -65,7 +65,7 @@
 	{
 		"Classement": 8,
 		"Player": "Dior",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1081,
 		"Combats": 12,
 		"Kill ratio": 1.4,
@@ -74,7 +74,7 @@
 	{
 		"Classement": 9,
 		"Player": "SStt",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1074,
 		"Combats": 2,
 		"Kill ratio": 5,
@@ -83,7 +83,7 @@
 	{
 		"Classement": 10,
 		"Player": "Hipgnosie",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1064,
 		"Combats": 9,
 		"Kill ratio": 0.8,
@@ -92,7 +92,7 @@
 	{
 		"Classement": 11,
 		"Player": "Charly",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1044,
 		"Combats": 1,
 		"Kill ratio": null,
@@ -101,7 +101,7 @@
 	{
 		"Classement": 12,
 		"Player": "rq",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
 		"Combats": 3,
 		"Kill ratio": 0.5,
@@ -110,7 +110,7 @@
 	{
 		"Classement": 13,
 		"Player": "Madmat",
-		"Country": "us",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1033,
 		"Combats": 1,
 		"Kill ratio": 2,
@@ -119,7 +119,7 @@
 	{
 		"Classement": 14,
 		"Player": "CoubyStark",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
 		"Kill ratio": 0.2,
@@ -128,7 +128,7 @@
 	{
 		"Classement": 15,
 		"Player": "AFR3157_2",
-		"Country": "gf",
+		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0,
@@ -137,7 +137,7 @@
 	{
 		"Classement": 15,
 		"Player": "Jike",
-		"Country": "fr",
+		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0.5,
@@ -146,7 +146,7 @@
 	{
 		"Classement": 15,
 		"Player": "0Cage0",
-		"Country": "be",
+		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0,
