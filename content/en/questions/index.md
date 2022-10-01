@@ -32,6 +32,12 @@ Be chivalrous and start with a helmet crossing!
 The ELO represents the strength of a competitor and makes it possible to classify/compare players.
 This principle comes from the game of chess. Consult the Wikipedia article [ELO ranking](https://en.wikipedia.org/wiki/Elo_rating_system).
 
+## Is the number of fights played taken into account in the ELO coefficient? Can we have a good ELO by playing few matches? Can we increase our ELO indefinitely by always playing against the same people?
+The number of fights played is implicitly integrated into the principle of the ELO calculation. Indeed the ELO represents the "strength" of a player for given playing conditions. The more a player has played **a large number of matches** and against **a varied number of players**, **the more his ELO coefficient is representative of his strength**.</br >
+The proper functioning of the basis of this calculation algorithm is a mathematical problem that experienced mathematicians have studied. Being used for a long time for chess competitions, we have confidence in this one.</br >
+The **K factor** retained in the configuration of the algorithm on ELO Dogfight, does not allow a player to achieve a super ELO in a few matches. You really have to play a lot of games to be able to raise your ELO significantly.</br >
+Moreover, the principle of "levels" put in place very strongly limits the possibility of indefinitely increasing your ELO by always playing against the same people.
+
 ## What to do if the AutoSpwan script "bugs"?
 You can still do a manual respawn. Become a spectator, and reslot on your plane (coordinate with the opponent). You will see that from the moment you have a match in progress, the server will not allow you to join another slot.
 

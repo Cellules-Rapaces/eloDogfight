@@ -32,6 +32,12 @@ Soyez cheuvaleresque et commencez par un croisement au casque !
 Le ELO représente la force d'un compétiteur et permet de classer/comparer des joueurs.
 Ce principe vient du jeu d'échecs. Consultez l'article wikipédia [classement ELO](https://fr.wikipedia.org/wiki/Classement_Elo).
 
+## Le nombre de combats joués est-il pris en compte dans le coefficient ELO ? Peut-on avoir un bon ELO en jouant peu de matchs ? Peut-on indéfiniement monter son ELO en jouant toujours contre les mêmes personnes ?
+Le nombre de combats joués est implicitement intégré au principe du calcul ELO. En effet le ELO représente la "force" d'un joueur pour des conditions de jeu données. Plus un joueur a joué **un grand nombre de matchs** et contre **un nombre varié de joueurs**, **plus son coefficient ELO est représentatif de sa force**.</br >
+Le bon fonctionnement de la base de cet algorithme de calcul, constitue un problème mathématique sur lequel se sont penchés des mathématiciens chevronnés. Etant utilisé depuis longtemps pour les compétitions de jeu d'échec, nous avons confiance dans celui-ci.</br >
+Le **facteur K** retenu dans le paramétrage de l'algorithme sur ELO Dogfight, ne permet pas à un joueur de réaliser un super ELO en peu de matchs. Il faut vraiment jouer beaucoup de rencontres pour pouvoir faire monter son ELO de manière significative.</br >
+Par ailleurs, le principe de "niveaux" mis en place limite très fortement la possibilité de faire indéfiniement monter son ELO en jouant toujours contre les mêmes personnes.
+
 ## Que faire si le script AutoSpwan "bugue" ?
 Vous pouvez toujours faire un respawn manuel. Passez spectateur, et reslotez sur votre avion (coordonnez avec l'adversaire). Vous verrez qu'à partir du moment où vous avez un match en cours, le serveur ne vous permettra pas de rejoindre un autre slot.
 
