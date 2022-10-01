@@ -54,3 +54,13 @@ Les résultats affichés au niveau du site web n'exposent pas cet UCID. Ceux-ci 
 ## Est-il possible de modifier mon nickname joueur affiché dans les résultats ?
 Oui.
 Pour cela il faut contacter **CoubyStark** sur le Discord Rapace.
+
+## Pour les compétiteurs sur F-14, comment empêcher Jester de s'éjecter ?
+Le seul moyen idenitifé pour cela est de désactiver le siège éjectable de Jester.
+Pour cela à chaque manche il vous faut faire un passage en place arrière. Appuyez sur la touche 2 du clavier :
+![Passer en place arrière du F14](fr_f14-ejection-seat-unarm_step1.jpg)
+Désactivez le siège éjectable :
+![Désactiver le siège éjectable](fr_f14-ejection-seat-unarm_step2.jpg)
+Revenez en place avant, touche 1 du clavier :
+![Revenir en place avant du F14](fr_f14-ejection-seat-unarm_step3.jpg)
+Si quelqu'un voit une manière plus simple/efficace d'empêcher Jester de s'éjecter, ne pas hésiter à la partager avec CoubyStark.

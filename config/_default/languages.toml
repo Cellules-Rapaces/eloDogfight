@@ -16,6 +16,11 @@
   weight = 10
   [en.params]
     languageISO = "EN"
+    footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Cellules Rapaces </br>by CoubyStark</small>'
+    footer2 = 'Raptor Challenges'
+    footer3 = 'About'
+    footer4 = 'Social networks'
+    footer5 = '⬆️'
 
 [de]
   languageName = "German"

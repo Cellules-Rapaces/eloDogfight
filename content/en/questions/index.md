@@ -41,7 +41,7 @@ Yes.
 However, pay attention to the balance of the match. It is up to each player to choose/manage which aircraft they use and battle against. It also requires agreeing with the adversary of the moment. There is no imposition/obligation. But keep in mind that the ELO calculation for the aircraft you are using only takes into account the match result and the opponent's ELO on the aircraft they are using. The calculation of the ELO does not take into account the type of aircraft confronted.
 
 ## Who organizes and administers ELO Dogfight?
-**CoubyStark**, under the banner of **Cellules Rapaces**, eSport team of the **community of Air and Space Force gamers**.
+**CoubyStark**, under the banner of **Cellules Rapaces**, eSport team of the **French Air and Space Force gamers community**.
 
 ## What if both planes run out of fuel and manage to land?
 Be **fairplay**! By audio/chat exchange do you mean to eject at the same time. This will make a "null" round which will have to be replayed.
@@ -54,3 +54,13 @@ Results displayed at the website level do not expose this UCID. These are based 
 ## Is it possible to modify my player nickname displayed in the results?
 Yes.
 To do this, contact **CoubyStark** on the Rapace Discord.
+
+## For F-14 competitors, how do you prevent Jester from ejecting?
+The only identified way to do this is to disable Jester's ejection seat.
+For this, at each round, you have to make a pass in the back seat. Press the 2 key on the keyboard:
+![Moving to the back seat of the F14](en_f14-ejection-seat-unarm_step1.jpg)
+Disable the ejection seat:
+![Disable ejection seat](en_f14-ejection-seat-unarm_step2.jpg)
+Return to the front seat, key 1 on the keyboard:
+![Moving back on forward seat](en_f14-ejection-seat-unarm_step3.jpg)
+If anyone knows an easier/more effective way to prevent Jester from ejecting, please share it with CoubyStark.
