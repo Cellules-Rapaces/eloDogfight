@@ -5,9 +5,9 @@
 
 [[main]]
   name = "Résultats"
-  weight = 20
-  identifier = "resultats"
   url = "/resultats/classements/"
+  identifier = "resultats"
+  weight = 25
 
 [[main]]
   name = "Classement F-14B"
@@ -85,91 +85,35 @@
   weight = 150
   url = "/questions/"
 
-[[docs]]
-  name = "Résultats"
-  weight = 500
-  identifier = "resultats-docs"
+
+[[resultats]]
+  name = "Classements"
+  weight = 2
+  identifier = "classements"
   url = "/resultats/classements/"
 
-[[docs]]
-  name = "Classement F-14B"
-  weight = 510
-  url = "/resultats/classements/classement_f14b"
-  parent = "resultats-docs"
 
-[[docs]]
-  name = "Classement F-15C"
-  weight = 520
-  url = "/resultats/classements/classement_f15c"
-  parent = "resultats-docs"
+[[footer2]]
+  name = "ELO Dogfight"
+  url = "https://elodogfight.cellules-rapaces.fr"
+  weight = 10
 
-[[docs]]
-  name = "Classement F-16C Block50"
-  weight = 530
-  url = "/resultats/classements/classement_f16c50"
-  parent = "resultats-docs"
+[[footer2]]
+  name = "Tanker Party"
+  url = "https://tankerparty.cellules-rapaces.fr"
+  weight = 20
 
-[[docs]]
-  name = "Classement F/A-18C"
-  weight = 540
-  url = "/resultats/classements/classement_fa18c"
-  parent = "resultats-docs"
+[[footer3]]
+  name = "Cellules Rapaces"
+  url = "https://www.cellules-rapaces.fr"
+  weight = 10
 
-[[docs]]
-  name = "Classement JF-17"
-  weight = 550
-  url = "/resultats/classements/classement_jf17"
-  parent = "resultats-docs"
+[[footer3]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
 
-[[docs]]
-  name = "Classement M-2000C"
-  weight = 560
-  url = "/resultats/classements/classement_m2000c"
-  parent = "resultats-docs"
-
-[[docs]]
-  name = "Classement Mirage F1-CE"
-  weight = 570
-  url = "/resultats/classements/classement_mf1ce"
-  parent = "resultats-docs"
-
-[[docs]]
-  name = "Classement MiG-21Bis"
-  weight = 580
-  url = "/resultats/classements/classement_mig21bis"
-  parent = "resultats-docs"
-
-[[docs]]
-  name = "Classement MiG-29S"
-  weight = 590
-  url = "/resultats/classements/classement_mig29s"
-  parent = "resultats-docs"
-
-[[docs]]
-  name = "Classement Su-27"
-  weight = 600
-  url = "/resultats/classements/classement_su27"
-  parent = "resultats-docs"
-
-[[docs]]
-  name = "Classement Su-33"
-  weight = 610
-  url = "/resultats/classements/classement_su33"
-  parent = "resultats-docs"
-
-# [[docs]]
-#   name = "Pilotes"
-#   weight = 10
-#   identifier = "pilotes-docs"
-#   url = "/pilotes/"
-
-# [[docs]]
-#   name = "Help"
-#   weight = 60
-#   identifier = "help"
-#   url = "/docs/help/"
-
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer3]]
+  name = "Mentions légales"
+  url = "/mentionslegales/"
+  weight = 30

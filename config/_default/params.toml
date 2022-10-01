@@ -53,8 +53,23 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 smallLimit = "300"
 
+# Images
+imageResponsive = true
+imageConvertTo = "webp"
+imageImageSizes = ["480","720","1080","1280","1600","2048"]
+singleSize = false
+imageAddClass = "img-fluid lazyload blur-up"
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
 # Footer
-footer = ""
+footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Cellules Rapaces </br>par CoubyStark</small>'
+footer2 = 'Les défis Rapaces'
+footer3 = 'A propos'
+footer4 = 'Réseaux sociaux'
+footer5 = '⬆️'
 
 # Feed
 copyRight = "Copyright (c) 2004–2022 CoubyStark"
@@ -75,7 +90,7 @@ editPage = false
 lastMod = false
 
 [sections]
-  sectionNav = ["docs"]
+  sectionNav = ["resultats"]
 
 [options]
   lazySizes = true
@@ -93,11 +108,10 @@ lastMod = false
   docsVersioning = false
   fullWidth = true
   navbarSticky = true
+  toTopButton = false
+  scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
 
 [menu]
   [menu.section]
     auto = true
     collapsibleSidebar = true
-
-[markup.goldmark.renderer]
-unsafe= true

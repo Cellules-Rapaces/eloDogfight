@@ -12,67 +12,67 @@
 [[main]]
   name = "F-14B Rating"
   weight = 30
-  url = "/resultats/classement_f14b/classement_f14b"
+  url = "/resultats/classements/classement_f14b"
   parent = "resultats"
 
 [[main]]
   name = "F-15C Rating"
   weight = 30
-  url = "/resultats/classement_f15c/classement_f15c"
+  url = "/resultats/classements/classement_f15c"
   parent = "resultats"
 
 [[main]]
   name = "F-16C Block50 Rating"
   weight = 30
-  url = "/resultats/classement_f16c50/classement_f16c50"
+  url = "/resultats/classements/classement_f16c50"
   parent = "resultats"
 
 [[main]]
   name = "F/A-18C Rating"
   weight = 30
-  url = "/resultats/classement_fa18c/classement_fa18c"
+  url = "/resultats/classements/classement_fa18c"
   parent = "resultats"
 
 [[main]]
   name = "JF-17 Rating"
   weight = 30
-  url = "/resultats/classement_jf17/classement_jf17"
+  url = "/resultats/classements/classement_jf17"
   parent = "resultats"
 
 [[main]]
   name = "M-2000C Rating"
   weight = 30
-  url = "/resultats/classement_m2000c/classement_m2000c"
+  url = "/resultats/classements/classement_m2000c"
   parent = "resultats"
 
 [[main]]
   name = "Mirage F1-CE Rating"
   weight = 30
-  url = "/resultats/classement_mf1ce/classement_mf1ce"
+  url = "/resultats/classements/classement_mf1ce"
   parent = "resultats"
 
 [[main]]
   name = "MiG-21Bis Rating"
   weight = 30
-  url = "/resultats/classement_mig21bis/classement_mig21bis"
+  url = "/resultats/classements/classement_mig21bis"
   parent = "resultats"
 
 [[main]]
   name = "MiG-29S Rating"
   weight = 30
-  url = "/resultats/classement_mig29s/classement_mig29s"
+  url = "/resultats/classements/classement_mig29s"
   parent = "resultats"
 
 [[main]]
   name = "Su-27 Rating"
   weight = 30
-  url = "/resultats/classement_su27/classement_su27"
+  url = "/resultats/classements/classement_su27"
   parent = "resultats"
 
 [[main]]
   name = "Su-33 Rating"
   weight = 30
-  url = "/resultats/classement_su33/classement_su33"
+  url = "/resultats/classements/classement_su33"
   parent = "resultats"
 
 [[main]]

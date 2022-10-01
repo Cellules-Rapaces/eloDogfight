@@ -6,9 +6,10 @@ date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
+type: docs
 menu:
-  docs:
-    parent: "resultats-docs"
+  resultats:
+    parent: "classements"
 weight: 80
 toc: true
 ---
