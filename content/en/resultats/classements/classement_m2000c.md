@@ -12,6 +12,7 @@ menu:
     parent: "classements"
 weight: 130
 toc: true
+icon: "M2000-h"
 ---
 
 <!-- Flag icons -->

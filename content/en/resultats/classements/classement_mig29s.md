@@ -12,6 +12,7 @@ menu:
     parent: "classements"
 weight: 130
 toc: true
+icon: "mig29-h"
 ---
 
 <!-- Flag icons -->

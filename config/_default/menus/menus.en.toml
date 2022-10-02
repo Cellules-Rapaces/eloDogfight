@@ -12,66 +12,77 @@
 [[main]]
   name = "F-14B Rating"
   weight = 30
+  pre = "f-14-h"
   url = "/resultats/classements/classement_f14b"
   parent = "resultats"
 
 [[main]]
   name = "F-15C Rating"
   weight = 30
+  pre = "f-15-h"
   url = "/resultats/classements/classement_f15c"
   parent = "resultats"
 
 [[main]]
   name = "F-16C Block50 Rating"
   weight = 30
+  pre = "f-16-h"
   url = "/resultats/classements/classement_f16c50"
   parent = "resultats"
 
 [[main]]
   name = "F/A-18C Rating"
   weight = 30
+  pre = "f-18-h"
   url = "/resultats/classements/classement_fa18c"
   parent = "resultats"
 
 [[main]]
   name = "JF-17 Rating"
   weight = 30
+  pre = "jf-17-h"
   url = "/resultats/classements/classement_jf17"
   parent = "resultats"
 
 [[main]]
   name = "M-2000C Rating"
   weight = 30
+  pre = "M2000-h"
   url = "/resultats/classements/classement_m2000c"
   parent = "resultats"
 
 [[main]]
   name = "Mirage F1-CE Rating"
   weight = 30
+  pre = "mf1-h"
   url = "/resultats/classements/classement_mf1ce"
   parent = "resultats"
 
 [[main]]
   name = "MiG-21Bis Rating"
   weight = 30
+  pre = "mig21-h"
   url = "/resultats/classements/classement_mig21bis"
   parent = "resultats"
 
 [[main]]
   name = "MiG-29S Rating"
   weight = 30
+  pre = "mig29-h"
   url = "/resultats/classements/classement_mig29s"
   parent = "resultats"
 
 [[main]]
   name = "Su-27 Rating"
   weight = 30
+  pre = "su27-h"
   url = "/resultats/classements/classement_su27"
   parent = "resultats"
 
 [[main]]
   name = "Su-33 Rating"
   weight = 30
+  pre = "su33-h"
   url = "/resultats/classements/classement_su33"
   parent = "resultats"
 
@@ -85,27 +96,27 @@
   weight = 50
   url = "/questions/"
 
-  [[footer2]]
-    name = "ELO Dogfight"
-    url = "https://elodogfight.cellules-rapaces.fr"
-    weight = 10
+[[footer2]]
+  name = "ELO Dogfight"
+  url = "https://elodogfight.cellules-rapaces.fr"
+  weight = 10
 
-  [[footer2]]
-    name = "Tanker Party"
-    url = "https://tankerparty.cellules-rapaces.fr"
-    weight = 20
+[[footer2]]
+  name = "Tanker Party"
+  url = "https://tankerparty.cellules-rapaces.fr"
+  weight = 20
 
-  [[footer3]]
-    name = "Cellules Rapaces"
-    url = "https://www.cellules-rapaces.fr"
-    weight = 10
+[[footer3]]
+  name = "Cellules Rapaces"
+  url = "https://www.cellules-rapaces.fr"
+  weight = 10
 
-  [[footer3]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 20
+[[footer3]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
 
-  [[footer3]]
-    name = "Legal notice"
-    url = "/mentionslegales/"
-    weight = 30
+[[footer3]]
+  name = "Legal notice"
+  url = "/mentionslegales/"
+  weight = 30

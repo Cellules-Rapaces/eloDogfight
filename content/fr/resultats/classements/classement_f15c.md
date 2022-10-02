@@ -12,6 +12,7 @@ menu:
     parent: "classements"
 weight: 20
 toc: true
+icon: "f-15-h"
 ---
 
 <!-- Flag icons -->

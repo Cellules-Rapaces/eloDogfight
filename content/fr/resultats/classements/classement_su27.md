@@ -12,6 +12,7 @@ menu:
     parent: "classements"
 weight: 10
 toc: true
+icon: "su27-h"
 ---
 
 <!-- Flag icons -->

@@ -12,6 +12,7 @@ menu:
     parent: "classements"
 weight: 110
 toc: true
+icon: "su33-h"
 ---
 
 <!-- Flag icons -->

@@ -12,66 +12,77 @@
 [[main]]
   name = "Classement F-14B"
   weight = 30
+  pre = "f-14-h"
   url = "/resultats/classements/classement_f14b"
   parent = "resultats"
 
 [[main]]
   name = "Classement F-15C"
   weight = 40
+  pre = "f-15-h"
   url = "/resultats/classements/classement_f15c"
   parent = "resultats"
 
 [[main]]
   name = "Classement F-16C Block50"
   weight = 50
+  pre = "f-16-h"
   url = "/resultats/classements/classement_f16c50"
   parent = "resultats"
 
 [[main]]
   name = "Classement F/A-18C"
   weight = 60
+  pre = "f-18-h"
   url = "/resultats/classements/classement_fa18c"
   parent = "resultats"
 
 [[main]]
   name = "Classement JF-17"
   weight = 70
+  pre = "jf-17-h"
   url = "/resultats/classements/classement_jf17"
   parent = "resultats"
 
 [[main]]
   name = "Classement M-2000C"
   weight = 80
+  pre = "M2000-h"
   url = "/resultats/classements/classement_m2000c"
   parent = "resultats"
 
 [[main]]
   name = "Classement Mirage F1-CE"
   weight = 90
+  pre = "mf1-h"
   url = "/resultats/classements/classement_mf1ce"
   parent = "resultats"
 
 [[main]]
   name = "Classement MiG-21Bis"
   weight = 100
+  pre = "mig21-h"
   url = "/resultats/classements/classement_mig21bis"
   parent = "resultats"
 
 [[main]]
   name = "Classement MiG-29S"
   weight = 110
+  pre = "mig29-h"
   url = "/resultats/classements/classement_mig29s"
   parent = "resultats"
 
 [[main]]
   name = "Classement Su-27"
   weight = 120
+  pre = "su27-h"
   url = "/resultats/classements/classement_su27"
   parent = "resultats"
 
 [[main]]
   name = "Classement Su-33"
   weight = 130
+  pre = "su33-h"
   url = "/resultats/classements/classement_su33"
   parent = "resultats"
 
