@@ -84,3 +84,28 @@
   name = "Questions/Answers"
   weight = 50
   url = "/questions/"
+
+  [[footer2]]
+    name = "ELO Dogfight"
+    url = "https://elodogfight.cellules-rapaces.fr"
+    weight = 10
+
+  [[footer2]]
+    name = "Tanker Party"
+    url = "https://tankerparty.cellules-rapaces.fr"
+    weight = 20
+
+  [[footer3]]
+    name = "Cellules Rapaces"
+    url = "https://www.cellules-rapaces.fr"
+    weight = 10
+
+  [[footer3]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
+
+  [[footer3]]
+    name = "Legal notice"
+    url = "/mentionslegales/"
+    weight = 30
