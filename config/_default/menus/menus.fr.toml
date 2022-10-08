@@ -87,13 +87,20 @@
   parent = "resultats"
 
 [[main]]
-  name = "Règles"
+  name = "Classement F-86F"
   weight = 140
+  pre = "f-86-h"
+  url = "/resultats/classements/classement_f86f"
+  parent = "resultats"
+
+[[main]]
+  name = "Règles"
+  weight = 200
   url = "/regles/"
 
 [[main]]
   name = "Questions/Réponses"
-  weight = 150
+  weight = 210
   url = "/questions/"
 
 

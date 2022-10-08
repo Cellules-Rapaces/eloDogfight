@@ -1,11 +1,11 @@
 [[main]]
   name = "Introduction"
   url = "/presentation/"
-  weight = 5
+  weight = 10
 
 [[main]]
   name = "Ratings"
-  weight = 30
+  weight = 25
   identifier = "resultats"
   url = "/resultats/"
 
@@ -18,82 +18,89 @@
 
 [[main]]
   name = "F-15C Rating"
-  weight = 30
+  weight = 40
   pre = "f-15-h"
   url = "/resultats/classements/classement_f15c"
   parent = "resultats"
 
 [[main]]
   name = "F-16C Block50 Rating"
-  weight = 30
+  weight = 50
   pre = "f-16-h"
   url = "/resultats/classements/classement_f16c50"
   parent = "resultats"
 
 [[main]]
   name = "F/A-18C Rating"
-  weight = 30
+  weight = 60
   pre = "f-18-h"
   url = "/resultats/classements/classement_fa18c"
   parent = "resultats"
 
 [[main]]
   name = "JF-17 Rating"
-  weight = 30
+  weight = 70
   pre = "jf-17-h"
   url = "/resultats/classements/classement_jf17"
   parent = "resultats"
 
 [[main]]
   name = "M-2000C Rating"
-  weight = 30
+  weight = 80
   pre = "M2000-h"
   url = "/resultats/classements/classement_m2000c"
   parent = "resultats"
 
 [[main]]
   name = "Mirage F1-CE Rating"
-  weight = 30
+  weight = 90
   pre = "mf1-h"
   url = "/resultats/classements/classement_mf1ce"
   parent = "resultats"
 
 [[main]]
   name = "MiG-21Bis Rating"
-  weight = 30
+  weight = 100
   pre = "mig21-h"
   url = "/resultats/classements/classement_mig21bis"
   parent = "resultats"
 
 [[main]]
   name = "MiG-29S Rating"
-  weight = 30
+  weight = 110
   pre = "mig29-h"
   url = "/resultats/classements/classement_mig29s"
   parent = "resultats"
 
 [[main]]
   name = "Su-27 Rating"
-  weight = 30
+  weight = 120
   pre = "su27-h"
   url = "/resultats/classements/classement_su27"
   parent = "resultats"
 
 [[main]]
   name = "Su-33 Rating"
-  weight = 30
+  weight = 130
   pre = "su33-h"
   url = "/resultats/classements/classement_su33"
   parent = "resultats"
 
 [[main]]
+  name = "F-86F Rating"
+  weight = 140
+  pre = "f-86-h"
+  url = "/resultats/classements/classement_f86f"
+  parent = "resultats"
+
+[[main]]
   name = "Rules"
-  weight = 40
+  weight = 200
   url = "/regles/"
 
 [[main]]
   name = "Questions/Answers"
-  weight = 50
+  weight = 210
   url = "/questions/"
 
 [[footer2]]
