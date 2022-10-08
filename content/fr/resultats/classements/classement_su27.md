@@ -10,7 +10,7 @@ type: docs
 menu:
   resultats:
     parent: "classements"
-weight: 10
+weight: 100
 toc: true
 icon: "su27-h"
 ---

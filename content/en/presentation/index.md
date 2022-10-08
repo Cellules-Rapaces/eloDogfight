@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: "PELO Dogfight Challenge Introduction, by Coubystark."
+description: "ELO Dogfight Challenge Introduction, by Coubystark."
 date: 2022-07-25T08:49:55+00:00
 lastmod: 2022-07-25T08:49:55+00:00
 draft: false

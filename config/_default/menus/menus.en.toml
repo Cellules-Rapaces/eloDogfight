@@ -94,6 +94,13 @@
   parent = "resultats"
 
 [[main]]
+  name = "AJS-37 Rating"
+  weight = 150
+  pre = "ajs37-h"
+  url = "/resultats/classements/classement_ajs37"
+  parent = "resultats"
+    
+[[main]]
   name = "Rules"
   weight = 200
   url = "/regles/"

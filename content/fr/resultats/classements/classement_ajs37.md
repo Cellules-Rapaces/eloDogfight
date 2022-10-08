@@ -10,7 +10,7 @@ type: docs
 menu:
   resultats:
     parent: "classements"
-weight: 110
+weight: 130
 toc: true
 icon: "ajs37-h"
 ---

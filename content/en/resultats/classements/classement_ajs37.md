@@ -1,7 +1,7 @@
 ---
-title: "Classement F-86F"
+title: "AJS-37 Rating"
 description: ""
-lead: "Classement F-86F"
+lead: "AJS-37 Rating"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -10,9 +10,9 @@ type: docs
 menu:
   resultats:
     parent: "classements"
-weight: 120
+weight: 110
 toc: true
-icon: "f-86-h"
+icon: "ajs37-h"
 ---
 
 <!-- Flag icons -->
@@ -27,16 +27,16 @@ icon: "f-86-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_F86F_elo.json">
+  data-url="/data/elodf_1v1_classement_AJS37_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Classement</th>
-      <th data-field="Country" data-sortable="true">Pays</th>
-      <th data-field="Player">Pilote</th>
+      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Country" data-sortable="true">Country</th>
+      <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Combats</th>
+      <th data-field="Combats" data-sortable="true">Fights</th>
       <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Niveau</th>
+      <th data-field="LVL" data-sortable="true">Level</th>
     </tr>
   </thead>
 </table>
