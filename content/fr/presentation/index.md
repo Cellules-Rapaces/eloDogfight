@@ -25,7 +25,7 @@ Tous les résultats de matchs sont enregistrés sur le serveur, et un **"ELO"** 
 Le serveur comprend des arènes de combat réservées en fonction du niveau (ELO) des joueurs :
 - 6 Battle Areas pour les joueurs LVL1, de BA1-1 à BA1-6 - réservées aux joueurs dont le ELO (pour l'avion utilisé) est compris entre 1000 et 1400
 - 4 Battle Areas pour les joueurs LVL2, de BA2-1 à BA2-4 - réservées aux joueurs dont le ELO est compris entre 1400 et 1800
-- 4 Battle Areas pour les joueurs LVL3, de BA3-1 à BA3-4 - réservées aux joueurs dont le ELO est compris entre 1800 et 2200
+- 3 Battle Areas pour les joueurs LVL3, de BA3-1 à BA3-3 - réservées aux joueurs dont le ELO est compris entre 1800 et 2200
 - 3 Battle Areas pour les joueurs LVL4, de BA4-1 à BA4-3 - réservées aux joueurs dont le ELO est compris entre 2200 et 2600
 - 1 Battle Areas pour les joueurs LVL5, la BA5-1 - réservée aux joueurs dont le ELO est supérieur à 2600
 

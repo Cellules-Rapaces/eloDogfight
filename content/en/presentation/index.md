@@ -25,7 +25,7 @@ All match results are saved on the server, and an **"ELO"** is calculated for ea
 The server includes combat arenas reserved according to the level (ELO) of the players:
 - 6 Battle Areas for LVL1 players, from BA1-1 to BA1-6 - reserved for players whose ELO (for the plane used) is between 1000 and 1400
 - 4 Battle Areas for LVL2 players, from BA2-1 to BA2-4 - reserved for players whose ELO is between 1400 and 1800
-- 4 Battle Areas for LVL3 players, from BA3-1 to BA3-4 - reserved for players whose ELO is between 1800 and 2200
+- 3 Battle Areas for LVL3 players, from BA3-1 to BA3-3 - reserved for players whose ELO is between 1800 and 2200
 - 3 Battle Areas for LVL4 players, from BA4-1 to BA4-3 - reserved for players whose ELO is between 2200 and 2600
 - 1 Battle Areas for LVL5 players, the BA5-1 - reserved for players whose ELO is greater than 2600
 
