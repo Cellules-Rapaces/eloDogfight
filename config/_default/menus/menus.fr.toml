@@ -101,6 +101,20 @@
   parent = "resultats"
 
 [[main]]
+  name = "Classement F-5E"
+  weight = 160
+  pre = "f-5-h"
+  url = "/resultats/classements/classement_f5e"
+  parent = "resultats"
+
+[[main]]
+  name = "Classement MiG-15Bis"
+  weight = 170
+  pre = "mig15-h"
+  url = "/resultats/classements/classement_mig15bis"
+  parent = "resultats"
+
+[[main]]
   name = "Règles"
   weight = 200
   url = "/regles/"

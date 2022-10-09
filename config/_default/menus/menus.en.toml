@@ -99,7 +99,21 @@
   pre = "ajs37-h"
   url = "/resultats/classements/classement_ajs37"
   parent = "resultats"
-    
+
+[[main]]
+  name = "F-5E Rating"
+  weight = 160
+  pre = "f-5-h"
+  url = "/resultats/classements/classement_f5e"
+  parent = "resultats"
+
+[[main]]
+  name = "MiG-15Bis Rating"
+  weight = 170
+  pre = "mig15-h"
+  url = "/resultats/classements/classement_mig15bis"
+  parent = "resultats"
+
 [[main]]
   name = "Rules"
   weight = 200
