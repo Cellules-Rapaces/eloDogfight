@@ -115,6 +115,13 @@
   parent = "resultats"
 
 [[main]]
+  name = "MiG-19P Rating"
+  weight = 180
+  pre = "mig19-h"
+  url = "/resultats/classements/classement_mig19p"
+  parent = "resultats"
+
+[[main]]
   name = "Rules"
   weight = 200
   url = "/regles/"
