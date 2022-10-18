@@ -19,6 +19,15 @@
 	},
 	{
 		"Classement": 3,
+		"Player": "Dior",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1175,
+		"Combats": 15,
+		"Kill ratio": 2.21,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 4,
 		"Player": "Le Bibs",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1167,
@@ -27,16 +36,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": 5,
 		"Player": "Madmat",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1127,
-		"Combats": 15,
-		"Kill ratio": 0.61,
+		"ELO": 1125,
+		"Combats": 17,
+		"Kill ratio": 0.7,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "SStt",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1124,
@@ -45,7 +54,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 7,
 		"Player": "FrenchEagle",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1122,
@@ -54,21 +63,12 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
-		"Player": "Dior",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1119,
-		"Combats": 10,
-		"Kill ratio": 1.73,
-		"LVL": "LVL1"
-	},
-	{
 		"Classement": 8,
 		"Player": "CoubyStark",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1117,
-		"Combats": 41,
-		"Kill ratio": 0.73,
+		"ELO": 1108,
+		"Combats": 42,
+		"Kill ratio": 0.7,
 		"LVL": "LVL1"
 	},
 	{
