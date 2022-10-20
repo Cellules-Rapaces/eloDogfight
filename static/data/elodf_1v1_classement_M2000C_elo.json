@@ -3,9 +3,9 @@
 		"Classement": 1,
 		"Player": "Asta",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1250,
-		"Combats": 14,
-		"Kill ratio": 2.82,
+		"ELO": 1258,
+		"Combats": 15,
+		"Kill ratio": 3.09,
 		"LVL": "LVL1"
 	},
 	{
@@ -37,20 +37,20 @@
 	},
 	{
 		"Classement": 5,
-		"Player": "Madmat",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1125,
-		"Combats": 17,
-		"Kill ratio": 0.7,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 6,
 		"Player": "SStt",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1124,
 		"Combats": 4,
 		"Kill ratio": 3,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 5,
+		"Player": "Madmat",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1124,
+		"Combats": 21,
+		"Kill ratio": 0.7,
 		"LVL": "LVL1"
 	},
 	{

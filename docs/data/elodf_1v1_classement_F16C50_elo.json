@@ -46,6 +46,15 @@
 	},
 	{
 		"Classement": 6,
+		"Player": "Asta",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1037,
+		"Combats": 1,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 7,
 		"Player": "Le Bibs",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
@@ -54,7 +63,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": 8,
 		"Player": "Stan Hursiak",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
@@ -63,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": 9,
 		"Player": "Willy",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
