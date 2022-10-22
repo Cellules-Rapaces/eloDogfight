@@ -66,9 +66,9 @@
 		"Classement": 8,
 		"Player": "Camelia",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1083,
-		"Combats": 8,
-		"Kill ratio": 0.5,
+		"ELO": 1086,
+		"Combats": 15,
+		"Kill ratio": 0.41,
 		"LVL": "LVL1"
 	},
 	{
@@ -109,6 +109,15 @@
 	},
 	{
 		"Classement": 13,
+		"Player": "Mustapha",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1046,
+		"Combats": 4,
+		"Kill ratio": 0.33,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 14,
 		"Player": "Charly",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1044,
@@ -117,7 +126,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 14,
+		"Classement": 15,
 		"Player": "rq",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
@@ -126,7 +135,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 15,
+		"Classement": 16,
 		"Player": "CoubyStark",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1032,
@@ -135,7 +144,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 16,
+		"Classement": 17,
 		"Player": "AFR3157_2",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1001,
@@ -144,7 +153,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 16,
+		"Classement": 17,
 		"Player": "Jike",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -153,7 +162,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 16,
+		"Classement": 17,
 		"Player": "0Cage0",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
