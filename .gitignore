@@ -3,4 +3,6 @@ public
 resources
 .netlify
 .hugo_build.lock
-static\data\elodf_1v1_data.json
+/static/data/elodf_1v1_data.json
+/docs/data/elodf_1v1_data.json
+.gitignore
