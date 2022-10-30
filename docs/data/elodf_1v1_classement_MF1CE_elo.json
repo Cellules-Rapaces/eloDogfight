@@ -37,6 +37,15 @@
 	},
 	{
 		"Classement": 5,
+		"Player": "Stan Hursiak",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1003,
+		"Combats": 3,
+		"Kill ratio": 0.29,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 6,
 		"Player": "Wolkern721",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
@@ -45,17 +54,8 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 6,
 		"Player": "Le Bibs",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1002,
-		"Combats": 2,
-		"Kill ratio": 0.2,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 5,
-		"Player": "Stan Hursiak",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,

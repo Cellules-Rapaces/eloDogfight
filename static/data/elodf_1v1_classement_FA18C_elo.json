@@ -19,15 +19,6 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Stan Hursiak",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1131,
-		"Combats": 10,
-		"Kill ratio": 0.88,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 4,
 		"Player": "Xartos",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
@@ -36,7 +27,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": 4,
 		"Player": "AFR3157",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1093,
@@ -45,12 +36,21 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": 5,
 		"Player": "FrenchEagle",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1092,
 		"Combats": 5,
 		"Kill ratio": 0.88,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 6,
+		"Player": "Stan Hursiak",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1090,
+		"Combats": 11,
+		"Kill ratio": 0.74,
 		"LVL": "LVL1"
 	},
 	{
