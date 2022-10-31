@@ -23,6 +23,10 @@ Soyez cheuvaleresque et commencez par un croisement au casque !
 ### Que faire si le script AutoSpwan "bugue" ?
 Vous pouvez toujours faire un respawn manuel. Passez spectateur, et reslotez sur votre avion (coordonnez avec l'adversaire). Vous verrez qu'à partir du moment où vous avez un match en cours, le serveur ne vous permettra pas de rejoindre un autre slot.
 
+### Comment connaître mes ELOs et LVL quand je suis dans DCS ?
+Il suffit simplement de poser la question dans le chat (= commande chat **ELOs?**) :
+![ELOs? chat command](Elos.png)
+
 ### Que faire si les deux avions arrivent à court de carburant et parviennent à se poser ?
 Soyez **fairplay** ! Par échange audio/chat entendez-vous pour vous éjecter en même temps. Cela fera une manche "nulle" qui sera à rejouer.
 
@@ -41,6 +45,10 @@ Si quelqu'un voit une manière plus simple/efficace d'empêcher Jester de s'éje
 
 
 ## Choix de conception ELO DogFight
+
+### Comment trouver le serveur ELO Dogfight ?
+Cherchez **Rapace** ou **ELO Dogfight**.
+![DCS Server settings](rapace_server.png)
 
 ### Quels sont les réglages du serveur ?
 ![DCS Server settings](elodf_dcs_server_settings.jpg)

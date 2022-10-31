@@ -23,6 +23,10 @@ Be chivalrous and start with a helmet crossing!
 ### What to do if the AutoSpwan script "bugs"?
 You can still do a manual respawn. Become a spectator, and reslot on your plane (coordinate with the opponent). You will see that from the moment you have a match in progress, the server will not allow you to join another slot.
 
+### How can I know my ELOs and LVL when I'm in DCS?
+Simply ask the question in DCS chat (= **ELOs?** chat command) :
+![ELOs? chat command](Elos.png)
+
 ### What if both planes run out of fuel and manage to land?
 Be **fairplay**! By audio/chat exchange do you mean to eject at the same time. This will make a "null" round which will have to be replayed.
 
@@ -41,6 +45,10 @@ If anyone knows an easier/more effective way to prevent Jester from ejecting, pl
 
 
 ## ELO Dogfight design choices
+
+### How to find ELO Dogfight server?
+Search for **Rapace** or **ELO Dogfight**.
+![DCS Server settings](rapace_server.png)
 
 ### What are server settings?
 ![DCS Server settings](elodf_dcs_server_settings.jpg)
