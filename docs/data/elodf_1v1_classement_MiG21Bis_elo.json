@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 2,
+		"Classement": "<div style='color:red;'>2⯆</div>",
 		"Player": "Darkblue",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,

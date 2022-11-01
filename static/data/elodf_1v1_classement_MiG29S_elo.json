@@ -3,13 +3,13 @@
 		"Classement": 1,
 		"Player": "Le Bibs",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1101,
+		"ELO": 1110,
 		"Combats": 6,
 		"Kill ratio": 1.57,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 2,
+		"Classement": "<div style='color:red;'>2⯆</div>",
 		"Player": "Null",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1073,

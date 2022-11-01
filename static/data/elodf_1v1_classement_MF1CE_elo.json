@@ -45,7 +45,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": "<div style='color:red;'>6⯆</div>",
 		"Player": "Wolkern721",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
@@ -54,7 +54,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": "<div style='color:red;'>6⯆</div>",
 		"Player": "Le Bibs",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,

@@ -9,7 +9,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 2,
+		"Classement": "<div style='color:red;'>2⯆</div>",
 		"Player": "Dior",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": "<div style='color:red;'>3⯆</div>",
 		"Player": "Xartos",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1001,

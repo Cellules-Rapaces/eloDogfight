@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": "<div style='color:green;'>3⯅</div>",
 		"Player": "Xartos",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
@@ -27,16 +27,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": "<div style='color:green;'>4⯅</div>",
 		"Player": "FanBoy",
 		"Country": "<span class=\"fi fi-gf\"></span>",
-		"ELO": 1093,
-		"Combats": 19,
-		"Kill ratio": 0.3,
+		"ELO": 1094,
+		"Combats": 20,
+		"Kill ratio": 0.28,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": "<div style='color:green;'>5⯅</div>",
 		"Player": "FrenchEagle",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1092,
@@ -45,7 +45,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": "<div style='color:red;'>6⯆</div>",
 		"Player": "Stan Hursiak",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1090,
@@ -150,15 +150,6 @@
 		"ELO": 1032,
 		"Combats": 3,
 		"Kill ratio": 0.5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 18,
-		"Player": "FanBoy",
-		"Country": "<span class=\"fi fi-gf\"></span>",
-		"ELO": 1001,
-		"Combats": 1,
-		"Kill ratio": 0,
 		"LVL": "LVL1"
 	},
 	{
