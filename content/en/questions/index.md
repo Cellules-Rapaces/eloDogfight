@@ -5,8 +5,8 @@ lead: "Questions - Answers"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
-toc: true
 images: []
+toc: true
 ---
 
 {{< alert icon="💡" text="Can't find your question? Come ask us on Discord." />}}
