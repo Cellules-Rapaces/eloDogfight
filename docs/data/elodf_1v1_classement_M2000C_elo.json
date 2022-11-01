@@ -3,9 +3,9 @@
 		"Classement": 1,
 		"Player": "Asta",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1292,
-		"Combats": 27,
-		"Kill ratio": 3.26,
+		"ELO": 1298,
+		"Combats": 28,
+		"Kill ratio": 3.42,
 		"LVL": "LVL1"
 	},
 	{
@@ -66,9 +66,9 @@
 		"Classement": 8,
 		"Player": "CoubyStark",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1108,
-		"Combats": 42,
-		"Kill ratio": 0.7,
+		"ELO": 1103,
+		"Combats": 43,
+		"Kill ratio": 0.68,
 		"LVL": "LVL1"
 	},
 	{
@@ -135,7 +135,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>15⯅</div>",
+		"Classement": 15,
 		"Player": "Stan Hursiak",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1003,
@@ -144,7 +144,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>17⯆</div>",
+		"Classement": 17,
 		"Player": "John spa 103",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
