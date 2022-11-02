@@ -1,0 +1,29 @@
+[
+	{
+		"Classement": 1,
+		"Player": "Le Bibs",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1168,
+		"Combats": 7,
+		"Kill ratio": 4.25,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 2,
+		"Player": "Dikennek",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1136,
+		"Combats": 4,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:green;'>3⯅</div>",
+		"Player": "Xartos",
+		"Country": "<span class=\"fi fi-us\"></span>",
+		"ELO": 1104,
+		"Combats": 3,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	}
+]
