@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>3⯅</div>",
+		"Classement": 3,
 		"Player": "Xartos",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
