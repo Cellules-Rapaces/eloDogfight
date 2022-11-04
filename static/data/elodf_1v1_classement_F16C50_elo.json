@@ -39,13 +39,13 @@
 		"Classement": 5,
 		"Player": "PluToN",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1066,
-		"Combats": 3,
-		"Kill ratio": 1.25,
+		"ELO": 1067,
+		"Combats": 4,
+		"Kill ratio": 1,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>6⯅</div>",
+		"Classement": 6,
 		"Player": "Asta",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1037,
@@ -54,7 +54,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>7⯆</div>",
+		"Classement": "<div style='color:green;'>7⯅</div>",
+		"Player": "viking1-1 heimdall",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1036,
+		"Combats": 1,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>8⯆</div>",
 		"Player": "Le Bibs",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
@@ -63,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>8⯆</div>",
+		"Classement": "<div style='color:red;'>9⯆</div>",
 		"Player": "Stan Hursiak",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
@@ -72,7 +81,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>9⯆</div>",
+		"Classement": "<div style='color:red;'>10⯆</div>",
 		"Player": "Willy",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
