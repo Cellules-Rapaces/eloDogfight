@@ -9,16 +9,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>2⯅</div>",
+		"Classement": 2,
 		"Player": "viking1-1 heimdall",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1121,
-		"Combats": 5,
-		"Kill ratio": 2.75,
+		"ELO": 1146,
+		"Combats": 6,
+		"Kill ratio": 2.6,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>3⯆</div>",
+		"Classement": 3,
 		"Player": "FrenchEagle",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
@@ -27,7 +27,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>4⯆</div>",
+		"Classement": 4,
 		"Player": "Wolkern721",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1097,
@@ -48,9 +48,9 @@
 		"Classement": 6,
 		"Player": "PluToN",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1067,
-		"Combats": 4,
-		"Kill ratio": 1,
+		"ELO": 1068,
+		"Combats": 5,
+		"Kill ratio": 0.88,
 		"LVL": "LVL1"
 	},
 	{
