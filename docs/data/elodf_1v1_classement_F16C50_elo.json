@@ -27,7 +27,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": "<div style='color:green;'>4⯅</div>",
+		"Player": "viking1-1 heimdall",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1095,
+		"Combats": 4,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>5⯆</div>",
 		"Player": "SStt",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1076,
@@ -36,16 +45,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
-		"Player": "viking1-1 heimdall",
-		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1068,
-		"Combats": 3,
-		"Kill ratio": 2,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": "<div style='color:red;'>6⯆</div>",
+		"Classement": 6,
 		"Player": "PluToN",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1067,
