@@ -40,18 +40,6 @@ images: []
     </div>
   </div>
 
-  <!-- Podium F-14 -->
-  <div class="col">
-    <div class="card shadow-sm">
-      <img src="../images/Trophy_F14B.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
-      </table>
-      <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> Classement F-14B <span class="icon-f-14-h"></span></a>
-      </div>
-    </div>
-  </div>
-
   <!-- Podium MF1CE -->
   <div class="col">
     <div class="card shadow-sm">
@@ -72,6 +60,90 @@ images: []
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_f16c50"><i class="fas fa-flag-checkered"></i> Classement F-16C <span class="icon-f-16-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium F-14B -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_F14.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_F14B" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> Classement F-14B <span class="icon-f-14-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium MiG-29S -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_MiG29.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_MiG29S" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_mig29s"><i class="fas fa-flag-checkered"></i> Classement MiG-29S <span class="icon-mig29-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium Su-27 -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_Su27.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_Su27" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_su27"><i class="fas fa-flag-checkered"></i> Classement Su-27 <span class="icon-su27-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium Su-33 -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_Su33.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_Su33" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_su33"><i class="fas fa-flag-checkered"></i> Classement Su-33 <span class="icon-su33-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium F-15C -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_F15.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_F15C" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_f15c"><i class="fas fa-flag-checkered"></i> Classement F-15C <span class="icon-f-15-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium MiG-21bis -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_MiG21.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_MiG21bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_mig21bis"><i class="fas fa-flag-checkered"></i> Classement MiG-21bis <span class="icon-mig21-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium MiG-15bis -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_MiG15.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_MiG15bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_mig15bis"><i class="fas fa-flag-checkered"></i> Classement MiG-15bis <span class="icon-mig15-h"></span></a>
       </div>
     </div>
   </div>
