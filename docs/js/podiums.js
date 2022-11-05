@@ -112,10 +112,10 @@ $(document).ready(function () {
       player_F18 += '</tbody>';
 
       //INSERTING ROWS INTO TABLE
-      $('#table_F18').append(player_F18);
+      $('#table_FA18C').append(player_F18);
   });
 
-  // Podium F14C
+  // Podium F14B
   $.getJSON("/data/elodf_1v1_podium_F14B.json",
     function (data) {
       var player_F14 = '';
@@ -170,7 +170,7 @@ $(document).ready(function () {
       player_F14 += '</tbody>';
 
       //INSERTING ROWS INTO TABLE
-      $('#table_F14').append(player_F14);
+      $('#table_F14B').append(player_F14);
   });
 
   // Podium F16C
@@ -289,5 +289,120 @@ $(document).ready(function () {
       $('#table_JF17').append(player_JF17);
   });
 
+  // Podium MF1CE
+  $.getJSON("/data/elodf_1v1_podium_MF1CE.json",
+    function (data) {
+      var player_MF1CE = '';
+
+      player_MF1CE += '<tbody>';
+
+      if (data[0]) {
+        player_MF1CE += '<tr class="text-center " style="font-weight:bold; vertical-align: middle">';
+        player_MF1CE += '<td><img src="/images/medal_gold.png" alt=""></td>';
+
+        player_MF1CE += '<td>' +
+            data[0]["Country"] + '</td>';
+
+        player_MF1CE += '<td>' +
+            data[0]["Player"] + '</td>';
+
+        player_MF1CE += '<td>' +
+            data[0]["ELO"] + '</td>';
+        player_MF1CE += '</tr>';
+      }
+
+      if (data[1]) {
+        player_MF1CE += '<tr class="text-center " style="vertical-align: middle">';
+        player_MF1CE += '<td><img src="/images/medal_silver.png" alt=""></td>';
+
+        player_MF1CE += '<td>' +
+            data[1]["Country"] + '</td>';
+
+        player_MF1CE += '<td>' +
+            data[1]["Player"] + '</td>';
+
+        player_MF1CE += '<td>' +
+            data[1]["ELO"] + '</td>';
+        player_MF1CE += '</tr>';
+      }
+
+      if (data[2]) {
+        player_MF1CE += '<tr class="text-center " style="vertical-align: middle">';
+        player_MF1CE += '<td><img src="/images/medal_bronz.png" alt=""></td>';
+
+        player_MF1CE += '<td>' +
+            data[2]["Country"] + '</td>';
+
+        player_MF1CE += '<td>' +
+            data[2]["Player"] + '</td>';
+
+        player_MF1CE += '<td>' +
+            data[2]["ELO"] + '</td>';
+        player_MF1CE += '</tr>';
+      }
+
+      player_MF1CE += '</tbody>';
+
+      //INSERTING ROWS INTO TABLE
+      $('#table_MF1CE').append(player_MF1CE);
+  });
+
+  // Podium MiG29S
+  $.getJSON("/data/elodf_1v1_podium_MiG29S.json",
+    function (data) {
+      var player_MiG29S = '';
+
+      player_MiG29S += '<tbody>';
+
+      if (data[0]) {
+        player_MiG29S += '<tr class="text-center " style="font-weight:bold; vertical-align: middle">';
+        player_MiG29S += '<td><img src="/images/medal_gold.png" alt=""></td>';
+
+        player_MiG29S += '<td>' +
+            data[0]["Country"] + '</td>';
+
+        player_MiG29S += '<td>' +
+            data[0]["Player"] + '</td>';
+
+        player_MiG29S += '<td>' +
+            data[0]["ELO"] + '</td>';
+        player_MiG29S += '</tr>';
+      }
+
+      if (data[1]) {
+        player_MiG29S += '<tr class="text-center " style="vertical-align: middle">';
+        player_MiG29S += '<td><img src="/images/medal_silver.png" alt=""></td>';
+
+        player_MiG29S += '<td>' +
+            data[1]["Country"] + '</td>';
+
+        player_MiG29S += '<td>' +
+            data[1]["Player"] + '</td>';
+
+        player_MiG29S += '<td>' +
+            data[1]["ELO"] + '</td>';
+        player_MiG29S += '</tr>';
+      }
+
+      if (data[2]) {
+        player_MiG29S += '<tr class="text-center " style="vertical-align: middle">';
+        player_MiG29S += '<td><img src="/images/medal_bronz.png" alt=""></td>';
+
+        player_MiG29S += '<td>' +
+            data[2]["Country"] + '</td>';
+
+        player_MiG29S += '<td>' +
+            data[2]["Player"] + '</td>';
+
+        player_MiG29S += '<td>' +
+            data[2]["ELO"] + '</td>';
+        player_MiG29S += '</tr>';
+      }
+
+      player_MiG29S += '</tbody>';
+
+      //INSERTING ROWS INTO TABLE
+      $('#table_MiG29S').append(player_MiG29S);
+  });
 
 });
