@@ -52,6 +52,18 @@ images: []
     </div>
   </div>
 
+  <!-- Podium MF1CE -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_MF1CE.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_MF1CE" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_mf1ce"><i class="fas fa-flag-checkered"></i> Classement Mirage F1CE <span class="icon-mf1-h"></span></a>
+      </div>
+    </div>
+  </div>
+
   <!-- Podium F-16 -->
   <div class="col">
     <div class="card shadow-sm">
