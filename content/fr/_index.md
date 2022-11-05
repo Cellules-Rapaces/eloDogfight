@@ -8,6 +8,9 @@ draft: false
 images: []
 ---
 
+<!-- Flag icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
+
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
 <section class="section section-sm">
