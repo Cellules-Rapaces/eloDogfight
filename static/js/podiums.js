@@ -7,46 +7,46 @@ $(document).ready(function () {
       player_M2000 += '<tbody>';
 
       if (data[0]) {
-        player_M2000 += '<tr class="text-center fw-bold ">';
-        player_M2000 += '<td class="align-middle "><img src="/images/medal_gold.png" alt=""></td>';
+        player_M2000 += '<tr class="text-center fw-bold " style="vertical-align: middle">';
+        player_M2000 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[0]["Country"] + '</td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[0]["Player"] + '</td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[0]["ELO"] + '</td>';
         player_M2000 += '</tr>';
       }
 
       if (data[1]) {
-        player_M2000 += '<tr class="text-center ">';
-        player_M2000 += '<td class="align-middle "><img src="/images/medal_silver.png" alt=""></td>';
+        player_M2000 += '<tr class="text-center " style="vertical-align: middle">';
+        player_M2000 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[1]["Country"] + '</td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[1]["Player"] + '</td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[1]["ELO"] + '</td>';
         player_M2000 += '</tr>';
       }
 
       if (data[2]) {
-        player_M2000 += '<tr class="text-center ">';
-        player_M2000 += '<td class="align-middle "><img src="/images/medal_bronz.png" alt=""></td>';
+        player_M2000 += '<tr class="text-center " style="vertical-align: middle">';
+        player_M2000 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[2]["Country"] + '</td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[2]["Player"] + '</td>';
 
-        player_M2000 += '<td class="align-middle ">' +
+        player_M2000 += '<td>' +
             data[2]["ELO"] + '</td>';
         player_M2000 += '</tr>';
       }
@@ -65,46 +65,46 @@ $(document).ready(function () {
       player_F18 += '<tbody>';
 
       if (data[0]) {
-        player_F18 += '<tr class="text-center fw-bold ">';
-        player_F18 += '<td class="align-middle "><img src="/images/medal_gold.png" alt=""></td>';
+        player_F18 += '<tr class="text-center fw-bold " style="vertical-align: middle">';
+        player_F18 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[0]["Country"] + '</td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[0]["Player"] + '</td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[0]["ELO"] + '</td>';
         player_F18 += '</tr>';
       }
 
       if (data[1]) {
-        player_F18 += '<tr class="text-center ">';
-        player_F18 += '<td class="align-middle "><img src="/images/medal_silver.png" alt=""></td>';
+        player_F18 += '<tr class="text-center " style="vertical-align: middle">';
+        player_F18 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[1]["Country"] + '</td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[1]["Player"] + '</td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[1]["ELO"] + '</td>';
         player_F18 += '</tr>';
       }
 
       if (data[2]) {
-        player_F18 += '<tr class="text-center ">';
-        player_F18 += '<td class="align-middle "><img src="/images/medal_bronz.png" alt=""></td>';
+        player_F18 += '<tr class="text-center " style="vertical-align: middle">';
+        player_F18 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[2]["Country"] + '</td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[2]["Player"] + '</td>';
 
-        player_F18 += '<td class="align-middle ">' +
+        player_F18 += '<td>' +
             data[2]["ELO"] + '</td>';
         player_F18 += '</tr>';
       }
@@ -123,46 +123,46 @@ $(document).ready(function () {
       player_F14 += '<tbody>';
 
       if (data[0]) {
-        player_F14 += '<tr class="text-center fw-bold ">';
-        player_F14 += '<td class="align-middle "><img src="/images/medal_gold.png" alt=""></td>';
+        player_F14 += '<tr class="text-center fw-bold " style="vertical-align: middle">';
+        player_F14 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[0]["Country"] + '</td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[0]["Player"] + '</td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[0]["ELO"] + '</td>';
         player_F14 += '</tr>';
       }
 
       if (data[1]) {
-        player_F14 += '<tr class="text-center ">';
-        player_F14 += '<td class="align-middle "><img src="/images/medal_silver.png" alt=""></td>';
+        player_F14 += '<tr class="text-center " style="vertical-align: middle">';
+        player_F14 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[1]["Country"] + '</td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[1]["Player"] + '</td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[1]["ELO"] + '</td>';
         player_F14 += '</tr>';
       }
 
       if (data[2]) {
-        player_F14 += '<tr class="text-center ">';
-        player_F14 += '<td class="align-middle "><img src="/images/medal_bronz.png" alt=""></td>';
+        player_F14 += '<tr class="text-center " style="vertical-align: middle">';
+        player_F14 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[2]["Country"] + '</td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[2]["Player"] + '</td>';
 
-        player_F14 += '<td class="align-middle ">' +
+        player_F14 += '<td>' +
             data[2]["ELO"] + '</td>';
         player_F14 += '</tr>';
       }
@@ -181,46 +181,46 @@ $(document).ready(function () {
       player_F16 += '<tbody>';
 
       if (data[0]) {
-        player_F16 += '<tr class="text-center fw-bold ">';
-        player_F16 += '<td class="align-middle "><img src="/images/medal_gold.png" alt=""></td>';
+        player_F16 += '<tr class="text-center fw-bold " style="vertical-align: middle">';
+        player_F16 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[0]["Country"] + '</td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[0]["Player"] + '</td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[0]["ELO"] + '</td>';
         player_F16 += '</tr>';
       }
 
       if (data[1]) {
-        player_F16 += '<tr class="text-center ">';
-        player_F16 += '<td class="align-middle "><img src="/images/medal_silver.png" alt=""></td>';
+        player_F16 += '<tr class="text-center " style="vertical-align: middle">';
+        player_F16 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[1]["Country"] + '</td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[1]["Player"] + '</td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[1]["ELO"] + '</td>';
         player_F16 += '</tr>';
       }
 
       if (data[2]) {
-        player_F16 += '<tr class="text-center ">';
-        player_F16 += '<td class="align-middle "><img src="/images/medal_bronz.png" alt=""></td>';
+        player_F16 += '<tr class="text-center " style="vertical-align: middle">';
+        player_F16 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[2]["Country"] + '</td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[2]["Player"] + '</td>';
 
-        player_F16 += '<td class="align-middle ">' +
+        player_F16 += '<td>' +
             data[2]["ELO"] + '</td>';
         player_F16 += '</tr>';
       }
@@ -239,46 +239,46 @@ $(document).ready(function () {
       player_JF17 += '<tbody>';
 
       if (data[0]) {
-        player_JF17 += '<tr class="text-center fw-bold ">';
-        player_JF17 += '<td class="align-middle "><img src="/images/medal_gold.png" alt=""></td>';
+        player_JF17 += '<tr class="text-center fw-bold " style="vertical-align: middle">';
+        player_JF17 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[0]["Country"] + '</td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[0]["Player"] + '</td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[0]["ELO"] + '</td>';
         player_JF17 += '</tr>';
       }
 
       if (data[1]) {
-        player_JF17 += '<tr class="text-center ">';
-        player_JF17 += '<td class="align-middle "><img src="/images/medal_silver.png" alt=""></td>';
+        player_JF17 += '<tr class="text-center " style="vertical-align: middle">';
+        player_JF17 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[1]["Country"] + '</td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[1]["Player"] + '</td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[1]["ELO"] + '</td>';
         player_JF17 += '</tr>';
       }
 
       if (data[2]) {
-        player_JF17 += '<tr class="text-center ">';
-        player_JF17 += '<td class="align-middle "><img src="/images/medal_bronz.png" alt=""></td>';
+        player_JF17 += '<tr class="text-center " style="vertical-align: middle">';
+        player_JF17 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[2]["Country"] + '</td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[2]["Player"] + '</td>';
 
-        player_JF17 += '<td class="align-middle ">' +
+        player_JF17 += '<td>' +
             data[2]["ELO"] + '</td>';
         player_JF17 += '</tr>';
       }
