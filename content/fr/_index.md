@@ -29,7 +29,7 @@ images: []
   <div class="col">
     <div class="card shadow-sm">
       <img src="../images/Trophy_F18.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F18_norvt" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/classements_F18"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-18-h"></span></a>
@@ -41,7 +41,7 @@ images: []
   <div class="col">
     <div class="card shadow-sm">
       <img src="../images/Trophy_F14B.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F14_norvt" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/classements_F14"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-14-h"></span></a>
@@ -53,7 +53,7 @@ images: []
   <div class="col">
     <div class="card shadow-sm">
       <img src="../images/Trophy_F16.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F16_norvt" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/classements_F16"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-16-h"></span></a>
@@ -65,7 +65,7 @@ images: []
   <div class="col">
     <div class="card shadow-sm">
       <img src="../images/Trophy_JF17.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_JF17_norvt" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/classements_JF17"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-jf-17-h"></span></a>
