@@ -32,7 +32,7 @@ images: []
   <div class="col">
     <div class="card shadow-sm">
       <img src="../images/Trophy_F18.png" class="bd-placeholder-img card-img-top" height="100%">
-      <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      <table id="table_FA18C" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
           <a class="btn btn-dark" href="/resultats/classements/classement_fa18c"><i class="fas fa-flag-checkered"></i> Classement F/A-18C <span class="icon-f-18-h"></span></a>
