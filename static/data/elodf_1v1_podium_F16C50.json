@@ -1,20 +1,20 @@
 [
 	{
+		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Player": "viking1-1 heimdall",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1186,
+		"Combats": 8,
+		"Kill ratio": 3,
+		"LVL": "LVL1"
+	},
+	{
 		"Classement": 1,
 		"Player": "CoubyStark",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1186,
 		"Combats": 9,
 		"Kill ratio": 1.08,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 2,
-		"Player": "viking1-1 heimdall",
-		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1170,
-		"Combats": 7,
-		"Kill ratio": 3.2,
 		"LVL": "LVL1"
 	},
 	{
