@@ -109,20 +109,20 @@
 	},
 	{
 		"Classement": 13,
+		"Player": "PluToN",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1038,
+		"Combats": 3,
+		"Kill ratio": 0.5,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>14⯆</div>",
 		"Player": "Chouca",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1037,
 		"Combats": 3,
 		"Kill ratio": 0.8,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": "<div style='color:green;'>13⯅</div>",
-		"Player": "PluToN",
-		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1037,
-		"Combats": 2,
-		"Kill ratio": 1,
 		"LVL": "LVL1"
 	},
 	{
