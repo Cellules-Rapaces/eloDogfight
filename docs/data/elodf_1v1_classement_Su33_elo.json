@@ -25,5 +25,14 @@
 		"Combats": 2,
 		"Kill ratio": 0,
 		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:green;'>4⯅</div>",
+		"Player": "PluToN",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0,
+		"LVL": "LVL1"
 	}
 ]
