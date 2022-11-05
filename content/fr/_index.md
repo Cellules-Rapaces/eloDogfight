@@ -23,7 +23,7 @@ images: []
       <table id="table_M2000" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/resultats/classements/classement_m2000c"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-M2000-h"></span></a>
+          <a class="btn btn-dark" href="/resultats/classements/classement_m2000c"><i class="fas fa-flag-checkered"></i> Classement M-2000C <span class="icon-M2000-h"></span></a>
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ images: []
       <table id="table_F18" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/classements_F18"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-18-h"></span></a>
+          <a class="btn btn-dark" href="/classements_F18"><i class="fas fa-flag-checkered"></i> Classement F/A-18C <span class="icon-f-18-h"></span></a>
       </div>
     </div>
   </div>
@@ -47,7 +47,7 @@ images: []
       <table id="table_F14" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/classements_F14"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-14-h"></span></a>
+          <a class="btn btn-dark" href="/classements_F14"><i class="fas fa-flag-checkered"></i> Classement F-14B <span class="icon-f-14-h"></span></a>
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@ images: []
       <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/classements_F16"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-f-16-h"></span></a>
+          <a class="btn btn-dark" href="/classements_F16"><i class="fas fa-flag-checkered"></i> Classement F-16C <span class="icon-f-16-h"></span></a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ images: []
       <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/classements_JF17"><i class="fas fa-flag-checkered"></i> Classement <span class="icon-jf-17-h"></span></a>
+          <a class="btn btn-dark" href="/classements_JF17"><i class="fas fa-flag-checkered"></i> Classement JF-17 <span class="icon-jf-17-h"></span></a>
       </div>
     </div>
   </div>
