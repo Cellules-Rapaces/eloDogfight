@@ -634,7 +634,7 @@ $(document).ready(function () {
       player_MiG21Bis += '</tbody>';
 
       //INSERTING ROWS INTO TABLE
-      $('#table_MiG21Bis').append(player_MiG21Bis);
+      $('#table_MiG21bis').append(player_MiG21Bis);
   });
 
   // Podium MiG15Bis
@@ -692,7 +692,7 @@ $(document).ready(function () {
       player_MiG15Bis += '</tbody>';
 
       //INSERTING ROWS INTO TABLE
-      $('#table_MiG15Bis').append(player_MiG15Bis);
+      $('#table_MiG15bis').append(player_MiG15Bis);
   });
-  
+
 });
