@@ -695,4 +695,236 @@ $(document).ready(function () {
       $('#table_MiG15bis').append(player_MiG15Bis);
   });
 
+  // Podium MiG19P
+  $.getJSON("/data/elodf_1v1_podium_MiG19P.json",
+    function (data) {
+      var player_MiG19P = '';
+
+      player_MiG19P += '<tbody>';
+
+      if (data[0]) {
+        player_MiG19P += '<tr class="text-center " style="font-weight:bold; vertical-align: middle">';
+        player_MiG19P += '<td><img src="/images/medal_gold.png" alt=""></td>';
+
+        player_MiG19P += '<td>' +
+            data[0]["Country"] + '</td>';
+
+        player_MiG19P += '<td>' +
+            data[0]["Player"] + '</td>';
+
+        player_MiG19P += '<td>' +
+            data[0]["ELO"] + '</td>';
+        player_MiG19P += '</tr>';
+      }
+
+      if (data[1]) {
+        player_MiG19P += '<tr class="text-center " style="vertical-align: middle">';
+        player_MiG19P += '<td><img src="/images/medal_silver.png" alt=""></td>';
+
+        player_MiG19P += '<td>' +
+            data[1]["Country"] + '</td>';
+
+        player_MiG19P += '<td>' +
+            data[1]["Player"] + '</td>';
+
+        player_MiG19P += '<td>' +
+            data[1]["ELO"] + '</td>';
+        player_MiG19P += '</tr>';
+      }
+
+      if (data[2]) {
+        player_MiG19P += '<tr class="text-center " style="vertical-align: middle">';
+        player_MiG19P += '<td><img src="/images/medal_bronz.png" alt=""></td>';
+
+        player_MiG19P += '<td>' +
+            data[2]["Country"] + '</td>';
+
+        player_MiG19P += '<td>' +
+            data[2]["Player"] + '</td>';
+
+        player_MiG19P += '<td>' +
+            data[2]["ELO"] + '</td>';
+        player_MiG19P += '</tr>';
+      }
+
+      player_MiG19P += '</tbody>';
+
+      //INSERTING ROWS INTO TABLE
+      $('#table_MiG19P').append(player_MiG19P);
+  });
+
+  // Podium F86F
+  $.getJSON("/data/elodf_1v1_podium_F86F.json",
+    function (data) {
+      var player_F86F = '';
+
+      player_F86F += '<tbody>';
+
+      if (data[0]) {
+        player_F86F += '<tr class="text-center " style="font-weight:bold; vertical-align: middle">';
+        player_F86F += '<td><img src="/images/medal_gold.png" alt=""></td>';
+
+        player_F86F += '<td>' +
+            data[0]["Country"] + '</td>';
+
+        player_F86F += '<td>' +
+            data[0]["Player"] + '</td>';
+
+        player_F86F += '<td>' +
+            data[0]["ELO"] + '</td>';
+        player_F86F += '</tr>';
+      }
+
+      if (data[1]) {
+        player_F86F += '<tr class="text-center " style="vertical-align: middle">';
+        player_F86F += '<td><img src="/images/medal_silver.png" alt=""></td>';
+
+        player_F86F += '<td>' +
+            data[1]["Country"] + '</td>';
+
+        player_F86F += '<td>' +
+            data[1]["Player"] + '</td>';
+
+        player_F86F += '<td>' +
+            data[1]["ELO"] + '</td>';
+        player_F86F += '</tr>';
+      }
+
+      if (data[2]) {
+        player_F86F += '<tr class="text-center " style="vertical-align: middle">';
+        player_F86F += '<td><img src="/images/medal_bronz.png" alt=""></td>';
+
+        player_F86F += '<td>' +
+            data[2]["Country"] + '</td>';
+
+        player_F86F += '<td>' +
+            data[2]["Player"] + '</td>';
+
+        player_F86F += '<td>' +
+            data[2]["ELO"] + '</td>';
+        player_F86F += '</tr>';
+      }
+
+      player_F86F += '</tbody>';
+
+      //INSERTING ROWS INTO TABLE
+      $('#table_F86F').append(player_F86F);
+  });
+
+  // Podium AJS37
+  $.getJSON("/data/elodf_1v1_podium_AJS37.json",
+    function (data) {
+      var player_AJS37 = '';
+
+      player_AJS37 += '<tbody>';
+
+      if (data[0]) {
+        player_AJS37 += '<tr class="text-center " style="font-weight:bold; vertical-align: middle">';
+        player_AJS37 += '<td><img src="/images/medal_gold.png" alt=""></td>';
+
+        player_AJS37 += '<td>' +
+            data[0]["Country"] + '</td>';
+
+        player_AJS37 += '<td>' +
+            data[0]["Player"] + '</td>';
+
+        player_AJS37 += '<td>' +
+            data[0]["ELO"] + '</td>';
+        player_AJS37 += '</tr>';
+      }
+
+      if (data[1]) {
+        player_AJS37 += '<tr class="text-center " style="vertical-align: middle">';
+        player_AJS37 += '<td><img src="/images/medal_silver.png" alt=""></td>';
+
+        player_AJS37 += '<td>' +
+            data[1]["Country"] + '</td>';
+
+        player_AJS37 += '<td>' +
+            data[1]["Player"] + '</td>';
+
+        player_AJS37 += '<td>' +
+            data[1]["ELO"] + '</td>';
+        player_AJS37 += '</tr>';
+      }
+
+      if (data[2]) {
+        player_AJS37 += '<tr class="text-center " style="vertical-align: middle">';
+        player_AJS37 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
+
+        player_AJS37 += '<td>' +
+            data[2]["Country"] + '</td>';
+
+        player_AJS37 += '<td>' +
+            data[2]["Player"] + '</td>';
+
+        player_AJS37 += '<td>' +
+            data[2]["ELO"] + '</td>';
+        player_AJS37 += '</tr>';
+      }
+
+      player_AJS37 += '</tbody>';
+
+      //INSERTING ROWS INTO TABLE
+      $('#table_AJS37').append(player_AJS37);
+  });
+
+  // Podium F5E
+  $.getJSON("/data/elodf_1v1_podium_F5E.json",
+    function (data) {
+      var player_F5E = '';
+
+      player_F5E += '<tbody>';
+
+      if (data[0]) {
+        player_F5E += '<tr class="text-center " style="font-weight:bold; vertical-align: middle">';
+        player_F5E += '<td><img src="/images/medal_gold.png" alt=""></td>';
+
+        player_F5E += '<td>' +
+            data[0]["Country"] + '</td>';
+
+        player_F5E += '<td>' +
+            data[0]["Player"] + '</td>';
+
+        player_F5E += '<td>' +
+            data[0]["ELO"] + '</td>';
+        player_F5E += '</tr>';
+      }
+
+      if (data[1]) {
+        player_F5E += '<tr class="text-center " style="vertical-align: middle">';
+        player_F5E += '<td><img src="/images/medal_silver.png" alt=""></td>';
+
+        player_F5E += '<td>' +
+            data[1]["Country"] + '</td>';
+
+        player_F5E += '<td>' +
+            data[1]["Player"] + '</td>';
+
+        player_F5E += '<td>' +
+            data[1]["ELO"] + '</td>';
+        player_F5E += '</tr>';
+      }
+
+      if (data[2]) {
+        player_F5E += '<tr class="text-center " style="vertical-align: middle">';
+        player_F5E += '<td><img src="/images/medal_bronz.png" alt=""></td>';
+
+        player_F5E += '<td>' +
+            data[2]["Country"] + '</td>';
+
+        player_F5E += '<td>' +
+            data[2]["Player"] + '</td>';
+
+        player_F5E += '<td>' +
+            data[2]["ELO"] + '</td>';
+        player_F5E += '</tr>';
+      }
+
+      player_F5E += '</tbody>';
+
+      //INSERTING ROWS INTO TABLE
+      $('#table_F5E').append(player_F5E);
+  });
+
 });
