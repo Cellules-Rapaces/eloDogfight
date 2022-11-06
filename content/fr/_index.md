@@ -160,6 +160,54 @@ images: []
     </div>
   </div>
 
+  <!-- Podium F-5E -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_F5E.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_F5E" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_f5e"><i class="fas fa-flag-checkered"></i> Classement F-5E <span class="icon-f-5-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium AJS37 -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_AJS37.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_AJS37" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_ajs37"><i class="fas fa-flag-checkered"></i> Classement AJS-37 <span class="icon-ajs37-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium MiG-19P -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_MiG19.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_MiG19P" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_mig19p"><i class="fas fa-flag-checkered"></i> Classement MiG-19P <span class="icon-mig19-h"></span></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Podium F-86F -->
+  <div class="col">
+    <div class="card shadow-sm">
+      <img src="../images/Trophy_F86.png" class="bd-placeholder-img card-img-top" height="100%">
+      <table id="table_F86F" class="table table-secondary table-striped table-hover mb-0 mt-0">
+      </table>
+      <div class="py-2 mx-auto">
+          <a class="btn btn-dark" href="/resultats/classements/classement_f86f"><i class="fas fa-flag-checkered"></i> Classement F-86F <span class="icon-f-86-h"></span></a>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 </section>
