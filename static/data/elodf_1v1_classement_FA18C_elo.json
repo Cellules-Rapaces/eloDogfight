@@ -100,6 +100,24 @@
 	},
 	{
 		"Classement": 12,
+		"Player": "Madmat",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1.25,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:green;'>12⯅</div>",
+		"Player": "CoubyStark",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1065,
+		"Combats": 4,
+		"Kill ratio": 0.71,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>14⯆</div>",
 		"Player": "Hipgnosie",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1064,
@@ -108,16 +126,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
-		"Player": "Madmat",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1064,
-		"Combats": 2,
-		"Kill ratio": 2,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 14,
+		"Classement": "<div style='color:red;'>15⯆</div>",
 		"Player": "Mustapha",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1046,
@@ -126,7 +135,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 15,
+		"Classement": "<div style='color:red;'>16⯆</div>",
 		"Player": "Charly",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1044,
@@ -135,19 +144,10 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 16,
+		"Classement": "<div style='color:red;'>17⯆</div>",
 		"Player": "rq",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
-		"Combats": 3,
-		"Kill ratio": 0.5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 17,
-		"Player": "CoubyStark",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1032,
 		"Combats": 3,
 		"Kill ratio": 0.5,
 		"LVL": "LVL1"
