@@ -12,6 +12,7 @@ Page de stats CoubyStark
   <canvas id="myChart"></canvas>
 </div>
 
+"data/elodf_1v1_stats_CoubyStark.json"
 
 <!-- chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -56,12 +57,9 @@ Page de stats CoubyStark
           from: 1,
           to: 0,
           loop: false
-        };
-      };
-      scales: {
-            reverse: true;
-        };
-    };
+        }
+      }
+    }
   };
 
   const myChart = new Chart(
