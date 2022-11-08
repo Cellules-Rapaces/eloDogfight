@@ -14,31 +14,7 @@ images: []
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
 
-<div class="card mb-4 text-white bg-primary">
-<div class="card-body pb-0 d-flex justify-content-between align-items-start">
-  <div>
-    <div class="fs-4 fw-semibold">26K</div>
-    <div>Users</div>
-  </div>
-</div>
-<div class="c-chart-wrapper mt-3 mx-3" style="height:70px;">
-  <canvas class="chart" id="card-chart1" style="display: block; box-sizing: border-box; height: 70px; width: 272px;" width="272" height="70"></canvas>
-  <div class="chartjs-tooltip" style="opacity: 0; left: 21px; top: 120.186px;">
-    <table style="margin: 0px;">
-      <thead class="chartjs-tooltip-header">
-        <tr style="border-width: 0px;" class="chartjs-tooltip-header-item">
-          <th style="border-width: 0px;">January</th>
-        </tr>
-      </thead>
-      <tbody class="chartjs-tooltip-body">
-        <tr class="chartjs-tooltip-body-item">
-          <td style="border-width: 0px;"><span style="background: rgb(50, 31, 219); border-color: rgba(255, 255, 255, 0.55); border-width: 2px; margin-right: 10px; height: 10px; width: 10px; display: inline-block;"></span>My First dataset: 65</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-</div>
+<h1><span class="badge bg-primary">💥Combats : 200</span>  <span class="badge bg-secondary">🤼Fighters : 30</span></h1>
 
 <section class="section section-sm">
 <!-- Podium -->
