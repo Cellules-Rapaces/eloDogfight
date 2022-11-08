@@ -48,7 +48,20 @@ Page de stats CoubyStark
   const config = {
     type: 'line',
     data: data,
-    options: {}
+    options: {
+      animations: {
+        tension: {
+          duration: 100,
+          easing: 'linear',
+          from: 1,
+          to: 0,
+          loop: false
+        };
+      };
+      scales: {
+            reverse: true;
+        };
+    };
   };
 
   const myChart = new Chart(
