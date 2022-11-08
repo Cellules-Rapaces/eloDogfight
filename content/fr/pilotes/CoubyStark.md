@@ -40,8 +40,8 @@ Page de stats CoubyStark
     labels: labels,
     datasets: [{
       label: 'M-2000C ELOs',
-      backgroundColor: 'rgb(255, 99, 132)',
-      borderColor: 'rgb(255, 99, 132)',
+      backgroundColor: 'rgb(19, 64, 206)',
+      borderColor: 'rgb(19, 64, 206)',
       data: data_m2000c_elos,
     }]
   };
