@@ -58,7 +58,14 @@ Page de stats CoubyStark
           to: 0,
           loop: false
         }
-      }
+      },
+      scales: {
+  yAxes: [{
+    ticks: {
+      reverse: true,
+    }
+  }]
+},
     }
   };
 
