@@ -9,7 +9,7 @@ images: []
 Page de stats CoubyStark
 
 <div>
-  <canvas id="myChart"></canvas>
+  <canvas id="m2000c_elos"></canvas>
 </div>
 
 "data/elodf_1v1_stats_CoubyStark.json"
@@ -39,7 +39,7 @@ Page de stats CoubyStark
   const data = {
     labels: labels,
     datasets: [{
-      label: 'My First dataset',
+      label: 'M-2000C ELOs',
       backgroundColor: 'rgb(255, 99, 132)',
       borderColor: 'rgb(255, 99, 132)',
       data: data_m2000c_elos,
@@ -60,17 +60,13 @@ Page de stats CoubyStark
         }
       },
       scales: {
-  yAxes: [{
-    ticks: {
-      reverse: true,
-    }
-  }]
-},
+        x: {reverse: true}
+      }
     }
   };
 
   const myChart = new Chart(
-    document.getElementById('myChart'),
+    document.getElementById('m2000c_elos'),
     config
   );
 </script>
