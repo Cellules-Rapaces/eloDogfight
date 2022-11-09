@@ -37,7 +37,7 @@ $.ajax({
 const data_all_elos_Chart = {
   labels: labels_all_elos_Chart,
   datasets: [{
-    label: 'ELOs par avion',
+    label: 'ELOs par avion utilisé',
     backgroundColor: 'rgb(19, 64, 206)',
     borderColor: 'rgb(19, 64, 206)',
     data: data_all_elos,
@@ -67,6 +67,7 @@ const all_elos_Chart = new Chart(
 
 // On balaye les avions utilisés pour construire les graphiques de ELOs
 for (j = 0; j < labels_all_elos_Chart.length; j++) {
+  console.log(labels_all_elos_Chart[j]);
   data_elos_Chart[labels_all_elos_Chart[j]] = {
     labels: labels_elos_Chart[labels_all_elos_Chart[j]],
     datasets: [{
@@ -97,8 +98,27 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   };
 
   var ref_graph = labels_all_elos_Chart[j] + "_elos";
+  var ref_class = "."+labels_all_elos_Chart[j];
+  $(ref_class).replaceWith('<div class="col">'+
+    '<div><canvas id='+ref_graph+'></canvas></div>'+
+    '</div>'+
+    '<div class="col">'+
+      '<div class="card shadow-sm">'+
+        '<div class="card-body">'+
+          '<h3>'+ labels_all_elos_Chart[j] +' stats</h3>'+
+          'Nombre de matchs joués : <br />'+
+          'Victoires : <br />'+
+          'Défaites : <br />'+
+          'Kill ratio : <br />'+
+          '<br />'+
+        '</div>'+
+      '</div>'+
+    '</div>'+
+    '<div class="w-100"></div>');
+
   elos_Chart[labels_all_elos_Chart[j]] = new Chart(
     document.getElementById(ref_graph),
     config_elos_Chart[labels_all_elos_Chart[j]]
   );
+
 };

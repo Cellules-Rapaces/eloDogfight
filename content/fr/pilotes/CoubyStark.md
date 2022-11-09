@@ -30,50 +30,25 @@ images: []
 
   <div class="w-100"></div>
 
-  <div class="col">
-    <div>
-      <canvas id="M2000C_elos"></canvas>
-    </div>
-  </div>
-
-  <div class="col">
-    <div>
-      <canvas id="FA18C_elos"></canvas>
-    </div>
-  </div>
-
-  <div class="w-100"></div>
-
-  <div class="col">
-    <div>
-      <canvas id="F16C50_elos"></canvas>
-    </div>
-  </div>
-
-  <div class="col">
-    <div>
-      <canvas id="F15C_elos"></canvas>
-    </div>
-  </div>
-
-  <div class="w-100"></div>
-
-  <div class="col">
-    <div>
-      <canvas id="Su27_elos"></canvas>
-    </div>
-  </div>
-
-  <div class="col">
-    <div>
-      <canvas id="MiG29S_elos"></canvas>
-    </div>
-  </div>
-
-  <div class="w-100"></div>
-
+  <div class="M2000C"></div>
+  <div class="FA18C"></div>
+  <div class="F16C50"></div>
+  <div class="F15C"></div>
+  <div class="Su27"></div>
+  <div class="MiG29S"></div>
   <div class="JF17"></div>
   <div class="F14B"></div>
+  <div class="Su33"></div>
+  <div class="F14A"></div>
+  <div class="MiG21Bis"></div>
+  <div class="F5E"></div>
+  <div class="F86F"></div>
+  <div class="L39C"></div>
+  <div class="MiG19P"></div>
+  <div class="AV8B"></div>
+  <div class="AJS37"></div>
+  <div class="MiG15Bis"></div>
+  <div class="C101CC"></div>
   <div class="MF1CE"></div>
 
 </div>
@@ -195,7 +170,7 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
     '<div class="col">'+
       '<div class="card shadow-sm">'+
         '<div class="card-body">'+
-          '<h3>'+ labels_all_elos_Chart[j] +'stats</h3>'+
+          '<h3>'+ labels_all_elos_Chart[j] +' stats</h3>'+
           'Nombre de matchs joués : <br />'+
           'Victoires : <br />'+
           'Défaites : <br />'+
