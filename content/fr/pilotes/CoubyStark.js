@@ -13,9 +13,13 @@ $.ajax({
         {
           if (data_pilote != "") {
             // Construction table des ELOs
-            for (j = 2; j < data_pilote.length; j++) {
-              labels_all_elos_Chart.push(data_pilote[j]);
-              data_all_elos.push(data_pilote[j].ELO);
+            for (j = 0; j < elodf_aircraft_keys.length; j++) {
+              var ac_key = elodf_aircraft_keys[j];
+              if (data_pilote[ac_key]) {
+                console.log(ac_key);
+                labels_all_elos_Chart.push(ac_key);
+                data_all_elos.push(data_pilote[ac_key].ELO[0]);
+              };
             };
 
             // Data tableau ELOs M2000C
