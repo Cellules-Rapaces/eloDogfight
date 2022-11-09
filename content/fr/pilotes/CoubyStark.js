@@ -29,8 +29,13 @@ $.ajax({
             for (j = 0; j < labels_all_elos_Chart.length; j++) {
               // Axe X
               labels_elos_Chart[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Match_date;
+              var popp = labels_elos_Chart[labels_all_elos_Chart[j]].pop();
+              // Axe Y ELOs
               data_elos[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].ELO;
+              var popp = data_elos[labels_all_elos_Chart[j]].pop();
+              // Axe Y1 Classements
               data_classements[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Ratings;
+              var popp = data_classements[labels_all_elos_Chart[j]].pop();
             };
           }
         }
