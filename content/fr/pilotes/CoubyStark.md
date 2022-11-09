@@ -72,11 +72,7 @@ images: []
 
   <div class="w-100"></div>
 
-  <div class="col">
-    <div>
-      <canvas id="JF17_elos"></canvas>
-    </div>
-  </div>
+  <div class="JF17"></div>
 
 </div>
 
@@ -193,5 +189,9 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
     document.getElementById(ref_graph),
     config_elos_Chart[labels_all_elos_Chart[j]]
   );
+
+  var ref_class = "."+labels_all_elos_Chart[j];
+  $(ref_class).replaceWith('<div class="col"><div><canvas id='+ref_graph+'></canvas></div></div>');
+
 };
 </script>
