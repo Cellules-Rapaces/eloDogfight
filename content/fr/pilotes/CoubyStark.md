@@ -56,12 +56,10 @@ $.ajax({
           if (data_pilote != "") {
             // Construction table des ELOs
             for (j = 0; j < elodf_aircraft_keys.length; j++) {
-              var ackey = elodf_aircraft_keys[j];console.log(ackey);
-              console.log(data_pilote.ackey);
-              if (data_pilote.ackey) {
-                console.log(ackey);
-                labels_all_elos_Chart.push(ackey);
-                data_all_elos.push(data_pilote.ackey.ELO);
+              var ac_key = elodf_aircraft_keys[j];
+              if (data_pilote.ac_key != undefined) {
+                labels_all_elos_Chart.push(ac_key);
+                data_all_elos.push(data_pilote.ac_key.ELO);
               };
             };
             console.log(labels_all_elos_Chart);
