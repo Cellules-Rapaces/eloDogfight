@@ -58,13 +58,10 @@ $.ajax({
             for (j = 0; j < elodf_aircraft_keys.length; j++) {
               var ac_key = elodf_aircraft_keys[j];
               if (data_pilote[ac_key]) {
-                console.log(ac_key);
                 labels_all_elos_Chart.push(ac_key);
                 data_all_elos.push(data_pilote[ac_key].ELO[0]);
               };
             };
-            console.log(labels_all_elos_Chart);
-            console.log(data_all_elos);
 
             // Data tableau ELOs M2000C
             labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date;
@@ -72,4 +69,44 @@ $.ajax({
           }
         }
         });
+
+console.log(labels_all_elos_Chart);
+console.log(labels_m2000c_elos_Chart);
+console.log(data_all_elos);
+console.log(data_m2000c_elos);
+
+const data_all_elos_Chart = {
+  labels: labels_all_elos_Chart,
+  datasets: [{
+    label: 'ELOs par avion',
+    backgroundColor: 'rgb(19, 64, 206)',
+    borderColor: 'rgb(19, 64, 206)',
+    data: data_all_elos,
+  }]
+};
+
+const config_all_elos_Chart = {
+  type: 'bar',
+  data: data_all_elos_Chart,
+  options: {
+    animations: {
+      tension: {
+        duration: 100,
+        easing: 'linear',
+        from: 1,
+        to: 0,
+        loop: false
+      }
+    },
+    scales: {
+      x: {reverse: true}
+    }
+  }
+};
+
+const all_elos_Chart = new Chart(
+  document.getElementById('all_elos'),
+  config_all_elos_Chart
+);
+
 </script>
