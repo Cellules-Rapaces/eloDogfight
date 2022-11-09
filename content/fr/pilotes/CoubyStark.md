@@ -45,6 +45,8 @@ var labels_all_elos_Chart = [];
 var data_all_elos =[];
 var labels_m2000c_elos_Chart = [];
 var data_m2000c_elos = [];
+const elodf_aircraft_keys = ["M2000C","FA18C","F16C50","F15C","Su27","MiG29S","JF17","F14B","Su33","F14A","MiG21Bis","F5E","F86F","L39C","MiG19P","AV8B","AJS37","MiG15Bis","C101CC","MF1CE"];
+
 $.ajax({
         async:false,
         url: '../../data/elodf_1v1_stats_CoubyStark.json',
@@ -53,12 +55,11 @@ $.ajax({
         {
           if (data_pilote != "") {
             // Construction table des ELOs
-            for (j = 2; j < 10; j++) {
-              console.log(data_pilote[j]);
-              if (data_pilote[j] != undefined) {
-                labels_all_elos_Chart.push(data_pilote[j]);
-                data_all_elos.push(data_pilote[j].ELO);
-              };
+            for (j = 0; j < elodf_aircraft_keys.length; j++) {
+              console.log(elodf_aircraft_keys[j]);
+              console.log(data_pilote);
+              var temp = elodf_aircraft_keys[j];
+              console.log(data_pilote.temp);
             };
             console.log(labels_all_elos_Chart);
             console.log(data_pilote);
