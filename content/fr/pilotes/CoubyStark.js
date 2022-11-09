@@ -1,5 +1,6 @@
-var labels = [];
+var labels_m2000c_elos_Chart = [];
 var data_m2000c_elos = [];
+const elodf_aircraft_keys = ["M2000C","FA18C","F16C50","F15C","Su27","MiG29S","JF17","F14B","Su33","F14A","MiG21Bis","F5E","F86F","L39C","MiG19P","AV8B","AJS37","MiG15Bis","C101CC","MF1CE"];
 
 // Chargement des datas du pilote
 $.ajax({
@@ -8,10 +9,15 @@ $.ajax({
         dataType: 'json',
         success: function(data_pilote)
         {
-          // Data tableau ELOs M2000C
           if (data_pilote != "") {
-            labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date; // axe X
-            data_m2000c_elos = data_pilote.M2000C.ELO;                // axe Y
+            // Construction table des ELOs
+            for (j = 0; j < elodf_aircraft_keys.length; j++) {
+              //
+            };
+
+            // Data tableau ELOs M2000C
+            labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date;
+            data_m2000c_elos = data_pilote.M2000C.ELO;
           }
         }
         });
