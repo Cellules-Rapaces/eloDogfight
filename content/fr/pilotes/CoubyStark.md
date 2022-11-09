@@ -53,12 +53,15 @@ $.ajax({
         {
           if (data_pilote != "") {
             // Construction table des ELOs
-            for (j = 2; j < data_pilote.length; j++) {
-              labels_all_elos_Chart.push(data_pilote[j]);
-              data_all_elos.push(data_pilote[j].ELO);
+            for (j = 2; j < 10; j++) {
+              console.log(data_pilote[j]);
+              if (data_pilote[j] != undefined) {
+                labels_all_elos_Chart.push(data_pilote[j]);
+                data_all_elos.push(data_pilote[j].ELO);
+              };
             };
             console.log(labels_all_elos_Chart);
-            console.log(data_pilote.length);
+            console.log(data_pilote);
 
             // Data tableau ELOs M2000C
             labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date;
