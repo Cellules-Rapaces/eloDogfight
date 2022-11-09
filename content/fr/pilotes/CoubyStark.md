@@ -191,7 +191,20 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   var ref_class = "."+labels_all_elos_Chart[j];
   $(ref_class).replaceWith('<div class="col">'+
     '<div><canvas id='+ref_graph+'></canvas></div>'+
-    '</div>');
+    '</div>'+
+    '<div class="col">'+
+      '<div class="card shadow-sm">'+
+        '<div class="card-body">'+
+          '<h3>'+ labels_all_elos_Chart[j] +'stats</h3>'+
+          'Nombre de matchs joués : <br />'+
+          'Victoires : <br />'+
+          'Défaites : <br />'+
+          'Kill ratio : <br />'+
+          '<br />'+
+        '</div>'+
+      '</div>'+
+    '</div>'+
+    '<div class="w-100"></div>');
 
   elos_Chart[labels_all_elos_Chart[j]] = new Chart(
     document.getElementById(ref_graph),
