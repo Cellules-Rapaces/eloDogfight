@@ -4,7 +4,6 @@ description: ""
 lead: "CoubyStark"
 draft: false
 images: []
-type: blog
 ---
 
 <section class="section section-sm">
@@ -12,10 +11,12 @@ type: blog
 
   <div class="col">
     <div class="card shadow-sm">
-      <h3>Statistiques générales</h3>
-      Nombre de matchs joués : <br />
-      Victoires : <br />
-      Défaites : <br />
+      <div class="card-body">
+        <h3>Statistiques générales</h3>
+        Nombre de matchs joués : <br />
+        Victoires : <br />
+        Défaites : <br />
+      </div>
     </div>
   </div>
 
