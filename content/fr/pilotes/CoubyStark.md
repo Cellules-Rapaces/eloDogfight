@@ -67,6 +67,7 @@ var labels_all_elos_Chart = [];
 var data_all_elos =[];
 var labels_elos_Chart = [];
 var data_elos = [];
+var data_classements = [];
 var data_elos_Chart = [];
 var config_elos_Chart = [];
 var elos_Chart = [];
@@ -94,6 +95,7 @@ $.ajax({
               // Axe X
               labels_elos_Chart[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Match_date;
               data_elos[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].ELO;
+              data_classements[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Ratings;
             };
           }
         }
@@ -140,7 +142,14 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
       backgroundColor: 'rgb(19, 64, 206)',
       borderColor: 'rgb(19, 64, 206)',
       data: data_elos[labels_all_elos_Chart[j]],
-    }]
+    },
+    {
+      label: labels_all_elos_Chart[j] + ' Classements',
+      backgroundColor: 'rgb(255, 99, 132)',
+      borderColor: 'rgb(255, 99, 132)',
+      data: data_classements[labels_all_elos_Chart[j]],
+    }
+  ]
   };
 
   config_elos_Chart[labels_all_elos_Chart[j]] = {
