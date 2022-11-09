@@ -56,13 +56,16 @@ $.ajax({
           if (data_pilote != "") {
             // Construction table des ELOs
             for (j = 0; j < elodf_aircraft_keys.length; j++) {
-              console.log(elodf_aircraft_keys[j]);
-              console.log(data_pilote);
-              var temp = elodf_aircraft_keys[j];
-              console.log(data_pilote.temp);
+              var ackey = elodf_aircraft_keys[j];console.log(ackey);
+              console.log(data_pilote.ackey);
+              if (data_pilote.ackey) {
+                console.log(ackey);
+                labels_all_elos_Chart.push(ackey);
+                data_all_elos.push(data_pilote.ackey.ELO);
+              };
             };
             console.log(labels_all_elos_Chart);
-            console.log(data_pilote);
+            console.log(data_all_elos);
 
             // Data tableau ELOs M2000C
             labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date;
