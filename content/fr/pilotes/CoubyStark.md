@@ -4,25 +4,25 @@ description: ""
 lead: "CoubyStark"
 draft: false
 images: []
+type: blog
 ---
 
-<div>
-  <canvas id="m2000c_elos"></canvas>
-</div>
-
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 pt-4 g-3">
+<section class="section section-sm">
+<div class="row pt-4 pb-4 g-2">
 
   <div class="col">
     <div class="card shadow-sm">
       <h3>Statistiques générales</h3>
-      Nombre de matchs joués :
-      Victoires :
-      Défaites :
+      Nombre de matchs joués : <br />
+      Victoires : <br />
+      Défaites : <br />
     </div>
   </div>
 
   <div class="col">
-
+    <div>
+      <canvas id="m2000c_elos"></canvas>
+    </div>
   </div>
 
 </div>
@@ -30,7 +30,7 @@ images: []
 <div>
   <canvas id="m2000c_elos"></canvas>
 </div>
-
+</section">
 
 <!-- chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
