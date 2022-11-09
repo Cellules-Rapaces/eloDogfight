@@ -16,6 +16,7 @@ images: []
         Nombre de matchs joués : <br />
         Victoires : <br />
         Défaites : <br />
+        Kill ratio : <br />
         <br />
       </div>
     </div>
@@ -39,7 +40,7 @@ images: []
 <!-- jQuery 3.5.1 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 <!-- stats pilote -->
-<script src="../../js/CoubyStark.js"></script>
+<!-- <script src="../../js/CoubyStark.js"></script> -->
 <script>
 var labels_all_elos_Chart = [];
 var data_all_elos =[];
@@ -70,11 +71,6 @@ $.ajax({
         }
         });
 
-console.log(labels_all_elos_Chart);
-console.log(labels_m2000c_elos_Chart);
-console.log(data_all_elos);
-console.log(data_m2000c_elos);
-
 const data_all_elos_Chart = {
   labels: labels_all_elos_Chart,
   datasets: [{
@@ -97,9 +93,6 @@ const config_all_elos_Chart = {
         to: 0,
         loop: false
       }
-    },
-    scales: {
-      x: {reverse: true}
     }
   }
 };
@@ -107,6 +100,40 @@ const config_all_elos_Chart = {
 const all_elos_Chart = new Chart(
   document.getElementById('all_elos'),
   config_all_elos_Chart
+);
+
+const data_m2000c_elos_Chart = {
+  labels: labels_m2000c_elos_Chart,
+  datasets: [{
+    label: 'M-2000C ELOs',
+    backgroundColor: 'rgb(19, 64, 206)',
+    borderColor: 'rgb(19, 64, 206)',
+    data: data_m2000c_elos,
+  }]
+};
+
+const config_m2000c_elos_Chart = {
+  type: 'line',
+  data: data_m2000c_elos_Chart,
+  options: {
+    animations: {
+      tension: {
+        duration: 100,
+        easing: 'linear',
+        from: 1,
+        to: 0,
+        loop: false
+      }
+    },
+    scales: {
+      x: {reverse: true}
+    }
+  }
+};
+
+const m2000c_elos_Chart = new Chart(
+  document.getElementById('m2000c_elos'),
+  config_m2000c_elos_Chart
 );
 
 </script>
