@@ -8,16 +8,15 @@ $.ajax({
         dataType: 'json',
         success: function(data_pilote)
         {
-          // Data tableau ELOs M2000C
           if (data_pilote != "") {
-            labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date; // axe X
-            data_m2000c_elos = data_pilote.M2000C.ELO;                // axe Y
+            labels = data_pilote.M2000C.Match_date;
+            data_m2000c_elos = data_pilote.M2000C.ELO;
           }
         }
         });
 
-const data_m2000c_elos_Chart = {
-  labels: labels_m2000c_elos_Chart,
+const data = {
+  labels: labels,
   datasets: [{
     label: 'M-2000C ELOs',
     backgroundColor: 'rgb(19, 64, 206)',
@@ -26,9 +25,9 @@ const data_m2000c_elos_Chart = {
   }]
 };
 
-const config_m2000c_elos_Chart = {
+const config = {
   type: 'line',
-  data: data_m2000c_elos_Chart,
+  data: data,
   options: {
     animations: {
       tension: {
@@ -45,7 +44,7 @@ const config_m2000c_elos_Chart = {
   }
 };
 
-const m2000c_elos_Chart = new Chart(
+const myChart = new Chart(
   document.getElementById('m2000c_elos'),
-  config_m2000c_elos_Chart
+  config
 );
