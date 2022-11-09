@@ -73,6 +73,8 @@ images: []
   <div class="w-100"></div>
 
   <div class="JF17"></div>
+  <div class="F14B"></div>
+  <div class="MF1CE"></div>
 
 </div>
 
@@ -155,6 +157,7 @@ const all_elos_Chart = new Chart(
 
 // On balaye les avions utilisés pour construire les graphiques de ELOs
 for (j = 0; j < labels_all_elos_Chart.length; j++) {
+  console.log(labels_all_elos_Chart[j]);
   data_elos_Chart[labels_all_elos_Chart[j]] = {
     labels: labels_elos_Chart[labels_all_elos_Chart[j]],
     datasets: [{
@@ -185,13 +188,15 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   };
 
   var ref_graph = labels_all_elos_Chart[j] + "_elos";
+  var ref_class = "."+labels_all_elos_Chart[j];
+  $(ref_class).replaceWith('<div class="col">'+
+    '<div><canvas id='+ref_graph+'></canvas></div>'+
+    '</div>');
+
   elos_Chart[labels_all_elos_Chart[j]] = new Chart(
     document.getElementById(ref_graph),
     config_elos_Chart[labels_all_elos_Chart[j]]
   );
-
-  var ref_class = "."+labels_all_elos_Chart[j];
-  $(ref_class).replaceWith('<div class="col"><div><canvas id='+ref_graph+'></canvas></div></div>');
 
 };
 </script>
