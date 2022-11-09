@@ -129,7 +129,7 @@ $.ajax({
 const data_all_elos_Chart = {
   labels: labels_all_elos_Chart,
   datasets: [{
-    label: 'ELOs par avion',
+    label: 'ELOs par avion utilisé',
     backgroundColor: 'rgb(19, 64, 206)',
     borderColor: 'rgb(19, 64, 206)',
     data: data_all_elos,
