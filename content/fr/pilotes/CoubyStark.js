@@ -70,7 +70,7 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   data_elos_Chart[labels_all_elos_Chart[j]] = {
     labels: labels_elos_Chart[labels_all_elos_Chart[j]],
     datasets: [{
-      label: 'M-2000C ELOs',
+      label: labels_all_elos_Chart[j] + ' ELOs',
       backgroundColor: 'rgb(19, 64, 206)',
       borderColor: 'rgb(19, 64, 206)',
       data: data_elos[labels_all_elos_Chart[j]],

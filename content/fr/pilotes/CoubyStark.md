@@ -28,9 +28,53 @@ images: []
     </div>
   </div>
 
+  <div class="w-100"></div>
+
   <div class="col">
     <div>
       <canvas id="M2000C_elos"></canvas>
+    </div>
+  </div>
+
+  <div class="col">
+    <div>
+      <canvas id="FA18C_elos"></canvas>
+    </div>
+  </div>
+
+  <div class="w-100"></div>
+
+  <div class="col">
+    <div>
+      <canvas id="F16C50_elos"></canvas>
+    </div>
+  </div>
+
+  <div class="col">
+    <div>
+      <canvas id="F15C_elos"></canvas>
+    </div>
+  </div>
+
+  <div class="w-100"></div>
+
+  <div class="col">
+    <div>
+      <canvas id="Su27_elos"></canvas>
+    </div>
+  </div>
+
+  <div class="col">
+    <div>
+      <canvas id="MiG29S_elos"></canvas>
+    </div>
+  </div>
+
+  <div class="w-100"></div>
+
+  <div class="col">
+    <div>
+      <canvas id="JF17_elos"></canvas>
     </div>
   </div>
 
@@ -118,7 +162,7 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   data_elos_Chart[labels_all_elos_Chart[j]] = {
     labels: labels_elos_Chart[labels_all_elos_Chart[j]],
     datasets: [{
-      label: 'M-2000C ELOs',
+      label: labels_all_elos_Chart[j] + ' ELOs',
       backgroundColor: 'rgb(19, 64, 206)',
       borderColor: 'rgb(19, 64, 206)',
       data: data_elos[labels_all_elos_Chart[j]],
