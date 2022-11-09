@@ -77,12 +77,14 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
       backgroundColor: 'rgb(19, 64, 206)',
       borderColor: 'rgb(19, 64, 206)',
       data: data_elos[labels_all_elos_Chart[j]],
+      yAxisID: 'y',
     },
     {
       label: labels_all_elos_Chart[j] + ' Classements',
       backgroundColor: 'rgb(255, 99, 132)',
       borderColor: 'rgb(255, 99, 132)',
       data: data_classements[labels_all_elos_Chart[j]],
+      yAxisID: 'y1',
     }
   ]
   };
@@ -101,7 +103,22 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
         }
       },
       scales: {
-        x: {reverse: true}
+        x: {reverse: true},
+        y: {
+          type: 'linear',
+          display: true,
+          position: 'left',
+        },
+        y1: {
+          type: 'linear',
+          display: true,
+          position: 'right',
+
+          // grid line settings
+          grid: {
+            drawOnChartArea: false, // only want the grid lines for one axis to show up
+          },
+        },
       }
     }
   };
