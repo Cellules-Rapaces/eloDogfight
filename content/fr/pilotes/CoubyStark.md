@@ -23,7 +23,7 @@ images: []
 
   <div class="col">
     <div>
-      <canvas id="m2000c_elos"></canvas>
+      <canvas id="all_elos"></canvas>
     </div>
   </div>
 
