@@ -40,3 +40,30 @@ images: []
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 <!-- stats pilote -->
 <script src="../../js/CoubyStark.js"></script>
+<script>
+var labels_all_elos_Chart = [];
+var data_all_elos =[];
+var labels_m2000c_elos_Chart = [];
+var data_m2000c_elos = [];
+$.ajax({
+        async:false,
+        url: '../../data/elodf_1v1_stats_CoubyStark.json',
+        dataType: 'json',
+        success: function(data_pilote)
+        {
+          if (data_pilote != "") {
+            // Construction table des ELOs
+            for (j = 2; j < data_pilote.length; j++) {
+              labels_all_elos_Chart.push(data_pilote[j]);
+              data_all_elos.push(data_pilote[j].ELO);
+            };
+            console.log(labels_all_elos_Chart);
+            console.log(data_pilote.length);
+
+            // Data tableau ELOs M2000C
+            labels_m2000c_elos_Chart = data_pilote.M2000C.Match_date;
+            data_m2000c_elos = data_pilote.M2000C.ELO;
+          }
+        }
+        });
+</script>
