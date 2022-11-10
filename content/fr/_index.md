@@ -11,6 +11,20 @@ images: []
 <!-- Flag icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
 
+<section class="section container-fluid pt-3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-9 col-xl-8 text-center">
+    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> Join the Fight <img src="../images/team_Cellules-Rapaces.png" alt="BFR" width="30" height="30"></a>
+    </div>
+    <div class="col-lg-9 col-xl-8 text-center">
+    <a class="btn btn-primary btn-lg mb-2" href="https://discord.com/channels/722195463817920623/801131724775227487" role="button"><i class="fa-brands fa-discord fa-xl"></i> Discord BFR <img src="../images/Logo_BFR.gif" alt="BFR" width="30" height="30"></a>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <p>Pour trouver des compétiteurs rejoignez les Discords Cellules Rapaces et celui du <a href="https://bullseye-francophone.fr">Bullseye Francophone</a></p>
+  </div>
+</section>
+
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
 

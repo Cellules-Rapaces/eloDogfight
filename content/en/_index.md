@@ -11,6 +11,14 @@ images: []
 <!-- Flag icons -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
 
+<section class="section container-fluid pt-3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-9 col-xl-8 text-center">
+    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> Join the Fight</a>
+    </div>
+  </div>
+</section>
+
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
 <section class="section section-sm">
