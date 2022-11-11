@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Le Bibs",
+		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1110,
 		"Combats": 6,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": "<div style='color:red;'>2⯆</div>",
-		"Player": "Null",
+		"Player": "<a href=\"/pilotes/null\">Null</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1073,
 		"Combats": 2,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Asta",
+		"Player": "<a href=\"/pilotes/asta\">Asta</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1066,
 		"Combats": 2,
@@ -28,7 +28,7 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "Xartos",
+		"Player": "<a href=\"/pilotes/xartos\">Xartos</a>",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1035,
 		"Combats": 1,
@@ -37,7 +37,7 @@
 	},
 	{
 		"Classement": 5,
-		"Player": "Dior",
+		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,

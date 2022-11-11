@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Nod",
+		"Player": "<a href=\"/pilotes/nod\">Nod</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1169,
 		"Combats": 7,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "SStt",
+		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1069,
 		"Combats": 6,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Dikennek",
+		"Player": "<a href=\"/pilotes/dikennek\">Dikennek</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1067,
 		"Combats": 2,
@@ -28,7 +28,7 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "Hipgnosie",
+		"Player": "<a href=\"/pilotes/hipgnosie\">Hipgnosie</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1034,
 		"Combats": 2,
@@ -37,7 +37,7 @@
 	},
 	{
 		"Classement": 5,
-		"Player": "Willy",
+		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1032,
 		"Combats": 3,
@@ -46,7 +46,7 @@
 	},
 	{
 		"Classement": 6,
-		"Player": "Camelia",
+		"Player": "<a href=\"/pilotes/camelia\">Camelia</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1003,
 		"Combats": 3,
@@ -55,7 +55,7 @@
 	},
 	{
 		"Classement": 7,
-		"Player": "Darkblue",
+		"Player": "<a href=\"/pilotes/darkblue\">Darkblue</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
@@ -64,7 +64,7 @@
 	},
 	{
 		"Classement": 7,
-		"Player": "CoubyStark",
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,

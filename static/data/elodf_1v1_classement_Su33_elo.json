@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Le Bibs",
+		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
 		"Combats": 1,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "FanBoy",
+		"Player": "<a href=\"/pilotes/fanboy\">FanBoy</a>",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1004,
 		"Combats": 4,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Dior",
+		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
@@ -28,7 +28,7 @@
 	},
 	{
 		"Classement": "<div style='color:green;'>4⯅</div>",
-		"Player": "PluToN",
+		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
 		"Combats": 1,

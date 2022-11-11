@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Heimdall",
+		"Player": "<a href=\"/pilotes/heimdall\">Heimdall</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1237,
 		"Combats": 11,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "CoubyStark",
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1186,
 		"Combats": 9,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "FrenchEagle",
+		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
 		"Combats": 6,
@@ -28,7 +28,7 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "Wolkern721",
+		"Player": "<a href=\"/pilotes/wolkern721\">Wolkern721</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1097,
 		"Combats": 16,
@@ -37,7 +37,7 @@
 	},
 	{
 		"Classement": 5,
-		"Player": "SStt",
+		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1076,
 		"Combats": 2,
@@ -46,7 +46,7 @@
 	},
 	{
 		"Classement": 6,
-		"Player": "PluToN",
+		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1069,
 		"Combats": 6,
@@ -55,7 +55,7 @@
 	},
 	{
 		"Classement": 7,
-		"Player": "Asta",
+		"Player": "<a href=\"/pilotes/asta\">Asta</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1037,
 		"Combats": 1,
@@ -64,7 +64,7 @@
 	},
 	{
 		"Classement": 8,
-		"Player": "Le Bibs",
+		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
 		"Combats": 1,
@@ -73,7 +73,7 @@
 	},
 	{
 		"Classement": 9,
-		"Player": "Stan Hursiak",
+		"Player": "<a href=\"/pilotes/stan-hursiak\">Stan Hursiak</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,
@@ -82,7 +82,7 @@
 	},
 	{
 		"Classement": 10,
-		"Player": "Willy",
+		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,

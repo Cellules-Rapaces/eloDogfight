@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Le Bibs",
+		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1168,
 		"Combats": 7,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Dikennek",
+		"Player": "<a href=\"/pilotes/dikennek\">Dikennek</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1136,
 		"Combats": 4,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Xartos",
+		"Player": "<a href=\"/pilotes/xartos\">Xartos</a>",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
 		"Combats": 3,

@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "Le Bibs",
+		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1168,
 		"Combats": 7,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "Dikennek",
+		"Player": "<a href=\"/pilotes/dikennek\">Dikennek</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1136,
 		"Combats": 4,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "Xartos",
+		"Player": "<a href=\"/pilotes/xartos\">Xartos</a>",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
 		"Combats": 3,
@@ -28,7 +28,7 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "FanBoy",
+		"Player": "<a href=\"/pilotes/fanboy\">FanBoy</a>",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1094,
 		"Combats": 20,
@@ -37,7 +37,7 @@
 	},
 	{
 		"Classement": 5,
-		"Player": "FrenchEagle",
+		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1092,
 		"Combats": 5,
@@ -46,7 +46,7 @@
 	},
 	{
 		"Classement": 6,
-		"Player": "Stan Hursiak",
+		"Player": "<a href=\"/pilotes/stan-hursiak\">Stan Hursiak</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1090,
 		"Combats": 11,
@@ -55,7 +55,7 @@
 	},
 	{
 		"Classement": 7,
-		"Player": "Willy",
+		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1089,
 		"Combats": 5,
@@ -64,7 +64,7 @@
 	},
 	{
 		"Classement": 8,
-		"Player": "Camelia",
+		"Player": "<a href=\"/pilotes/camelia\">Camelia</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1087,
 		"Combats": 16,
@@ -73,7 +73,7 @@
 	},
 	{
 		"Classement": 9,
-		"Player": "Dior",
+		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1081,
 		"Combats": 12,
@@ -82,7 +82,7 @@
 	},
 	{
 		"Classement": 10,
-		"Player": "SStt",
+		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1074,
 		"Combats": 2,
@@ -91,7 +91,7 @@
 	},
 	{
 		"Classement": 11,
-		"Player": "VIPER",
+		"Player": "<a href=\"/pilotes/viper\">VIPER</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1069,
 		"Combats": 2,
@@ -100,7 +100,7 @@
 	},
 	{
 		"Classement": 12,
-		"Player": "Madmat",
+		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1065,
 		"Combats": 3,
@@ -109,7 +109,7 @@
 	},
 	{
 		"Classement": "<div style='color:green;'>12⯅</div>",
-		"Player": "CoubyStark",
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1065,
 		"Combats": 4,
@@ -118,7 +118,7 @@
 	},
 	{
 		"Classement": "<div style='color:red;'>14⯆</div>",
-		"Player": "Hipgnosie",
+		"Player": "<a href=\"/pilotes/hipgnosie\">Hipgnosie</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1064,
 		"Combats": 9,
@@ -127,7 +127,7 @@
 	},
 	{
 		"Classement": "<div style='color:red;'>15⯆</div>",
-		"Player": "Mustapha",
+		"Player": "<a href=\"/pilotes/mustapha\">Mustapha</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1046,
 		"Combats": 4,
@@ -136,7 +136,7 @@
 	},
 	{
 		"Classement": "<div style='color:red;'>16⯆</div>",
-		"Player": "Charly",
+		"Player": "<a href=\"/pilotes/charly\">Charly</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1044,
 		"Combats": 1,
@@ -145,7 +145,7 @@
 	},
 	{
 		"Classement": "<div style='color:red;'>17⯆</div>",
-		"Player": "rq",
+		"Player": "<a href=\"/pilotes/rq\">rq</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
 		"Combats": 3,
@@ -154,7 +154,7 @@
 	},
 	{
 		"Classement": 18,
-		"Player": "PluToN",
+		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1003,
 		"Combats": 3,
@@ -163,7 +163,7 @@
 	},
 	{
 		"Classement": 19,
-		"Player": "Jike",
+		"Player": "<a href=\"/pilotes/jike\">Jike</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
@@ -172,7 +172,7 @@
 	},
 	{
 		"Classement": 19,
-		"Player": "0Cage0",
+		"Player": "<a href=\"/pilotes/0cage0\">0Cage0</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
 		"Combats": 1,

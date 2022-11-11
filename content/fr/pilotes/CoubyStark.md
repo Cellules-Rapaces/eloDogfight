@@ -6,6 +6,9 @@ draft: false
 images: []
 ---
 
+<!-- Flag icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.6.6/css/flag-icons.min.css" rel="stylesheet">
+
 <section class="section section-sm">
 <div class="row pt-4 pb-4 g-2">
 
@@ -13,10 +16,10 @@ images: []
     <div class="card shadow-sm">
       <div class="card-body">
         <h3>Statistiques générales</h3>
-        Nombre de matchs joués : <br />
-        Victoires : <br />
-        Défaites : <br />
-        Kill ratio : <br />
+        Nombre de matchs joués : <span class="total_combats"></span><br />
+        Victoires : <span class="total_victoires"></span><br />
+        Défaites : <span class="total_defaites"></span><br />
+        Kill ratio total : <span class="total_killratio"></span><br />
         <br />
       </div>
     </div>
@@ -61,7 +64,6 @@ images: []
 <!-- jQuery 3.5.1 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 <!-- stats pilote -->
-<!-- <script src="../../js/CoubyStark.js"></script> -->
 <script>
 var labels_all_elos_Chart = [];
 var data_all_elos =[];
@@ -71,7 +73,40 @@ var data_classements = [];
 var data_elos_Chart = [];
 var config_elos_Chart = [];
 var elos_Chart = [];
+var total_combats = 0;
+var derniers_classements = [];
+var killsratio = [];
+var victoires = [];
+var defaites = [];
+var total_victoires = 0;
+var total_defaites = 0;
+var total_kills = 0;
+var total_morts = 0;
+var total_killsratio = 0;
+var country = "";
 const elodf_aircraft_keys = ["M2000C","FA18C","F16C50","F15C","Su27","MiG29S","JF17","F14B","Su33","F14A","MiG21Bis","F5E","F86F","L39C","MiG19P","AV8B","AJS37","MiG15Bis","C101CC","MF1CE"];
+const ac_icons = new Map([
+  ["M2000C", "M2000"],
+  ["FA18C", "f-18"],
+  ["F16C50", "f-16"],
+  ["F15C", "f-15"],
+  ["Su27", "su27"],
+  ["MiG29S", "mig29"],
+  ["JF17", "jf-17"],
+  ["F14B", "f-14"],
+  ["Su33", "su33"],
+  ["F14A", "f-14"],
+  ["MiG21Bis", "mig21"],
+  ["F5E", "f-5"],
+  ["F86F", "f-86"],
+  ["L39C", "l39"],
+  ["MiG19P", "mig19"],
+  ["AV8B", "av8b"],
+  ["AJS37", "ajs37"],
+  ["MiG15Bis", "mig15"],
+  ["C101CC", "c101"],
+  ["MF1CE", "mf1"],
+]);
 
 // Récupération et manipulations des données du pilote
 $.ajax({
@@ -101,7 +136,34 @@ $.ajax({
               // Axe Y1 Classements
               data_classements[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Ratings;
               var popp = data_classements[labels_all_elos_Chart[j]].pop();
+              // Dernier classement avion
+              derniers_classements[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Latest_Ratings[0];
+              // Kill ratio sur cet avion
+              if (data_pilote[labels_all_elos_Chart[j]].Morts != 0) {
+                killsratio[labels_all_elos_Chart[j]] = Math.round(data_pilote[labels_all_elos_Chart[j]].Kills / data_pilote[labels_all_elos_Chart[j]].Morts * 100) / 100;
+              } else {
+                killsratio[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Kills;
+              };
+              // Victoires sur cet avion
+              victoires[labels_all_elos_Chart[j]] = 0;
+              victoires[labels_all_elos_Chart[j]] = data_pilote[labels_all_elos_Chart[j]].Resultats.filter(x => x === 1).length;
+              // Défaites sur cet avion
+              defaites[labels_all_elos_Chart[j]] = data_elos[labels_all_elos_Chart[j]].length - victoires[labels_all_elos_Chart[j]];
+              // Pour stats générales
+              total_kills = total_kills + data_pilote[labels_all_elos_Chart[j]].Kills;
+              total_morts = total_morts + data_pilote[labels_all_elos_Chart[j]].Morts;
+              total_killsratio = Math.round(total_kills / total_morts *100)/100;
             };
+
+            // On calcule la somme des combats joués, victoires et défaites
+            for (j = 0; j < labels_all_elos_Chart.length; j++) {
+              total_combats = total_combats + data_elos[labels_all_elos_Chart[j]].length;
+              total_victoires = total_victoires + victoires[labels_all_elos_Chart[j]];
+              total_defaites = total_defaites + defaites[labels_all_elos_Chart[j]];
+            };
+
+            // On récupère le pays
+            country = data_pilote["Player_Country"];
           }
         }
         });
@@ -113,6 +175,7 @@ const data_all_elos_Chart = {
     backgroundColor: 'rgb(19, 64, 206)',
     borderColor: 'rgb(19, 64, 206)',
     data: data_all_elos,
+    yAxisID: 'y3',
   }]
 };
 
@@ -127,8 +190,16 @@ const config_all_elos_Chart = {
         from: 1,
         to: 0,
         loop: false
-      }
-    }
+      },
+    },
+    scales: {
+      y3: {
+        type: 'linear',
+        display: true,
+        position: 'left',
+        max: 3000,
+      },
+    },
   }
 };
 
@@ -139,20 +210,21 @@ const all_elos_Chart = new Chart(
 
 // On balaye les avions utilisés pour construire les graphiques de ELOs
 for (j = 0; j < labels_all_elos_Chart.length; j++) {
-  console.log(labels_all_elos_Chart[j]);
   data_elos_Chart[labels_all_elos_Chart[j]] = {
     labels: labels_elos_Chart[labels_all_elos_Chart[j]],
     datasets: [{
+      type: 'line',
       label: labels_all_elos_Chart[j] + ' ELOs',
-      backgroundColor: 'rgb(19, 64, 206)',
-      borderColor: 'rgb(19, 64, 206)',
+      backgroundColor: 'rgb(46, 150, 100)',
+      borderColor: 'rgb(46, 150, 100)',
       data: data_elos[labels_all_elos_Chart[j]],
       yAxisID: 'y',
     },
     {
+      type: 'bar',
       label: labels_all_elos_Chart[j] + ' Classements',
-      backgroundColor: 'rgb(255, 99, 132)',
-      borderColor: 'rgb(255, 99, 132)',
+      backgroundColor: 'rgb(85, 85, 85)',
+      borderColor: 'rgb(85, 85, 85)',
       data: data_classements[labels_all_elos_Chart[j]],
       yAxisID: 'y1',
     }
@@ -160,7 +232,6 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   };
 
   config_elos_Chart[labels_all_elos_Chart[j]] = {
-    type: 'line',
     data: data_elos_Chart[labels_all_elos_Chart[j]],
     options: {
       animations: {
@@ -183,6 +254,7 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
           type: 'linear',
           display: true,
           position: 'right',
+          max: (data_classements[labels_all_elos_Chart[j]][0]+10),
 
           // grid line settings
           grid: {
@@ -201,11 +273,12 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
     '<div class="col">'+
       '<div class="card shadow-sm">'+
         '<div class="card-body">'+
-          '<h3>'+ labels_all_elos_Chart[j] +' stats</h3>'+
-          'Nombre de matchs joués : <br />'+
-          'Victoires : <br />'+
-          'Défaites : <br />'+
-          'Kill ratio : <br />'+
+          '<h3><span class="icon-'+ac_icons.get(labels_all_elos_Chart[j])+'-h"></span> '+ labels_all_elos_Chart[j] +' stats</h3>'+
+          'Dernier Classement : #'+ derniers_classements[labels_all_elos_Chart[j]] +'<br />'+
+          'Nombre de matchs joués : '+ data_elos[labels_all_elos_Chart[j]].length +'<br />'+
+          'Victoires : '+ victoires[labels_all_elos_Chart[j]] +'<br />'+
+          'Défaites : '+ defaites[labels_all_elos_Chart[j]] +'<br />'+
+          'Kill ratio : '+ killsratio[labels_all_elos_Chart[j]] +'<br />'+
           '<br />'+
         '</div>'+
       '</div>'+
@@ -218,4 +291,10 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
   );
 
 };
+
+$(".total_combats").replaceWith(total_combats);
+$(".total_victoires").replaceWith(total_victoires);
+$(".total_defaites").replaceWith(total_defaites);
+$(".total_killratio").replaceWith(total_killsratio);
+$(".country").replaceWith('<span class=\"fi fi-'+country+'\"></span>');
 </script>
