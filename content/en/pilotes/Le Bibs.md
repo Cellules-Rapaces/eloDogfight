@@ -111,7 +111,7 @@ const ac_icons = new Map([
 // Récupération et manipulations des données du pilote
 $.ajax({
         async:false,
-        url: '../../data/elodf_1v1_stats_Le Bibs.json',
+        url: '../../../data/elodf_1v1_stats_Le Bibs.json',
         dataType: 'json',
         success: function(data_pilote)
         {

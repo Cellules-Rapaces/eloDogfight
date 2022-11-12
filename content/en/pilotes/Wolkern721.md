@@ -111,7 +111,7 @@ const ac_icons = new Map([
 // Récupération et manipulations des données du pilote
 $.ajax({
         async:false,
-        url: '../../data/elodf_1v1_stats_Wolkern721.json',
+        url: '../../../data/elodf_1v1_stats_Wolkern721.json',
         dataType: 'json',
         success: function(data_pilote)
         {

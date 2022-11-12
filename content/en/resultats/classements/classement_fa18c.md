@@ -50,10 +50,3 @@ icon: "f-18-h"
 <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.css">
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
-<script>
-$(document).ready(function(){
-  $('.Player').each(function(){
-      this.href = this.href.replace('/pilotes/', '/en/pilotes/');
-  });
-});
-</script>
