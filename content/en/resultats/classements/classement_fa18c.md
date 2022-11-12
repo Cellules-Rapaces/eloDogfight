@@ -45,8 +45,15 @@ icon: "f-18-h"
 <script>
   function responseHandler(res) {
     return JSON.parse(res)
-  }
+  };
 </script>
 <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.css">
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <script src="https://unpkg.com/bootstrap-table@1.20.1/dist/bootstrap-table.min.js"></script>
+<script>
+  $(".list a").each(function(){
+      var newUrl = $(this).attr('href').replace('/pilotes/', '/en/pilotes/');
+      $(this).attr('href', newUrl);
+      console.log(newUrl);
+  });
+</script>
