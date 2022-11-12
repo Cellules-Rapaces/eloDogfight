@@ -27,16 +27,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>4⯅</div>",
+		"Classement": 4,
 		"Player": "<a href=\"/pilotes/plaiskool\">Plaiskool</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1035,
-		"Combats": 1,
+		"ELO": 1066,
+		"Combats": 2,
 		"Kill ratio": null,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>5⯆</div>",
+		"Classement": 5,
 		"Player": "<a href=\"/pilotes/hipgnosie\">Hipgnosie</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1034,
@@ -45,7 +45,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>6⯆</div>",
+		"Classement": 6,
 		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1032,
@@ -54,16 +54,25 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>7⯆</div>",
+		"Classement": 7,
 		"Player": "<a href=\"/pilotes/camelia\">Camelia</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1004,
-		"Combats": 4,
-		"Kill ratio": 0.09,
+		"ELO": 1005,
+		"Combats": 5,
+		"Kill ratio": 0.15,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>8⯆</div>",
+		"Classement": 8,
+		"Player": "<a href=\"/pilotes/raven-9-6\">Raven 9-6</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 8,
 		"Player": "<a href=\"/pilotes/darkblue\">Darkblue</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -72,7 +81,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>8⯆</div>",
+		"Classement": 8,
 		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,

@@ -66,13 +66,13 @@
 		"Classement": 8,
 		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1099,
-		"Combats": 45,
-		"Kill ratio": 0.65,
+		"ELO": 1106,
+		"Combats": 46,
+		"Kill ratio": 0.66,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>9⯆</div>",
+		"Classement": 9,
 		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,

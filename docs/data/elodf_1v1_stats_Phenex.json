@@ -1,38 +1,33 @@
 {
-	"Player_Name": "Plaiskool",
-	"Player_Country": "fr",
-	"F14B": {
+	"Player_Name": "Phenex",
+	"Player_Country": "be",
+	"F15C": {
 		"LVL": "LVL1",
 		"ELO": [
-			1066,
-			1035,
+			1038,
 			1000
 		],
-		"Kills": 6,
-		"Morts": 0,
+		"Kills": 2,
+		"Morts": 1,
 		"Resultats": [
-			1,
 			1,
 			0
 		],
 		"Match_date": [
-			"2022-11-12T21:28:45.000Z",
-			"2022-11-12T21:19:33.000Z",
+			"2022-11-12T21:22:00.000Z",
 			"2022-05-25T21:10:53.000Z"
 		],
 		"Tracers": [
 			1,
-			1,
 			0
 		],
 		"Ratings": [
-			4,
-			4,
+			1,
 			1000000
 		],
 		"Latest_Ratings": [
-			4,
-			4
+			1,
+			1000000
 		]
 	}
 }
