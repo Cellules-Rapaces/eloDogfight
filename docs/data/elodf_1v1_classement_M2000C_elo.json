@@ -64,20 +64,20 @@
 	},
 	{
 		"Classement": 8,
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1099,
+		"Combats": 45,
+		"Kill ratio": 0.65,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>9⯆</div>",
 		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
 		"Combats": 9,
 		"Kill ratio": 1.89,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 8,
-		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1098,
-		"Combats": 44,
-		"Kill ratio": 0.65,
 		"LVL": "LVL1"
 	},
 	{
@@ -117,7 +117,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>14⯆</div>",
+		"Classement": 14,
 		"Player": "<a href=\"/pilotes/chouca\">Chouca</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1037,
