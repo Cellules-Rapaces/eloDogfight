@@ -54,7 +54,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": "<div style='color:green;'>6⯅</div>",
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1090,
+		"Combats": 5,
+		"Kill ratio": 0.88,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>8⯆</div>",
 		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1089,
@@ -63,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": "<div style='color:red;'>9⯆</div>",
 		"Player": "<a href=\"/pilotes/camelia\">Camelia</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1087,
@@ -72,7 +81,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": "<div style='color:red;'>10⯆</div>",
 		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1081,
@@ -81,7 +90,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 10,
+		"Classement": "<div style='color:red;'>11⯆</div>",
 		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1074,
@@ -90,7 +99,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 11,
+		"Classement": "<div style='color:red;'>12⯆</div>",
 		"Player": "<a href=\"/pilotes/viper\">VIPER</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1069,
@@ -99,7 +108,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": "<div style='color:red;'>13⯆</div>",
 		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1065,
@@ -108,16 +117,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>12⯅</div>",
-		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1065,
-		"Combats": 4,
-		"Kill ratio": 0.71,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": "<div style='color:red;'>14⯆</div>",
+		"Classement": 14,
 		"Player": "<a href=\"/pilotes/hipgnosie\">Hipgnosie</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1064,
@@ -126,7 +126,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>15⯆</div>",
+		"Classement": 15,
 		"Player": "<a href=\"/pilotes/mustapha\">Mustapha</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1046,
@@ -135,7 +135,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>16⯆</div>",
+		"Classement": 16,
 		"Player": "<a href=\"/pilotes/charly\">Charly</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1044,
@@ -144,7 +144,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>17⯆</div>",
+		"Classement": 17,
 		"Player": "<a href=\"/pilotes/rq\">rq</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
@@ -159,6 +159,15 @@
 		"ELO": 1003,
 		"Combats": 3,
 		"Kill ratio": 0,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 19,
+		"Player": "<a href=\"/pilotes/crizeo\">CrizEo</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1001,
+		"Combats": 1,
+		"Kill ratio": 0.5,
 		"LVL": "LVL1"
 	},
 	{

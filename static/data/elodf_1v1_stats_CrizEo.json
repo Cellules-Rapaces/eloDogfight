@@ -1,38 +1,33 @@
 {
-	"Player_Name": "Phenex",
-	"Player_Country": "be",
-	"F15C": {
+	"Player_Name": "CrizEo",
+	"Player_Country": "fr",
+	"FA18C": {
 		"LVL": "LVL1",
 		"ELO": [
-			1065,
-			1038,
+			1001,
 			1000
 		],
-		"Kills": 4,
+		"Kills": 1,
 		"Morts": 2,
 		"Resultats": [
-			1,
-			1,
+			0,
 			0
 		],
 		"Match_date": [
 			"2022-11-12T21:39:38.000Z",
-			"2022-11-12T21:22:00.000Z",
 			"2022-05-25T21:10:53.000Z"
 		],
 		"Tracers": [
 			1,
-			1,
 			0
 		],
 		"Ratings": [
-			1,
-			1,
+			19,
 			1000000
 		],
 		"Latest_Ratings": [
-			1,
-			1
+			19,
+			19
 		]
 	}
 }

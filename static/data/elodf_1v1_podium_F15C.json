@@ -1,15 +1,15 @@
 [
 	{
-		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Classement": 1,
 		"Player": "<a href=\"/pilotes/phenex\">Phenex</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1038,
-		"Combats": 1,
+		"ELO": 1065,
+		"Combats": 2,
 		"Kill ratio": 2,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>2⯆</div>",
+		"Classement": 2,
 		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1033,
@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>3⯆</div>",
+		"Classement": 3,
 		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
