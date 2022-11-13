@@ -3,7 +3,7 @@
 // Nombre de combats
 $.ajax({
         async:false,
-        url: 'data/elodf_1v1_stats_fights.txt',
+        url: '../data/elodf_1v1_stats_fights.txt',
         dataType: 'text',
         success: function(data)
         {
@@ -16,7 +16,7 @@ $.ajax({
 // Nombre de participants
 $.ajax({
         async:false,
-        url: 'data/elodf_1v1_stats_fighters.txt',
+        url: '../data/elodf_1v1_stats_fighters.txt',
         dataType: 'text',
         success: function(data)
         {

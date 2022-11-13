@@ -227,4 +227,4 @@ images: []
 <!-- Chargement des données des podiums -->
 <script src="../js/podiums_en.js"></script>
 <!-- Chargement des données stats globales -->
-<script src="../js/stats_globales.js"></script>
+<script src="../js/stats_globales_en.js"></script>

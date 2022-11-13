@@ -8,7 +8,7 @@ $.ajax({
         success: function(data)
         {
           if (data != "") {
-            $('.stats_fights').replaceWith('<span class="stats_fights badge bg-primary">💥Combats : ' + data + '</span>');
+            $('.stats_fights').replaceWith('<span class="stats_fights badge bg-primary">💥Fights : ' + data + '</span>');
           }
         }
         });
