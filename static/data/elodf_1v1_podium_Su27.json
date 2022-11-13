@@ -9,7 +9,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>2⯅</div>",
+		"Classement": 2,
 		"Player": "<a href=\"/pilotes/plaiskool\">Plaiskool</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1042,
@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>3⯆</div>",
+		"Classement": 3,
 		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
