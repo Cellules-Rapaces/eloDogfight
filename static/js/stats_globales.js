@@ -21,7 +21,7 @@ $.ajax({
         success: function(data)
         {
           if (data != "") {
-            $('.stats_fighters').replaceWith('<span class="stats_fighters badge bg-secondary">🤼Fighters : ' + data + '</span>');
+            $('.stats_fighters').replaceWith('<span class="stats_fighters badge bg-secondary"><img src="../images/fighter_pilot_30.png" height="80%">Fighters : ' + data + '</span>');
           }
         }
         });

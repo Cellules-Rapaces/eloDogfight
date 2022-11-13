@@ -28,7 +28,7 @@ images: []
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
 
-<h2><span class="stats_fights badge bg-primary">💥Combats : 0</span> <span class="stats_fighters badge bg-secondary">🤼Fighters : 0</span></h2>
+<h2><span class="stats_fights badge bg-primary">💥Combats : 0</span> <span class="stats_fighters badge bg-secondary"><img src="../images/fighter_pilot_30.png" height="80%">Fighters : 0</span></h2>
 
 <section class="section section-sm">
 <!-- Podium -->

@@ -21,6 +21,8 @@ images: []
 
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
+<h2><span class="stats_fights badge bg-primary">💥Combats : 0</span> <span class="stats_fighters badge bg-secondary"><img src="../images/fighter_pilot_30.png" height="80%">Fighters : 0</span></h2>
+
 <section class="section section-sm">
 <!-- Podium -->
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 pt-4 g-3">
@@ -224,3 +226,5 @@ images: []
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 <!-- Chargement des données des podiums -->
 <script src="../js/podiums_en.js"></script>
+<!-- Chargement des données stats globales -->
+<script src="../js/stats_globales.js"></script>
