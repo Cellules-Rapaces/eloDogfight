@@ -58,7 +58,7 @@ $(document).ready(function () {
   });
 
   // Podium F18C
-  $.getJSON("/data/elodf_1v1_podium_FA18C.json",
+  $.getJSON("/data/en/elodf_1v1_podium_FA18C.json",
     function (data) {
       var player_F18 = '';
 
@@ -116,7 +116,7 @@ $(document).ready(function () {
   });
 
   // Podium F14B
-  $.getJSON("/data/elodf_1v1_podium_F14B.json",
+  $.getJSON("/data/en/elodf_1v1_podium_F14B.json",
     function (data) {
       var player_F14 = '';
 
@@ -174,7 +174,7 @@ $(document).ready(function () {
   });
 
   // Podium F16C
-  $.getJSON("/data/elodf_1v1_podium_F16C50.json",
+  $.getJSON("/data/en/elodf_1v1_podium_F16C50.json",
     function (data) {
       var player_F16 = '';
 
@@ -232,7 +232,7 @@ $(document).ready(function () {
   });
 
   // Podium JF17C
-  $.getJSON("/data/elodf_1v1_podium_JF17.json",
+  $.getJSON("/data/en/elodf_1v1_podium_JF17.json",
     function (data) {
       var player_JF17 = '';
 
@@ -290,7 +290,7 @@ $(document).ready(function () {
   });
 
   // Podium MF1CE
-  $.getJSON("/data/elodf_1v1_podium_MF1CE.json",
+  $.getJSON("/data/en/elodf_1v1_podium_MF1CE.json",
     function (data) {
       var player_MF1CE = '';
 
@@ -348,7 +348,7 @@ $(document).ready(function () {
   });
 
   // Podium MiG29S
-  $.getJSON("/data/elodf_1v1_podium_MiG29S.json",
+  $.getJSON("/data/en/elodf_1v1_podium_MiG29S.json",
     function (data) {
       var player_MiG29S = '';
 
@@ -406,7 +406,7 @@ $(document).ready(function () {
   });
 
   // Podium Su27
-  $.getJSON("/data/elodf_1v1_podium_Su27.json",
+  $.getJSON("/data/en/elodf_1v1_podium_Su27.json",
     function (data) {
       var player_Su27 = '';
 
@@ -464,7 +464,7 @@ $(document).ready(function () {
   });
 
   // Podium Su33
-  $.getJSON("/data/elodf_1v1_podium_Su33.json",
+  $.getJSON("/data/en/elodf_1v1_podium_Su33.json",
     function (data) {
       var player_Su33 = '';
 
@@ -522,7 +522,7 @@ $(document).ready(function () {
   });
 
   // Podium F15C
-  $.getJSON("/data/elodf_1v1_podium_F15C.json",
+  $.getJSON("/data/en/elodf_1v1_podium_F15C.json",
     function (data) {
       var player_F15C = '';
 
@@ -580,7 +580,7 @@ $(document).ready(function () {
   });
 
   // Podium MiG21Bis
-  $.getJSON("/data/elodf_1v1_podium_MiG21Bis.json",
+  $.getJSON("/data/en/elodf_1v1_podium_MiG21Bis.json",
     function (data) {
       var player_MiG21Bis = '';
 
@@ -638,7 +638,7 @@ $(document).ready(function () {
   });
 
   // Podium MiG15Bis
-  $.getJSON("/data/elodf_1v1_podium_MiG15Bis.json",
+  $.getJSON("/data/en/elodf_1v1_podium_MiG15Bis.json",
     function (data) {
       var player_MiG15Bis = '';
 
@@ -696,7 +696,7 @@ $(document).ready(function () {
   });
 
   // Podium MiG19P
-  $.getJSON("/data/elodf_1v1_podium_MiG19P.json",
+  $.getJSON("/data/en/elodf_1v1_podium_MiG19P.json",
     function (data) {
       var player_MiG19P = '';
 
@@ -754,7 +754,7 @@ $(document).ready(function () {
   });
 
   // Podium F86F
-  $.getJSON("/data/elodf_1v1_podium_F86F.json",
+  $.getJSON("/data/en/elodf_1v1_podium_F86F.json",
     function (data) {
       var player_F86F = '';
 
@@ -812,7 +812,7 @@ $(document).ready(function () {
   });
 
   // Podium AJS37
-  $.getJSON("/data/elodf_1v1_podium_AJS37.json",
+  $.getJSON("/data/en/elodf_1v1_podium_AJS37.json",
     function (data) {
       var player_AJS37 = '';
 
@@ -870,7 +870,7 @@ $(document).ready(function () {
   });
 
   // Podium F5E
-  $.getJSON("/data/elodf_1v1_podium_F5E.json",
+  $.getJSON("/data/en/elodf_1v1_podium_F5E.json",
     function (data) {
       var player_F5E = '';
 
