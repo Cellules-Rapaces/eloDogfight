@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
+		"Player": "<a href=\"/en/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
 		"Combats": 1,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "<a href=\"/pilotes/fanboy\">FanBoy</a>",
+		"Player": "<a href=\"/en/pilotes/fanboy\">FanBoy</a>",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1004,
 		"Combats": 4,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
+		"Player": "<a href=\"/en/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
 		"Combats": 2,

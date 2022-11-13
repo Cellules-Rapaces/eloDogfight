@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "<a href=\"/pilotes/phenex\">Phenex</a>",
+		"Player": "<a href=\"/en/pilotes/phenex\">Phenex</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1068,
 		"Combats": 5,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
+		"Player": "<a href=\"/en/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1033,
 		"Combats": 1,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
+		"Player": "<a href=\"/en/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
 		"Combats": 1,
@@ -28,7 +28,7 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "<a href=\"/pilotes/xartos\">Xartos</a>",
+		"Player": "<a href=\"/en/pilotes/xartos\">Xartos</a>",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
@@ -37,7 +37,7 @@
 	},
 	{
 		"Classement": 4,
-		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
+		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
 		"Combats": 1,

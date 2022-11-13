@@ -27,7 +27,7 @@ icon: "mig21-h"
   data-pagination="true"
   data-page-size="25"
   data-response-handler="responseHandler"
-  data-url="/data/elodf_1v1_classement_MiG21Bis_elo.json">
+  data-url="/data/en/elodf_1v1_classement_MiG21Bis_elo.json">
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Rating</th>

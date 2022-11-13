@@ -1,7 +1,7 @@
 [
 	{
 		"Classement": 1,
-		"Player": "<a href=\"/pilotes/heimdall\">Heimdall</a>",
+		"Player": "<a href=\"/en/pilotes/heimdall\">Heimdall</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1237,
 		"Combats": 11,
@@ -10,7 +10,7 @@
 	},
 	{
 		"Classement": 2,
-		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
+		"Player": "<a href=\"/en/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1186,
 		"Combats": 9,
@@ -19,7 +19,7 @@
 	},
 	{
 		"Classement": 3,
-		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
+		"Player": "<a href=\"/en/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
 		"Combats": 6,
