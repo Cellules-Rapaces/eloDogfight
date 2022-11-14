@@ -3,9 +3,9 @@
 		"Classement": 1,
 		"Player": "<a href=\"/en/pilotes/heimdall\">Heimdall</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1095,
-		"Combats": 3,
-		"Kill ratio": null,
+		"ELO": 1096,
+		"Combats": 4,
+		"Kill ratio": 5,
 		"LVL": "LVL1"
 	}
 ]
