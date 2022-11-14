@@ -18,7 +18,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": "<div style='color:green;'>3⯅</div>",
+		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1117,
+		"Combats": 10,
+		"Kill ratio": 0.88,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>4⯆</div>",
 		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
@@ -27,7 +36,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": "<div style='color:red;'>5⯆</div>",
 		"Player": "<a href=\"/pilotes/wolkern721\">Wolkern721</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1097,
@@ -36,21 +45,12 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": "<div style='color:red;'>6⯆</div>",
 		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1076,
 		"Combats": 2,
 		"Kill ratio": null,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 6,
-		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
-		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1072,
-		"Combats": 9,
-		"Kill ratio": 0.69,
 		"LVL": "LVL1"
 	},
 	{
