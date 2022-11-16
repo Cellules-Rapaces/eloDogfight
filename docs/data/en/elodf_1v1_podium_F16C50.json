@@ -3,9 +3,9 @@
 		"Classement": 1,
 		"Player": "<a href=\"/en/pilotes/heimdall\">Heimdall</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1237,
-		"Combats": 11,
-		"Kill ratio": 3.71,
+		"ELO": 1252,
+		"Combats": 12,
+		"Kill ratio": 3.5,
 		"LVL": "LVL1"
 	},
 	{
@@ -18,7 +18,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>3⯅</div>",
+		"Classement": 3,
 		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1117,
