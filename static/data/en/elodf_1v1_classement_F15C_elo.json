@@ -9,7 +9,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 2,
+		"Classement": "<div style='color:green;'>2⯅</div>",
+		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1042,
+		"Combats": 2,
+		"Kill ratio": 1,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>3⯆</div>",
 		"Player": "<a href=\"/en/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1033,
@@ -18,7 +27,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 3,
+		"Classement": "<div style='color:red;'>4⯆</div>",
 		"Player": "<a href=\"/en/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1030,
@@ -27,18 +36,9 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
+		"Classement": "<div style='color:red;'>5⯆</div>",
 		"Player": "<a href=\"/en/pilotes/xartos\">Xartos</a>",
 		"Country": "<span class=\"fi fi-us\"></span>",
-		"ELO": 1001,
-		"Combats": 1,
-		"Kill ratio": 0.5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 4,
-		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
-		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
 		"Combats": 1,
 		"Kill ratio": 0.5,
