@@ -9,16 +9,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>2⯅</div>",
+		"Classement": 2,
 		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1042,
-		"Combats": 2,
-		"Kill ratio": 1,
+		"ELO": 1043,
+		"Combats": 3,
+		"Kill ratio": 0.8,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>3⯆</div>",
+		"Classement": 3,
 		"Player": "<a href=\"/en/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1033,
