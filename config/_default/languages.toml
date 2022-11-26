@@ -22,6 +22,18 @@
     footer4 = 'Social networks'
     footer5 = '⬆️'
 
+[cn]
+  languageName = "Chinese"
+  contentDir = "content/cn"
+  weight = 15
+  [cn.params]
+    languageISO = "CN"
+    footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 纤维素拉佩斯 </br>由 CoubyStark</small>'
+    footer2 = '猛禽挑战'
+    footer3 = '大约'
+    footer4 = '社交网络'
+    footer5 = '⬆️'
+
 [de]
   languageName = "German"
   contentDir = "content/de"
