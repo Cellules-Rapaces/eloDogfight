@@ -1,7 +1,7 @@
 ---
-title: "MiG-29S Rating"
+title: "MiG-29S 额定值"
 description: ""
-lead: "MiG-29S Rating"
+lead: "MiG-29S 额定值"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,7 +30,7 @@ icon: "mig29-h"
   data-url="/data/en/elodf_1v1_classement_MiG29S_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Classement" data-sortable="true">额定值</th>
       <th data-field="Country" data-sortable="true">Country</th>
       <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>

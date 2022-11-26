@@ -1,7 +1,7 @@
 ---
-title: "Questions - Answers"
+title: "问题 - 答案"
 description: ""
-lead: "Questions - Answers"
+lead: "问题 - 答案"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -9,84 +9,89 @@ images: []
 toc: true
 ---
 
-{{< alert icon="💡" text="Can't find your question? Come ask us on Discord." />}}
+{{< alert icon="💡" text="找不到您的问题？快来问我们 不和谐." />}}
 
-## Once in game
+## 一次进入游戏
 
-### How do I know if the first merge happened?
-This point can be tricky, especially for newcomers. We recommend ensuring a crossing as close as possible.
+### 我怎么知道第一次合并是否发生？
+这一点可能很棘手，尤其是对于新手。我们建议确保越过越近越好。
 
-Failing that, when you see that the two planes have started to turn around having made more than 90° of course change... it means that the merge has passed!
+如果做不到这一点，当你看到两架飞机已经开始掉头，已经改变了90°以上......这意味着合并已经过去了！
 
-Be chivalrous and start with a helmet crossing!
+保持侠义精神，从头盔交叉开始！
 
-### What to do if the AutoSpwan script "bugs"?
-You can still do a manual respawn. Become a spectator, and reslot on your plane (coordinate with the opponent). You will see that from the moment you have a match in progress, the server will not allow you to join another slot.
+### 如果 AutoSpwan 脚本出现“错误”怎么办？
+您仍然可以手动重生。成为旁观者，并重新安排在您的飞机上（与对手协调）。您将看到，从您进行比赛的那一刻起，服务器将不允许您加入另一个插槽。
 
-### How can I know my ELOs and LVL when I'm in DCS?
-Simply ask the question in DCS chat (= **ELOs?** chat command) :
-![ELOs? chat command](Elos.png)
+### 当我在DCS中时，我如何知道我的ELO和LVL？
+只需在DCS聊天中提问（= **ELOs？**聊天命令）：
 
-### What if both planes run out of fuel and manage to land?
-Be **fairplay**! By audio/chat exchange do you mean to eject at the same time. This will make a "null" round which will have to be replayed.
+![埃洛？聊天命令](Elos.png)
 
-### For F-14 competitors, how do you prevent Jester from ejecting?
-The only identified way to do this is to disable Jester's ejection seat.
-For this, at each round, you have to make a pass in the back seat. Press the 2 key on the keyboard:
-![Moving to the back seat of the F14](en_f14-ejection-seat-unarm_step1.jpg)
+### 如果两架飞机都耗尽燃料并设法降落怎么办？
+**公平竞争**！通过音频/聊天交换，您是否意味着同时弹出。这将形成一个必须重播的“空”回合。
 
-Disable the ejection seat:
-![Disable ejection seat](en_f14-ejection-seat-unarm_step2.jpg)
+### 对于 F-14 竞争对手，如何防止杰斯特弹射？
+唯一确定的方法是禁用杰斯特的弹射座椅。
+为此，在每一轮比赛中，您必须在后座上通过。按键盘上的 2 键：
 
-Return to the front seat, key 1 on the keyboard:
-![Moving back on forward seat](en_f14-ejection-seat-unarm_step3.jpg)
+![移至 F14 的后座](en_f14-ejection-seat-unarm_step1.jpg)
 
-If anyone knows an easier/more effective way to prevent Jester from ejecting, please share it with CoubyStark.
+禁用弹射座椅：
 
+![禁用弹射座椅](en_f14-ejection-seat-unarm_step2.jpg)
 
-## ELO Dogfight design choices
+返回前排座椅，键盘上的按键 1：
 
-### How to find ELO Dogfight server?
-Search for **Rapace** or **ELO Dogfight**.
-![DCS Server settings](rapace_server.png)
+![靠后坐在前排座椅上](en_f14-ejection-seat-unarm_step3.jpg)
 
-### What are server settings?
-![DCS Server settings](elodf_dcs_server_settings.jpg)
+如果有人知道一种更简单/更有效的方法来防止杰斯特弹出，请与CoubyStark分享。
 
-### How are initial fuel levels set?
-For the moment, using the same settings as on the **canon BFR competition** and/or the **Dogfighters** server.
+## ELO 混战设计选择
 
-They must allow 5 minutes of full afterburner/full throttle to each aircraft.
-![Fuel data](elodf_fuel_data.jpg)
+### 如何找到 ELO 混战服务器？
+搜索 **拉佩** 或 **ELO 混战**。
 
-This point will be studied and documented more finely to take into account the different consumptions according to the altitudes. This is to ensure an even fairer balance.
+![DCS 服务器设置](rapace_server.png)
 
-### What is ELO?
-The ELO represents the strength of a competitor and makes it possible to classify/compare players.
-This principle comes from the game of chess. Consult the Wikipedia article [ELO ranking](https://en.wikipedia.org/wiki/Elo_rating_system).
+### 什么是服务器设置？
 
-### Is the number of fights played taken into account in the ELO coefficient? Can we have a good ELO by playing few matches? Can we increase our ELO indefinitely by always playing against the same people?
-The number of fights played is implicitly integrated into the principle of the ELO calculation. Indeed the ELO represents the "strength" of a player for given playing conditions. The more a player has played **a large number of matches** and against **a varied number of players**, **the more his ELO coefficient is representative of his strength**.</br >
-The proper functioning of the basis of this calculation algorithm is a mathematical problem that experienced mathematicians have studied. Being used for a long time for chess competitions, we have confidence in this one.</br >
-The **K factor** retained in the configuration of the algorithm on ELO Dogfight, does not allow a player to achieve a super ELO in a few matches. You really have to play a lot of games to be able to raise your ELO significantly.</br >
-Moreover, the principle of "levels" put in place very strongly limits the possibility of indefinitely increasing your ELO by always playing against the same people.
+![DCS 服务器设置](elodf_dcs_server_settings.jpg)
 
-### Who organizes and administers ELO Dogfight?
-**CoubyStark**, under the banner of **Cellules Rapaces**, eSport team of the **French Air and Space Force gamers community**.
+### 初始燃油油位是如何设置的？
+目前，使用与**佳能BFR比赛**和/或**狗斗士**服务器相同的设置。
 
+他们必须为每架飞机留出 5 分钟的全加力/全油门。
 
-## In gamer hands
+![燃料数据](elodf_fuel_data.jpg)
 
-### I can fight any plane with any plane?
-Yes.
+这一点将被更精细地研究和记录，以考虑到根据海拔的不同消耗量。这是为了确保更公平的平衡。
 
-However, pay attention to the balance of the match. It is up to each player to choose/manage which aircraft they use and battle against. It also requires agreeing with the adversary of the moment. There is no imposition/obligation. But keep in mind that the ELO calculation for the aircraft you are using only takes into account the match result and the opponent's ELO on the aircraft they are using. The calculation of the ELO does not take into account the type of aircraft confronted.
+### 什么是 ELO？
+ELO代表了竞争对手的实力，可以对玩家进行分类/比较。
+这个原则来自国际象棋游戏。查阅维基百科文章 [等级分](https://zh.wikipedia.org/wiki/%E7%AD%89%E7%BA%A7%E5%88%86).
 
-### Is impersonation or identity conflict possible?
-No.
-Server-level results all include player UCIDs. This is a unique identifier associated with the player's DCS account.
-Results displayed at the website level do not expose this UCID. These are based on the nickname. However as soon as there is a nickname conflict the administrator is warned to manually deal with the situation. It will adjust the nickname of the last player with this one (adding a hint).
+### 在 ELO 系数中是否考虑了打架次数？我们可以通过打几场比赛来获得一个好的 ELO 吗？我们可以通过总是与同一个人对战来无限增加我们的 ELO 吗？
+打架次数隐含地融入了 ELO 计算的原则。事实上，ELO代表了球员在给定比赛条件下的“实力”。玩家玩过**大量比赛**和对抗**不同数量的玩家**的次数越多，**他的ELO系数就越能代表他的实力**.</br>
+这种计算算法的基础的正常运行是经验丰富的数学家研究过的数学问题。长期用于国际象棋比赛，我们对这个有信心.</br>
+ELO 混战算法配置中保留的 **K 因子不允许玩家在几场比赛中实现超级 ELO。你真的必须玩很多游戏才能显着提高你的 ELO.</br>
+此外，实施的“级别”原则非常强烈地限制了通过始终与相同的人对战来无限增加您的 ELO 的可能性。
 
-### Is it possible to modify my player nickname displayed in the results?
-Yes.
-To do this, contact **CoubyStark** on the Rapace Discord.
+### 谁组织和管理 ELO 混战？
+**CoubyStark**，在**Cellules Rapaces**的旗帜下，**法国航空航天部队游戏玩家社区**的电子竞技团队。
+
+## 在玩家手中
+
+### 我可以用任何飞机打任何飞机吗？
+是的。
+
+但是，请注意比赛的平衡性。由每个玩家选择/管理他们使用和对抗的飞机。它还需要与当下的对手达成一致。没有强加/义务。但请记住，您使用的飞机的 ELO 计算仅考虑比赛结果和对手在他们使用的飞机上的 ELO。ELO 的计算没有考虑面对的飞机类型。
+
+### 是否存在冒充或身份冲突？
+不。
+服务器级结果都包括玩家 UCID。这是与玩家的DCS帐户相关联的唯一标识符。
+在网站级别显示的结果不会公开此 UCID。这些是基于昵称。但是，一旦存在昵称冲突，就会警告管理员手动处理这种情况。它将调整最后一个玩家的昵称（添加提示）。
+
+### 是否可以修改结果中显示的球员昵称？
+是的。
+为此，请联系Rapace Discord上的**CoubyStark**。

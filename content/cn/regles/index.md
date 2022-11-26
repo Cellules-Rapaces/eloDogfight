@@ -1,26 +1,26 @@
 ---
-title: "Rules"
-description: "Rules."
+title: "规则"
+description: "规则"
 date: 2022-07-25T08:49:55+00:00
 lastmod: 2022-07-25T08:49:55+00:00
 draft: false
 images: []
 ---
 
-Some rules to be respected by any participant in **ELO Dogfight**.
+任何参与者在**ELO混战**中都应遵守的一些规则。
 
-___Fighter Spirit___
-1) Whatever the circumstances, we stay cool and **we have fun**!
-2) The *throwing of the glove* is allowed, but must remain in a chivalrous and good-natured spirit.
-3) Exchanges on this server must remain limited to gun fights. For any philosophical, political, ethical debate, please find yourself on another media.
-4) Comments on the chat, in voice, and player name, racist, insulting, harassing, or having any background reprehensible by French law, are strictly prohibited. They will systematically be subject to definitive exclusion.
+___斗士精神___
+1）无论情况如何，我们都会保持冷静，**我们玩得开心**！
+2）允许*投掷手套*，但必须保持骑士精神和善良的精神。
+3）此服务器上的交换必须仅限于枪战。对于任何哲学，政治，伦理辩论，请在其他媒体上找到自己。
+4）严禁在聊天、语音和玩家姓名上发表评论、种族主义、侮辱、骚扰或任何应受法国法律谴责的背景。它们将系统地受到明确排除。
 
-___Once in the arena___
-1) Free maneuvers before the first merge
-2) No shooting on the first merge
-3) It is forbidden to leave your Battle Area
-4) Any player coming to disturb a match in progress on a BattleArea which is not his one, will be excluded.
+___一旦进入竞技___
+1）第一次合并前的自由机动
+2）第一次合并时没有拍摄
+3）禁止离开你的战斗区域
+4）任何玩家在非他的战区扰乱正在进行的比赛，将被排除在外。
 
-The organizer reserves the right to adjust the rules such as the penalties as necessary, **written or not written**, in the spirit of maintaining a competition played in a spirit of fair play and fun.
+主办方保留在必要时调整规则（如处罚）的权利，**无论是否书面**，本着公平竞争和乐趣的精神进行比赛。
 
-For any problem, go through the Discord dedicated to the competition.
+如有任何问题，请通过专门用于比赛的不和谐。

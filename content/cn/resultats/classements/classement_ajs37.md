@@ -1,7 +1,7 @@
 ---
-title: "AJS-37 Rating"
+title: "AJS-37 额定值"
 description: ""
-lead: "AJS-37 Rating"
+lead: "AJS-37 额定值"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,7 +30,7 @@ icon: "ajs37-h"
   data-url="/data/en/elodf_1v1_classement_AJS37_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Classement" data-sortable="true">额定值</th>
       <th data-field="Country" data-sortable="true">Country</th>
       <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>

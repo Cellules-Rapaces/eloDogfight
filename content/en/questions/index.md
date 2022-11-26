@@ -25,6 +25,7 @@ You can still do a manual respawn. Become a spectator, and reslot on your plane 
 
 ### How can I know my ELOs and LVL when I'm in DCS?
 Simply ask the question in DCS chat (= **ELOs?** chat command) :
+
 ![ELOs? chat command](Elos.png)
 
 ### What if both planes run out of fuel and manage to land?
@@ -33,12 +34,15 @@ Be **fairplay**! By audio/chat exchange do you mean to eject at the same time. T
 ### For F-14 competitors, how do you prevent Jester from ejecting?
 The only identified way to do this is to disable Jester's ejection seat.
 For this, at each round, you have to make a pass in the back seat. Press the 2 key on the keyboard:
+
 ![Moving to the back seat of the F14](en_f14-ejection-seat-unarm_step1.jpg)
 
 Disable the ejection seat:
+
 ![Disable ejection seat](en_f14-ejection-seat-unarm_step2.jpg)
 
 Return to the front seat, key 1 on the keyboard:
+
 ![Moving back on forward seat](en_f14-ejection-seat-unarm_step3.jpg)
 
 If anyone knows an easier/more effective way to prevent Jester from ejecting, please share it with CoubyStark.
@@ -48,15 +52,18 @@ If anyone knows an easier/more effective way to prevent Jester from ejecting, pl
 
 ### How to find ELO Dogfight server?
 Search for **Rapace** or **ELO Dogfight**.
+
 ![DCS Server settings](rapace_server.png)
 
 ### What are server settings?
+
 ![DCS Server settings](elodf_dcs_server_settings.jpg)
 
 ### How are initial fuel levels set?
 For the moment, using the same settings as on the **canon BFR competition** and/or the **Dogfighters** server.
 
 They must allow 5 minutes of full afterburner/full throttle to each aircraft.
+
 ![Fuel data](elodf_fuel_data.jpg)
 
 This point will be studied and documented more finely to take into account the different consumptions according to the altitudes. This is to ensure an even fairer balance.

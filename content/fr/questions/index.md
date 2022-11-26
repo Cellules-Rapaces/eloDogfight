@@ -25,6 +25,7 @@ Vous pouvez toujours faire un respawn manuel. Passez spectateur, et reslotez sur
 
 ### Comment connaître mes ELOs et LVL quand je suis dans DCS ?
 Il suffit simplement de poser la question dans le chat (= commande chat **ELOs?**) :
+
 ![ELOs? chat command](Elos.png)
 
 ### Que faire si les deux avions arrivent à court de carburant et parviennent à se poser ?
@@ -33,12 +34,15 @@ Soyez **fairplay** ! Par échange audio/chat entendez-vous pour vous éjecter en
 ### Pour les compétiteurs sur F-14, comment empêcher Jester de s'éjecter ?
 Le seul moyen idenitifé pour cela est de désactiver le siège éjectable de Jester.
 Pour cela à chaque manche il vous faut faire un passage en place arrière. Appuyez sur la touche 2 du clavier :
+
 ![Passer en place arrière du F14](fr_f14-ejection-seat-unarm_step1.jpg)
 
 Désactivez le siège éjectable :
+
 ![Désactiver le siège éjectable](fr_f14-ejection-seat-unarm_step2.jpg)
 
 Revenez en place avant, touche 1 du clavier :
+
 ![Revenir en place avant du F14](fr_f14-ejection-seat-unarm_step3.jpg)
 
 Si quelqu'un voit une manière plus simple/efficace d'empêcher Jester de s'éjecter, ne pas hésiter à la partager avec CoubyStark.
@@ -48,15 +52,18 @@ Si quelqu'un voit une manière plus simple/efficace d'empêcher Jester de s'éje
 
 ### Comment trouver le serveur ELO Dogfight ?
 Cherchez **Rapace** ou **ELO Dogfight**.
+
 ![DCS Server settings](rapace_server.png)
 
 ### Quels sont les réglages du serveur ?
+
 ![DCS Server settings](elodf_dcs_server_settings.jpg)
 
 ### Comment sont définis les niveaux de carburant initiaux ?
 Pour le moment en s'appuyant sur les mêmes réglages que sur la **compétition canon BFR** et/ou le serveur **Dogfighters**.
 
 Ils doivent permettre 5 minutes de pleine post-combustion/plein gaz à chaque avion.
+
 ![Fuel data](elodf_fuel_data.jpg)
 
 Ce point sera étudié et documenté plus finement pour tenir compte des consommations différentes selon les altitudes. Ceci pour assurer un équilibre toujours plus juste.
