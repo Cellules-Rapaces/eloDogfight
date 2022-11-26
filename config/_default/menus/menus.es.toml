@@ -1,0 +1,157 @@
+[[main]]
+  name = "Introducción"
+  url = "/presentation/"
+  weight = 10
+
+[[main]]
+  name = "Clasificacións"
+  weight = 25
+  identifier = "resultats"
+  url = "/resultats/"
+
+[[main]]
+  name = "F-14B Clasificación"
+  weight = 30
+  pre = "f-14-h"
+  url = "/resultats/classements/classement_f14b"
+  parent = "resultats"
+
+[[main]]
+  name = "F-15C Clasificación"
+  weight = 40
+  pre = "f-15-h"
+  url = "/resultats/classements/classement_f15c"
+  parent = "resultats"
+
+[[main]]
+  name = "F-16C Block50 Clasificación"
+  weight = 50
+  pre = "f-16-h"
+  url = "/resultats/classements/classement_f16c50"
+  parent = "resultats"
+
+[[main]]
+  name = "F/A-18C Clasificación"
+  weight = 60
+  pre = "f-18-h"
+  url = "/resultats/classements/classement_fa18c"
+  parent = "resultats"
+
+[[main]]
+  name = "JF-17 Clasificación"
+  weight = 70
+  pre = "jf-17-h"
+  url = "/resultats/classements/classement_jf17"
+  parent = "resultats"
+
+[[main]]
+  name = "M-2000C Clasificación"
+  weight = 80
+  pre = "M2000-h"
+  url = "/resultats/classements/classement_m2000c"
+  parent = "resultats"
+
+[[main]]
+  name = "Mirage F1-CE Clasificación"
+  weight = 90
+  pre = "mf1-h"
+  url = "/resultats/classements/classement_mf1ce"
+  parent = "resultats"
+
+[[main]]
+  name = "MiG-21Bis Clasificación"
+  weight = 100
+  pre = "mig21-h"
+  url = "/resultats/classements/classement_mig21bis"
+  parent = "resultats"
+
+[[main]]
+  name = "MiG-29S Clasificación"
+  weight = 110
+  pre = "mig29-h"
+  url = "/resultats/classements/classement_mig29s"
+  parent = "resultats"
+
+[[main]]
+  name = "Su-27 Clasificación"
+  weight = 120
+  pre = "su27-h"
+  url = "/resultats/classements/classement_su27"
+  parent = "resultats"
+
+[[main]]
+  name = "Su-33 Clasificación"
+  weight = 130
+  pre = "su33-h"
+  url = "/resultats/classements/classement_su33"
+  parent = "resultats"
+
+[[main]]
+  name = "F-86F Clasificación"
+  weight = 140
+  pre = "f-86-h"
+  url = "/resultats/classements/classement_f86f"
+  parent = "resultats"
+
+[[main]]
+  name = "AJS-37 Clasificación"
+  weight = 150
+  pre = "ajs37-h"
+  url = "/resultats/classements/classement_ajs37"
+  parent = "resultats"
+
+[[main]]
+  name = "F-5E Clasificación"
+  weight = 160
+  pre = "f-5-h"
+  url = "/resultats/classements/classement_f5e"
+  parent = "resultats"
+
+[[main]]
+  name = "MiG-15Bis Clasificación"
+  weight = 170
+  pre = "mig15-h"
+  url = "/resultats/classements/classement_mig15bis"
+  parent = "resultats"
+
+[[main]]
+  name = "MiG-19P Clasificación"
+  weight = 180
+  pre = "mig19-h"
+  url = "/resultats/classements/classement_mig19p"
+  parent = "resultats"
+
+[[main]]
+  name = "Reglas"
+  weight = 200
+  url = "/regles/"
+
+[[main]]
+  name = "Preguntas/Respuestas"
+  weight = 210
+  url = "/questions/"
+
+[[footer2]]
+  name = "ELO Dogfight"
+  url = "https://elodogfight.cellules-rapaces.fr"
+  weight = 10
+
+[[footer2]]
+  name = "Tanker Party"
+  url = "https://tankerparty.cellules-rapaces.fr"
+  weight = 20
+
+[[footer3]]
+  name = "Cellules Rapaces"
+  url = "https://www.cellules-rapaces.fr"
+  weight = 10
+
+[[footer3]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 20
+
+[[footer3]]
+  name = "Legal notice"
+  url = "/mentionslegales/"
+  weight = 30

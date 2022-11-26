@@ -34,6 +34,18 @@
     footer4 = '社交网络'
     footer5 = '⬆️'
 
+[es]
+  languageName = "Español"
+  contentDir = "content/es"
+  weight = 20
+  [es.params]
+    languageISO = "ES"
+    footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Células rapaces </br>por CoubyStark</small>'
+    footer2 = 'Desafíos de Raptor'
+    footer3 = 'Acerca de'
+    footer4 = 'Redes sociales'
+    footer5 = '⬆️'
+
 [de]
   languageName = "German"
   contentDir = "content/de"

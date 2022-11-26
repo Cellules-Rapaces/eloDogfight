@@ -31,12 +31,12 @@ icon: "f-15-h"
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">Clasificación</th>
-      <th data-field="Country" data-sortable="true">Country</th>
-      <th data-field="Player">Pilot</th>
+      <th data-field="Country" data-sortable="true">País</th>
+      <th data-field="Player">Piloto</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Fights</th>
-      <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Level</th>
+      <th data-field="Combats" data-sortable="true">Peleas</th>
+      <th data-field="Kill ratio" data-sortable="true">Proporción de muertes</th>
+      <th data-field="LVL" data-sortable="true">Nivel</th>
     </tr>
   </thead>
 </table>
