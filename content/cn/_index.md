@@ -1,7 +1,7 @@
 ---
-title : "Gun Duels in DCS World"
-description: "DCS World 1v1 guns only challenge."
-lead: "Fight's On !"
+title : "DCS World 中的枪支决斗"
+description: "DCS World 1v1 枪只挑战。"
+lead: "战斗开始！"
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
@@ -14,14 +14,14 @@ images: []
 <section class="section container-fluid pt-3 pb-3">
   <div class="row justify-content-center">
     <div class="col-lg-9 col-xl-8 text-center">
-    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> Join the Fight</a>
+    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> 加入战斗</a>
     </div>
   </div>
 </section>
 
 <img class="mb-2 mx-auto img-fluid" src="../images/ready.png" alt="" >
 
-<h2><span class="stats_fights badge bg-primary">💥Combats : 0</span> <span class="stats_fighters badge bg-secondary"><img src="../images/fighter_pilot_30.png" height="80%">Fighters : 0</span></h2>
+<h2><span class="stats_fights badge bg-primary">💥战斗 : 0</span> <span class="stats_fighters badge bg-secondary"><img src="../images/fighter_pilot_30.png" height="80%">战士 : 0</span></h2>
 
 <section class="section section-sm">
 <!-- Podium -->
@@ -33,7 +33,7 @@ images: []
       <table id="table_M2000" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_m2000c"><i class="fas fa-flag-checkered"></i> M-2000C Rating <span class="icon-M2000-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_m2000c"><i class="fas fa-flag-checkered"></i> M-2000C 额定值 <span class="icon-M2000-h"></span></a>
       </div>
     </div>
   </div>
@@ -45,7 +45,7 @@ images: []
       <table id="table_FA18C" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_fa18c"><i class="fas fa-flag-checkered"></i> F/A-18C Rating <span class="icon-f-18-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_fa18c"><i class="fas fa-flag-checkered"></i> F/A-18C 额定值 <span class="icon-f-18-h"></span></a>
       </div>
     </div>
   </div>
@@ -57,7 +57,7 @@ images: []
       <table id="table_MF1CE" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_mf1ce"><i class="fas fa-flag-checkered"></i> Mirage F1CE Rating <span class="icon-mf1-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_mf1ce"><i class="fas fa-flag-checkered"></i> Mirage F1CE 额定值 <span class="icon-mf1-h"></span></a>
       </div>
     </div>
   </div>
@@ -69,7 +69,7 @@ images: []
       <table id="table_F16" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_f16c50"><i class="fas fa-flag-checkered"></i> F-16C Rating <span class="icon-f-16-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_f16c50"><i class="fas fa-flag-checkered"></i> F-16C 额定值 <span class="icon-f-16-h"></span></a>
       </div>
     </div>
   </div>
@@ -81,7 +81,7 @@ images: []
       <table id="table_F14B" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> F-14B Rating <span class="icon-f-14-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_f14b"><i class="fas fa-flag-checkered"></i> F-14B 额定值 <span class="icon-f-14-h"></span></a>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@ images: []
       <table id="table_MiG29S" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig29s"><i class="fas fa-flag-checkered"></i> MiG-29S Rating <span class="icon-mig29-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig29s"><i class="fas fa-flag-checkered"></i> MiG-29S 额定值 <span class="icon-mig29-h"></span></a>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ images: []
       <table id="table_Su27" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_su27"><i class="fas fa-flag-checkered"></i> Su-27 Rating <span class="icon-su27-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_su27"><i class="fas fa-flag-checkered"></i> Su-27 额定值 <span class="icon-su27-h"></span></a>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@ images: []
       <table id="table_Su33" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_su33"><i class="fas fa-flag-checkered"></i> Su-33 Rating <span class="icon-su33-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_su33"><i class="fas fa-flag-checkered"></i> Su-33 额定值 <span class="icon-su33-h"></span></a>
       </div>
     </div>
   </div>
@@ -129,7 +129,7 @@ images: []
       <table id="table_F15C" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_f15c"><i class="fas fa-flag-checkered"></i> F-15C Rating <span class="icon-f-15-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_f15c"><i class="fas fa-flag-checkered"></i> F-15C 额定值 <span class="icon-f-15-h"></span></a>
       </div>
     </div>
   </div>
@@ -141,7 +141,7 @@ images: []
       <table id="table_MiG21bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig21bis"><i class="fas fa-flag-checkered"></i> MiG-21bis Rating <span class="icon-mig21-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig21bis"><i class="fas fa-flag-checkered"></i> MiG-21bis 额定值 <span class="icon-mig21-h"></span></a>
       </div>
     </div>
   </div>
@@ -153,7 +153,7 @@ images: []
       <table id="table_MiG15bis" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig15bis"><i class="fas fa-flag-checkered"></i> MiG-15bis Rating <span class="icon-mig15-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig15bis"><i class="fas fa-flag-checkered"></i> MiG-15bis 额定值 <span class="icon-mig15-h"></span></a>
       </div>
     </div>
   </div>
@@ -165,7 +165,7 @@ images: []
       <table id="table_JF17" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_jf17"><i class="fas fa-flag-checkered"></i> JF-17 Rating <span class="icon-jf-17-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_jf17"><i class="fas fa-flag-checkered"></i> JF-17 额定值 <span class="icon-jf-17-h"></span></a>
       </div>
     </div>
   </div>
@@ -177,7 +177,7 @@ images: []
       <table id="table_F5E" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_f5e"><i class="fas fa-flag-checkered"></i> F-5E Rating <span class="icon-f-5-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_f5e"><i class="fas fa-flag-checkered"></i> F-5E 额定值 <span class="icon-f-5-h"></span></a>
       </div>
     </div>
   </div>
@@ -189,7 +189,7 @@ images: []
       <table id="table_AJS37" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_ajs37"><i class="fas fa-flag-checkered"></i> AJS-37 Rating <span class="icon-ajs37-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_ajs37"><i class="fas fa-flag-checkered"></i> AJS-37 额定值 <span class="icon-ajs37-h"></span></a>
       </div>
     </div>
   </div>
@@ -201,7 +201,7 @@ images: []
       <table id="table_MiG19P" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig19p"><i class="fas fa-flag-checkered"></i> MiG-19P Rating <span class="icon-mig19-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_mig19p"><i class="fas fa-flag-checkered"></i> MiG-19P 额定值 <span class="icon-mig19-h"></span></a>
       </div>
     </div>
   </div>
@@ -213,7 +213,7 @@ images: []
       <table id="table_F86F" class="table table-secondary table-striped table-hover mb-0 mt-0">
       </table>
       <div class="py-2 mx-auto">
-          <a class="btn btn-dark" href="/en/resultats/classements/classement_f86f"><i class="fas fa-flag-checkered"></i> F-86F Rating <span class="icon-f-86-h"></span></a>
+          <a class="btn btn-dark" href="/en/resultats/classements/classement_f86f"><i class="fas fa-flag-checkered"></i> F-86F 额定值 <span class="icon-f-86-h"></span></a>
       </div>
     </div>
   </div>
