@@ -11,13 +11,13 @@ $(document).ready(function () {
         player_M2000 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_M2000 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_M2000 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_M2000 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_M2000 += '</tr>';
       }
 
@@ -26,13 +26,13 @@ $(document).ready(function () {
         player_M2000 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_M2000 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_M2000 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_M2000 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_M2000 += '</tr>';
       }
 
@@ -41,13 +41,13 @@ $(document).ready(function () {
         player_M2000 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_M2000 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_M2000 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_M2000 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_M2000 += '</tr>';
       }
 
@@ -69,13 +69,13 @@ $(document).ready(function () {
         player_F18 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_F18 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_F18 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_F18 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_F18 += '</tr>';
       }
 
@@ -84,13 +84,13 @@ $(document).ready(function () {
         player_F18 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_F18 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_F18 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_F18 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_F18 += '</tr>';
       }
 
@@ -99,13 +99,13 @@ $(document).ready(function () {
         player_F18 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_F18 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_F18 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_F18 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_F18 += '</tr>';
       }
 
@@ -127,13 +127,13 @@ $(document).ready(function () {
         player_F14 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_F14 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_F14 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_F14 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_F14 += '</tr>';
       }
 
@@ -142,13 +142,13 @@ $(document).ready(function () {
         player_F14 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_F14 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_F14 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_F14 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_F14 += '</tr>';
       }
 
@@ -157,13 +157,13 @@ $(document).ready(function () {
         player_F14 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_F14 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_F14 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_F14 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_F14 += '</tr>';
       }
 
@@ -185,13 +185,13 @@ $(document).ready(function () {
         player_F16 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_F16 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_F16 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_F16 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_F16 += '</tr>';
       }
 
@@ -200,13 +200,13 @@ $(document).ready(function () {
         player_F16 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_F16 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_F16 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_F16 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_F16 += '</tr>';
       }
 
@@ -215,13 +215,13 @@ $(document).ready(function () {
         player_F16 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_F16 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_F16 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_F16 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_F16 += '</tr>';
       }
 
@@ -243,13 +243,13 @@ $(document).ready(function () {
         player_JF17 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_JF17 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_JF17 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_JF17 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_JF17 += '</tr>';
       }
 
@@ -258,13 +258,13 @@ $(document).ready(function () {
         player_JF17 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_JF17 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_JF17 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_JF17 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_JF17 += '</tr>';
       }
 
@@ -273,13 +273,13 @@ $(document).ready(function () {
         player_JF17 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_JF17 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_JF17 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_JF17 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_JF17 += '</tr>';
       }
 
@@ -301,13 +301,13 @@ $(document).ready(function () {
         player_MF1CE += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_MF1CE += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_MF1CE += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_MF1CE += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_MF1CE += '</tr>';
       }
 
@@ -316,13 +316,13 @@ $(document).ready(function () {
         player_MF1CE += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_MF1CE += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_MF1CE += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_MF1CE += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_MF1CE += '</tr>';
       }
 
@@ -331,13 +331,13 @@ $(document).ready(function () {
         player_MF1CE += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_MF1CE += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_MF1CE += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_MF1CE += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_MF1CE += '</tr>';
       }
 
@@ -359,13 +359,13 @@ $(document).ready(function () {
         player_MiG29S += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_MiG29S += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_MiG29S += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_MiG29S += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_MiG29S += '</tr>';
       }
 
@@ -374,13 +374,13 @@ $(document).ready(function () {
         player_MiG29S += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_MiG29S += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_MiG29S += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_MiG29S += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_MiG29S += '</tr>';
       }
 
@@ -389,13 +389,13 @@ $(document).ready(function () {
         player_MiG29S += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_MiG29S += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_MiG29S += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_MiG29S += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_MiG29S += '</tr>';
       }
 
@@ -417,13 +417,13 @@ $(document).ready(function () {
         player_Su27 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_Su27 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_Su27 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_Su27 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_Su27 += '</tr>';
       }
 
@@ -432,13 +432,13 @@ $(document).ready(function () {
         player_Su27 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_Su27 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_Su27 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_Su27 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_Su27 += '</tr>';
       }
 
@@ -447,13 +447,13 @@ $(document).ready(function () {
         player_Su27 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_Su27 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_Su27 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_Su27 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_Su27 += '</tr>';
       }
 
@@ -475,13 +475,13 @@ $(document).ready(function () {
         player_Su33 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_Su33 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_Su33 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_Su33 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_Su33 += '</tr>';
       }
 
@@ -490,13 +490,13 @@ $(document).ready(function () {
         player_Su33 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_Su33 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_Su33 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_Su33 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_Su33 += '</tr>';
       }
 
@@ -505,13 +505,13 @@ $(document).ready(function () {
         player_Su33 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_Su33 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_Su33 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_Su33 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_Su33 += '</tr>';
       }
 
@@ -533,13 +533,13 @@ $(document).ready(function () {
         player_F15C += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_F15C += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_F15C += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_F15C += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_F15C += '</tr>';
       }
 
@@ -548,13 +548,13 @@ $(document).ready(function () {
         player_F15C += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_F15C += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_F15C += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_F15C += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_F15C += '</tr>';
       }
 
@@ -563,13 +563,13 @@ $(document).ready(function () {
         player_F15C += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_F15C += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_F15C += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_F15C += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_F15C += '</tr>';
       }
 
@@ -591,13 +591,13 @@ $(document).ready(function () {
         player_MiG21Bis += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_MiG21Bis += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_MiG21Bis += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_MiG21Bis += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_MiG21Bis += '</tr>';
       }
 
@@ -606,13 +606,13 @@ $(document).ready(function () {
         player_MiG21Bis += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_MiG21Bis += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_MiG21Bis += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_MiG21Bis += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_MiG21Bis += '</tr>';
       }
 
@@ -621,13 +621,13 @@ $(document).ready(function () {
         player_MiG21Bis += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_MiG21Bis += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_MiG21Bis += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_MiG21Bis += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_MiG21Bis += '</tr>';
       }
 
@@ -649,13 +649,13 @@ $(document).ready(function () {
         player_MiG15Bis += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_MiG15Bis += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_MiG15Bis += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_MiG15Bis += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_MiG15Bis += '</tr>';
       }
 
@@ -664,13 +664,13 @@ $(document).ready(function () {
         player_MiG15Bis += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_MiG15Bis += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_MiG15Bis += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_MiG15Bis += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_MiG15Bis += '</tr>';
       }
 
@@ -679,13 +679,13 @@ $(document).ready(function () {
         player_MiG15Bis += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_MiG15Bis += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_MiG15Bis += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_MiG15Bis += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_MiG15Bis += '</tr>';
       }
 
@@ -707,13 +707,13 @@ $(document).ready(function () {
         player_MiG19P += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_MiG19P += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_MiG19P += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_MiG19P += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_MiG19P += '</tr>';
       }
 
@@ -722,13 +722,13 @@ $(document).ready(function () {
         player_MiG19P += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_MiG19P += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_MiG19P += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_MiG19P += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_MiG19P += '</tr>';
       }
 
@@ -737,13 +737,13 @@ $(document).ready(function () {
         player_MiG19P += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_MiG19P += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_MiG19P += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_MiG19P += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_MiG19P += '</tr>';
       }
 
@@ -765,13 +765,13 @@ $(document).ready(function () {
         player_F86F += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_F86F += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_F86F += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_F86F += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_F86F += '</tr>';
       }
 
@@ -780,13 +780,13 @@ $(document).ready(function () {
         player_F86F += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_F86F += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_F86F += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_F86F += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_F86F += '</tr>';
       }
 
@@ -795,13 +795,13 @@ $(document).ready(function () {
         player_F86F += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_F86F += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_F86F += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_F86F += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_F86F += '</tr>';
       }
 
@@ -823,13 +823,13 @@ $(document).ready(function () {
         player_AJS37 += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_AJS37 += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_AJS37 += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_AJS37 += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_AJS37 += '</tr>';
       }
 
@@ -838,13 +838,13 @@ $(document).ready(function () {
         player_AJS37 += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_AJS37 += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_AJS37 += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_AJS37 += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_AJS37 += '</tr>';
       }
 
@@ -853,13 +853,13 @@ $(document).ready(function () {
         player_AJS37 += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_AJS37 += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_AJS37 += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_AJS37 += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_AJS37 += '</tr>';
       }
 
@@ -881,13 +881,13 @@ $(document).ready(function () {
         player_F5E += '<td><img src="/images/medal_gold.png" alt=""></td>';
 
         player_F5E += '<td>' +
-            data[0]["国家"] + '</td>';
+            data[0]["Country"] + '</td>';
 
         player_F5E += '<td>' +
-            data[0]["选手"] + '</td>';
+            data[0]["Player"] + '</td>';
 
         player_F5E += '<td>' +
-            data[0]["埃洛"] + '</td>';
+            data[0]["ELO"] + '</td>';
         player_F5E += '</tr>';
       }
 
@@ -896,13 +896,13 @@ $(document).ready(function () {
         player_F5E += '<td><img src="/images/medal_silver.png" alt=""></td>';
 
         player_F5E += '<td>' +
-            data[1]["国家"] + '</td>';
+            data[1]["Country"] + '</td>';
 
         player_F5E += '<td>' +
-            data[1]["选手"] + '</td>';
+            data[1]["Player"] + '</td>';
 
         player_F5E += '<td>' +
-            data[1]["埃洛"] + '</td>';
+            data[1]["ELO"] + '</td>';
         player_F5E += '</tr>';
       }
 
@@ -911,13 +911,13 @@ $(document).ready(function () {
         player_F5E += '<td><img src="/images/medal_bronz.png" alt=""></td>';
 
         player_F5E += '<td>' +
-            data[2]["国家"] + '</td>';
+            data[2]["Country"] + '</td>';
 
         player_F5E += '<td>' +
-            data[2]["选手"] + '</td>';
+            data[2]["Player"] + '</td>';
 
         player_F5E += '<td>' +
-            data[2]["埃洛"] + '</td>';
+            data[2]["ELO"] + '</td>';
         player_F5E += '</tr>';
       }
 
