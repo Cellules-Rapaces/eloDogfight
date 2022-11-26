@@ -14,7 +14,7 @@ images: []
 <section class="section container-fluid pt-3 pb-3">
   <div class="row justify-content-center">
     <div class="col-lg-9 col-xl-8 text-center">
-    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> Join the Fight</a>
+    <a class="btn btn-primary btn-lg mb-2" href="https://discord.gg/52B4WasJfZ" role="button"><i class="fa-brands fa-discord fa-xl fa-beat" style="--fa-animation-duration: 2s;"></i> Únete a la pelea</a>
     </div>
   </div>
 </section>
@@ -225,6 +225,6 @@ images: []
 <!-- jQuery 3.5.1 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
 <!-- Chargement des données des podiums -->
-<script src="../js/podiums_en.js"></script>
+<script src="../js/podiums_es.js"></script>
 <!-- Chargement des données stats globales -->
-<script src="../js/stats_globales_en.js"></script>
+<script src="../js/stats_globales_es.js"></script>
