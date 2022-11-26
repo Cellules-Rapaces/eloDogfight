@@ -278,7 +278,7 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
           'Number of matches played: '+ data_elos[labels_all_elos_Chart[j]].length +'<br />'+
           'Wins: '+ victoires[labels_all_elos_Chart[j]] +'<br />'+
           'Losses: '+ defaites[labels_all_elos_Chart[j]] +'<br />'+
-          'Kill ratio : '+ killsratio[labels_all_elos_Chart[j]] +'<br />'+
+          'Kill ratio: '+ killsratio[labels_all_elos_Chart[j]] +'<br />'+
           '<br />'+
         '</div>'+
       '</div>'+
