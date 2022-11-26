@@ -31,12 +31,12 @@ icon: "su27-h"
   <thead>
     <tr>
       <th data-field="Classement" data-sortable="true">额定值</th>
-      <th data-field="Country" data-sortable="true">Country</th>
-      <th data-field="Player">Pilot</th>
-      <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Fights</th>
-      <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Level</th>
+      <th data-field="Country" data-sortable="true">国家</th>
+      <th data-field="Player">飞行员</th>
+      <th data-field="ELO" data-sortable="true">埃洛</th>
+      <th data-field="Combats" data-sortable="true">打架</th>
+      <th data-field="Kill ratio" data-sortable="true">杀伤比</th>
+      <th data-field="LVL" data-sortable="true">水平</th>
     </tr>
   </thead>
 </table>
