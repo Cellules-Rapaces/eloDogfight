@@ -1,7 +1,7 @@
 ---
-title: "F/A-18C Rating"
+title: "F/A-18C Clasificación"
 description: ""
-lead: "F/A-18C Rating"
+lead: "F/A-18C Clasificación"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,7 +30,7 @@ icon: "f-18-h"
   data-url="/data/en/elodf_1v1_classement_FA18C_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Classement" data-sortable="true">Clasificación</th>
       <th data-field="Country" data-sortable="true">Country</th>
       <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>

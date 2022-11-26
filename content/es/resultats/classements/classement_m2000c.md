@@ -1,7 +1,7 @@
 ---
-title: "M-2000C Rating"
+title: "M-2000C Clasificación"
 description: ""
-lead: "M-2000C Rating"
+lead: "M-2000C Clasificación"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,7 +30,7 @@ icon: "M2000-h"
   data-url="/data/en/elodf_1v1_classement_M2000C_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Classement" data-sortable="true">Clasificación</th>
       <th data-field="Country" data-sortable="true">Country</th>
       <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>

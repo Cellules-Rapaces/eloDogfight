@@ -1,7 +1,7 @@
 ---
-title: "JF-17 Rating"
+title: "JF-17 Clasificación"
 description: ""
-lead: "JF-17 Rating"
+lead: "JF-17 Clasificación"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,7 +30,7 @@ icon: "jf-17-h"
   data-url="/data/en/elodf_1v1_classement_JF17_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
+      <th data-field="Classement" data-sortable="true">Clasificación</th>
       <th data-field="Country" data-sortable="true">Country</th>
       <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
