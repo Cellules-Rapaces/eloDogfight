@@ -33,62 +33,74 @@ ELO 混战服务器为您提供进行**1对1枪战**，使用您选择的飞机*
 ![插槽](elodf_slots.jpg)
 
 
-## AutoSpawn Script
+## 自动生成脚本
 
-The implementation of the AutoSpawn script is mandatory in order to be able to slot on a server plane.
+自动生成脚本的实现是强制性的，以便能够在服务器平面上插入。
 
-💾 [Download AutoSpawn Script](ELO-DF_auto-spawn_GameGUI.lua)
+💾 [下载自动生成脚本](ELO-DF_auto-spawn_GameGUI.lua)
 
-{{< alert icon="💡" text="Right click - save as - with your favorite browser. Check that the saved file has the extension <strong>.lua</strong>. Failing that, modify-add the to file."/>}}
+{{< alert icon="💡" text="右键单击 - 另存为 - 使用您喜欢的浏览器。检查保存的文件是否具有扩展名 <strong>.lua</strong>。否则，修改-添加到文件。"/>}}
 
-To be set up in **```[user]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
+要设置 **```[user]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
 
-This script allows, at the end of a round, to automatically reslot the two players!
+此脚本允许在回合结束时自动重新分配两名玩家！
 
-By setting up this script and slotting on an aircraft on the ELO Dogfight server, you accept the rules of participation and use in force in this digital space.
-
-
-## To slot in a server plane
-
-The requirements to be able to join a slot:
-- all the slots of the same camp on the same Battle Area must be free - if a player is already present, you will not be able to slot.
-- you must have an LVL/ELO in line with the LVL of the slot for the plane you are trying to join; you can be LVL2 on M-2000C, and thus only be able to slot on the M-2000C slots of BA2-1 to BA2-4, while being LVL1 on F-15C thus being able to slot only on the F-15C slots of BA1-1 to BA1-6.
-- you must have the AutoSpawn script installed
-
-If all the conditions are met, you will get a message as follows:
-![Slot allowed](elodf_slot_allowed.png)
-
-If you don't have the correct LVL for the aircraft/BattleArea pair you are trying to enter, you will get a message like this:
-![Slot not allowed](elodf_slot_not_allowed.jpg)
-
-When you are on a slot of a BA camp, you can change to another slot (provided that your LVL for this plane matches), you will then have a message as follows:
-![Slot change](elodf_slot_change.jpg)
+通过设置此脚本并在 ELO Dogfight 服务器上的飞机上插入，您接受在这个数字空间中生效的参与和使用规则。
 
 
-## Start of the game
+## 在服务器平面中插入插槽
 
-This moment can be a little tricky, especially if you spawn while waiting for a player to join the arena in the opposite camp...
+能够加入插槽的要求：
+- 同一战场上同一营地的所有插槽都必须是免费的 - 如果玩家已经存在，您将无法进入插槽。
+- 您必须有一个与您尝试加入的飞机的插槽的 LVL 一致的 LVL/ELO;您可以在 M-2000C 上是 LVL2，因此只能在 BA2-1 到 BA2-4 的 M-2000C 插槽上插槽，而在 F-15C 上是 LVL1，因此只能在 BA1-1 到 BA1-6 的 F-15C 插槽上插槽。
+- 您必须安装自动生成脚本
 
-The ideal is to coordinate the entry into the arena with your opponent, in order to start with the fuel levels that are going well. This also helps ensure that you agree on the aircraft that everyone is using.
+如果满足所有条件，您将收到如下消息：
 
-Be aware, however, that you can not engage the match, as long as there has not been a kill. You can become a spectator and engage in dialogue with the opponent if necessary. Again, it's best to have agreed before anyone starts spawning...
+![允许插槽](elodf_slot_allowed.png)
 
-But be careful, from the moment there has been a kill, the match is considered to be started! And you must go after the 3 points played.
+如果您尝试输入的飞机/战场对没有正确的 LVL，您将收到如下消息：
 
-If one of the competitors leaves the server before the end of a match, all the points remaining to be played are awarded to the one left on the server.
+![不允许使用插槽](elodf_slot_not_allowed.jpg)
 
+当您在 BA 营地的某个时段时，您可以更改为另一个时段（前提是此飞机的 LVL 匹配），然后您将收到如下消息：
 
-## Once the match has started
-
-A kill is validated if the killer survives his victim for at least 10 seconds.
-
-A countdown is displayed in steps of 2 seconds.
-
-At the end of the countdown, both players are respawned automatically, and the intermediate score is displayed in the chat.
-
-If the killer dies before 10 seconds, or in the case of **Lucky Luke**, the round is considered void and the point is replayed.
+![插槽更改](elodf_slot_change.jpg)
 
 
-## End of game
+## 游戏开始
 
-Once the last kill has been validated, the final score is displayed as follows
+这一刻可能有点棘手，特别是如果你在等待玩家加入对面阵营的竞技场时生成......
+
+理想的情况是与您的对手协调进入竞技场，以便从进展顺利的燃油水平开始。这也有助于确保您同意每个人都使用的飞机。
+
+但是，请注意，只要没有杀戮，您就无法参与比赛。如有必要，您可以成为旁观者并与对手进行对话。同样，最好在任何人开始生成之前就同意......
+
+但要小心，从有杀戮的那一刻起，比赛就算开始了！你必须追逐3分。
+
+如果其中一名参赛者在比赛结束前离开服务器，则剩余的所有积分将奖励给服务器上剩下的选手。
+
+## 比赛开始后
+
+如果凶手在受害者中幸存至少 10 秒，则验证杀戮。
+
+倒计时以 2 秒的步长显示。
+
+倒计时结束时，两个玩家都会自动重生，中间分数会显示在聊天中。
+
+如果杀手在 10 秒前死亡，或者在 **幸运卢克**的情况下，该回合被视为无效并重播该点。
+
+## 比赛结束
+
+验证最后一次击杀后，将显示最终分数以及所用飞机的新**ELO**。
+
+你被自动定位为旁观者，以释放战斗区域。
+
+
+## 最后一句话
+
+在 ELO 混战中，我试图提供尽可能流畅和动态的体验（自动生成脚本），并自动限制在预期条件下提供匹配的条件（相对于职业、级别、当前比赛的插槽限制......然而，正是你，你的心态，你对竞争对手的小话，你对新人的建议，可以让这个服务器成为一个有趣而酷的地方，每个人都可以来挑战、进步并展示他们参与佳能的能力。我指望你培养这种精神，祝你**狩猎快乐！
+
+[一些补充规则](/regles/).
+
+如果您有任何疑问，请随时在 Discord 上提问。稍后我将看到添加一个包含常见问题和答案的页面。
