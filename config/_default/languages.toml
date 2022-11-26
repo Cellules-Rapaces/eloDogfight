@@ -23,7 +23,7 @@
     footer5 = '⬆️'
 
 [cn]
-  languageName = "Chinese"
+  languageName = "中国人"
   contentDir = "content/cn"
   weight = 15
   [cn.params]
