@@ -1,36 +1,36 @@
 ---
-title: "Introduction"
-description: "ELO Dogfight Challenge Introduction, by Coubystark."
+title: "介绍"
+description: "ELO混战挑战介绍，作者：Coubystark."
 date: 2022-07-25T08:49:55+00:00
 lastmod: 2022-07-25T08:49:55+00:00
 draft: false
 images: []
 ---
 
-Introducing the ELO Dogfight Challenge, by Coubystark.
+介绍 ELO 混战挑战，由 Coubystark 设计。
 ![Image brief miz](elodf-pic01miz.png)
 
-## In short
+## 简而言之
 
-The ELO Dogfight server offers you to carry out **1 against 1 gun fights**, with the plane of your choice, **H24**, 7/7.</br>
-The matches are played **in 3 points** (possible results: 3-0 or 2-1).</br>
-All match results are saved on the server, and an **"ELO"** is calculated for each pilot, **per aircraft used**, based on the result of each match.
+ELO 混战服务器为您提供进行**1对1枪战**，使用您选择的飞机**H24**，7/7。</br>
+比赛以3分**进行（可能的结果：3-0或2-1）。</br>
+所有匹配结果都保存在服务器上，并根据每个匹配的结果为每个飞行员计算**“ELO”**，**每架飞机使用**。
 
-{{< alert icon="⚠️" text="Attention, to be able to fly on this server, it is <strong>**mandatory**</strong> to install the script <strong>**AutoSpawn**</ strong>. See the paragraph below for the download link and explanations." />}}
+{{< alert icon="⚠️" text="注意，为了能够在此服务器上飞行，安装脚本<strong>**自动生成**</strong>是强制性的。有关下载链接和说明，请参阅以下段落。" />}}
 
 
-## Battle Arenas
+## 战斗竞技
 
-![Battle areas](elodf_battle_areas.jpg)
-The server includes combat arenas reserved according to the level (ELO) of the players:
-- 6 Battle Areas for LVL1 players, from BA1-1 to BA1-6 - reserved for players whose ELO (for the plane used) is between 1000 and 1400
-- 4 Battle Areas for LVL2 players, from BA2-1 to BA2-4 - reserved for players whose ELO is between 1400 and 1800
-- 3 Battle Areas for LVL3 players, from BA3-1 to BA3-3 - reserved for players whose ELO is between 1800 and 2200
-- 3 Battle Areas for LVL4 players, from BA4-1 to BA4-3 - reserved for players whose ELO is between 2200 and 2600
-- 1 Battle Areas for LVL5 players, the BA5-1 - reserved for players whose ELO is greater than 2600
+![战斗竞技](elodf_battle_areas.jpg)
+服务器包括根据玩家的等级（ELO）保留的战斗竞技场：
+- LVL1玩家的6个战斗区域，从BA1-1到BA1-6 - 保留给ELO（使用的飞机）在1000到1400之间的玩家
+- LVL2 玩家的 4 个战斗区域，从 BA2-1 到 BA2-4 - 保留给 ELO 在 1400 到 1800 之间的玩家
+- LVL3玩家的3个战斗区域，从BA3-1到BA3-3 - 保留给ELO在1800到2200之间的玩家
+- LVL4 玩家的 3 个战斗区域，从 BA4-1 到 BA4-3 - 保留给 ELO 在 2200 到 2600 之间的玩家
+- 1 LVL5玩家的战斗区域，BA5-1 - 保留给ELO大于2600的玩家
 
-You can find the reference of Battle Area and associated LVL in the beginning of the group name of the plane of the slot:
-![Slots](elodf_slots.jpg)
+您可以在插槽平面的组名称开头找到战斗区域和关联的 LVL 的引用：
+![插槽](elodf_slots.jpg)
 
 
 ## AutoSpawn Script
