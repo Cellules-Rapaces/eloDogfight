@@ -16,7 +16,7 @@ The ELO Dogfight server offers you to carry out **1 against 1 gun fights**, with
 The matches are played **in 3 points** (possible results: 3-0 or 2-1).</br>
 All match results are saved on the server, and an **"ELO"** is calculated for each pilot, **per aircraft used**, based on the result of each match.
 
-{{< alert icon="⚠️" text="Attention, to be able to fly on this server, it is <strong>**mandatory**</strong> to install the script <strong>**AutoSpawn**</strong>. See the paragraph below for the download link and explanations." />}}
+{{< alert icon="⚠️" text="Caution, to be able to fly on this server, it is <strong>**mandatory**</strong> to install the script <strong>**AutoSpawn**</strong>. See the paragraph below for the download link and explanations." />}}
 
 
 ## Battle Arenas
