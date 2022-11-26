@@ -41,7 +41,7 @@ La implementación del script AutoSpawn es obligatoria para poder encajar en un 
 
 💾 [Descargar AutoSpawn Script](ELO-DF_auto-spawn_GameGUI.lua)
 
-{{< alert icon="💡" text="Haga clic derecho - guardar como - con su navegador favorito. Compruebe que el archivo guardado tiene la extensión <strong>.lua</strong>. De lo contrario, modifique-agregue el archivo a". />}}
+{{< alert icon="💡" text="Haga clic derecho - guardar como - con su navegador favorito. Compruebe que el archivo guardado tiene la extensión <strong>.lua</strong>. De lo contrario, modifique-agregue el archivo a."/>}}
 
 Para configurar en **```[user]\Saved Games\DCS. Openbeta\Scripts\Hooks```**.
 

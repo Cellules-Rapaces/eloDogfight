@@ -137,21 +137,21 @@
   weight = 10
 
 [[footer2]]
-  name = "Tanker Party"
+  name = "Fiesta de petroleros"
   url = "https://tankerparty.cellules-rapaces.fr"
   weight = 20
 
 [[footer3]]
-  name = "Cellules Rapaces"
+  name = "Células rapaces"
   url = "https://www.cellules-rapaces.fr"
   weight = 10
 
 [[footer3]]
-  name = "Contact"
+  name = "Contacto"
   url = "/contact/"
   weight = 20
 
 [[footer3]]
-  name = "Legal notice"
+  name = "Aviso legal"
   url = "/mentionslegales/"
   weight = 30
