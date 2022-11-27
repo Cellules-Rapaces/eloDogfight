@@ -15,11 +15,11 @@ images: []
   <div class="col">
     <div class="card shadow-sm">
       <div class="card-body">
-        <h3>General statistics</h3>
-        Number of matches played: <span class="total_combats"></span><br />
-        Wins: <span class="total_victoires"></span><br />
-        Losses: <span class="total_defaites"></span><br />
-        Total kill ratio : <span class="total_killratio"></span><br />
+        <h3>Allgemeine Statistik</h3>
+        Anzahl der gespielten Spiele: <span class="total_combats"></span><br />
+        Gewinnt: <span class="total_victoires"></span><br />
+        Verluste: <span class="total_defaites"></span><br />
+        Gesamtabtötungsquote: <span class="total_killratio"></span><br />
         <br />
       </div>
     </div>
@@ -171,7 +171,7 @@ $.ajax({
 const data_all_elos_Chart = {
   labels: labels_all_elos_Chart,
   datasets: [{
-    label: 'ELOs by aircraft used',
+    label: 'ELOs nach eingesetzten Luftfahrzeugen',
     backgroundColor: 'rgb(19, 64, 206)',
     borderColor: 'rgb(19, 64, 206)',
     data: data_all_elos,
@@ -222,7 +222,7 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
     },
     {
       type: 'bar',
-      label: labels_all_elos_Chart[j] + ' Ratings',
+      label: labels_all_elos_Chart[j] + ' Einschaltquoten',
       backgroundColor: 'rgb(85, 85, 85)',
       borderColor: 'rgb(85, 85, 85)',
       data: data_classements[labels_all_elos_Chart[j]],
@@ -273,12 +273,12 @@ for (j = 0; j < labels_all_elos_Chart.length; j++) {
     '<div class="col">'+
       '<div class="card shadow-sm">'+
         '<div class="card-body">'+
-          '<h3><span class="icon-'+ac_icons.get(labels_all_elos_Chart[j])+'-h"></span> '+ labels_all_elos_Chart[j] +' stats</h3>'+
-          'Last Rank: #'+ derniers_classements[labels_all_elos_Chart[j]] +'<br />'+
-          'Number of matches played: '+ data_elos[labels_all_elos_Chart[j]].length +'<br />'+
-          'Wins: '+ victoires[labels_all_elos_Chart[j]] +'<br />'+
-          'Losses: '+ defaites[labels_all_elos_Chart[j]] +'<br />'+
-          'Kill ratio: '+ killsratio[labels_all_elos_Chart[j]] +'<br />'+
+          '<h3><span class="icon-'+ac_icons.get(labels_all_elos_Chart[j])+'-h"></span> '+ labels_all_elos_Chart[j] +' Statistiken</h3>'+
+          'Letzter Rang: #'+ derniers_classements[labels_all_elos_Chart[j]] +'<br />'+
+          'Anzahl der gespielten Spiele: '+ data_elos[labels_all_elos_Chart[j]].length +'<br />'+
+          'Gewinnt: '+ victoires[labels_all_elos_Chart[j]] +'<br />'+
+          'Verluste: '+ defaites[labels_all_elos_Chart[j]] +'<br />'+
+          'Kill-Rate: '+ killsratio[labels_all_elos_Chart[j]] +'<br />'+
           '<br />'+
         '</div>'+
       '</div>'+

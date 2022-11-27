@@ -1,52 +1,52 @@
 ---
-title: "Introduction"
-description: "ELO Dogfight Challenge Introduction, by Coubystark."
+title: "Präsentation"
+description: "ELO Dogfight Challenge Einführung, von Coubystark."
 date: 2022-07-25T08:49:55+00:00
 lastmod: 2022-07-25T08:49:55+00:00
 draft: false
 images: []
 ---
 
-Introducing the ELO Dogfight Challenge, by Coubystark.
+Vorstellung der ELO Dogfight Challenge von Coubystark.
 ![Image brief miz](elodf-pic01miz.png)
 
-## In short
+## In Kürze
 
-The ELO Dogfight server offers you to carry out **1 against 1 gun fights**, with the plane of your choice, **H24**, 7/7.</br>
-The matches are played **in 3 points** (possible results: 3-0 or 2-1).</br>
-All match results are saved on the server, and an **"ELO"** is calculated for each pilot, **per aircraft used**, based on the result of each match.
+Der ELO Dogfight Server bietet dir die Durchführung **1 gegen 1 Schießerei**, mit dem Flugzeug deiner Wahl, **H24**, 7/7.</br>
+Die Spiele werden **in 3 Punkten** gespielt (mögliche Ergebnisse: 3:0 oder 2:1).</br>
+Alle Spielergebnisse werden auf dem Server gespeichert, und für jeden Piloten wird ein **"ELO"** berechnet, **pro eingesetztem Flugzeug**, basierend auf dem Ergebnis jedes Spiels.
 
-{{< alert icon="⚠️" text="Caution, to be able to fly on this server, it is <strong>**mandatory**</strong> to install the script <strong>**AutoSpawn**</strong>. See the paragraph below for the download link and explanations." />}}
-
-
-## Battle Arenas
-
-![Battle areas](elodf_battle_areas.jpg)
-
-The server includes combat arenas reserved according to the level (ELO) of the players:
-- 6 Battle Areas for LVL1 players, from BA1-1 to BA1-6 - reserved for players whose ELO (for the plane used) is between 1000 and 1400
-- 4 Battle Areas for LVL2 players, from BA2-1 to BA2-4 - reserved for players whose ELO is between 1400 and 1800
-- 3 Battle Areas for LVL3 players, from BA3-1 to BA3-3 - reserved for players whose ELO is between 1800 and 2200
-- 3 Battle Areas for LVL4 players, from BA4-1 to BA4-3 - reserved for players whose ELO is between 2200 and 2600
-- 1 Battle Areas for LVL5 players, the BA5-1 - reserved for players whose ELO is greater than 2600
-
-You can find the reference of Battle Area and associated LVL in the beginning of the group name of the plane of the slot:
-![Slots](elodf_slots.jpg)
+{{< alert icon="⚠️" text="Achtung, um auf diesem Server fliegen zu können, ist es **<strong>obligatorisch</strong>** das Skript <strong>**AutoSpawn**</strong> zu installieren. Im folgenden Absatz finden Sie den Download-Link und Erläuterungen." />}}
 
 
-## AutoSpawn Script
+## Kampfarenen
 
-The implementation of the AutoSpawn script is mandatory in order to be able to slot on a server plane.
+![Kampfarenen](elodf_battle_areas.jpg)
 
-💾 [Download AutoSpawn Script](ELO-DF_auto-spawn_GameGUI.lua)
+Der Server enthält Kampfarenen, die entsprechend dem Level (ELO) der Spieler reserviert sind:
+- 6 Kampfgebiete für LVL1-Spieler, von BA1-1 bis BA1-6 - reserviert für Spieler, deren ELO (für das verwendete Flugzeug) zwischen 1000 und 1400 liegt
+- 4 Kampfgebiete für LVL2-Spieler, von BA2-1 bis BA2-4 - reserviert für Spieler, deren ELO zwischen 1400 und 1800 liegt
+- 3 Kampfgebiete für LVL3-Spieler, von BA3-1 bis BA3-3 - reserviert für Spieler, deren ELO zwischen 1800 und 2200 liegt
+- 3 Kampfgebiete für LVL4-Spieler, von BA4-1 bis BA4-3 - reserviert für Spieler, deren ELO zwischen 2200 und 2600 liegt
+- 1 Kampfgebiete für LVL5-Spieler, der BA5-1 - reserviert für Spieler, deren ELO größer als 2600 ist
 
-{{< alert icon="💡" text="Right click - save as - with your favorite browser. Check that the saved file has the extension <strong>.lua</strong>. Failing that, modify-add the to file."/>}}
+Sie finden die Referenz von Battle Area und zugehörigem LVL am Anfang des Gruppennamens des Flugzeugs des Slots:
+![Steckplätze](elodf_slots.jpg)
 
-To be set up in **```[user]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
 
-This script allows, at the end of a round, to automatically reslot the two players!
+## AutoSpawn-Skript
 
-By setting up this script and slotting on an aircraft on the ELO Dogfight server, you accept the rules of participation and use in force in this digital space.
+Die Implementierung des AutoSpawn-Skripts ist zwingend erforderlich, um auf einer Serverebene stecken zu können.
+
+💾 [AutoSpawn-Skript herunterladen](ELO-DF_auto-spawn_GameGUI.lua)
+
+{{< alert icon="💡" text="Klicken Sie mit der rechten Maustaste - Speichern unter - mit Ihrem bevorzugten Browser. Überprüfen Sie, ob die gespeicherte Datei die Erweiterung <strong>.lua</strong> hat. Wenn dies nicht der Fall ist, ändern und fügen Sie die Datei hinzu."/>}}
+
+Einzurichten in **```[user]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
+
+Dieses Skript ermöglicht es, am Ende einer Runde die beiden Spieler automatisch neu zu setzen!
+
+Mit der Einrichtung dieses Skripts und dem Slot auf einem Flugzeug auf dem ELO Dogfight Server akzeptieren Sie die in diesem digitalen Raum geltenden Teilnahme- und Nutzungsregeln.
 
 
 ## To slot in a server plane
