@@ -62,3 +62,16 @@
     footer3 = 'Über'
     footer4 = 'Soziale Netzwerke'
     footer5 = '⬆️'
+
+[it]
+  languageName = "Italiano"
+  contentDir = "content/it"
+  weight = 30
+  [de.params]
+    languageISO = "IT"
+    brand_url = "/it/"
+    footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Cellules Rapaces </br>di CoubyStark</small>'
+    footer2 = 'Sfide Raptor'
+    footer3 = 'Circa'
+    footer4 = 'Reti sociali'
+    footer5 = '⬆️'
