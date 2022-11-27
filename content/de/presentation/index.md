@@ -49,61 +49,58 @@ Dieses Skript ermöglicht es, am Ende einer Runde die beiden Spieler automatisch
 Mit der Einrichtung dieses Skripts und dem Slot auf einem Flugzeug auf dem ELO Dogfight Server akzeptieren Sie die in diesem digitalen Raum geltenden Teilnahme- und Nutzungsregeln.
 
 
-## To slot in a server plane
+## So fügen Sie eine Serverebene ein
 
-The requirements to be able to join a slot:
-- all the slots of the same camp on the same Battle Area must be free - if a player is already present, you will not be able to slot.
-- you must have an LVL/ELO in line with the LVL of the slot for the plane you are trying to join; you can be LVL2 on M-2000C, and thus only be able to slot on the M-2000C slots of BA2-1 to BA2-4, while being LVL1 on F-15C thus being able to slot only on the F-15C slots of BA1-1 to BA1-6.
-- you must have the AutoSpawn script installed
+Die Voraussetzungen, um einem Slot beitreten zu können:
+- Alle Slots des gleichen Lagers auf demselben Kampfgebiet müssen frei sein - wenn ein Spieler bereits anwesend ist, können Sie keinen Slot spielen.
+- Sie müssen über ein LVL/ELO verfügen, das mit dem LVL des Slot für das Flugzeug übereinstimmt, dem Sie beitreten möchten. Sie können LVL2 auf M-2000C sein und somit nur auf den M-2000C-Steckplätzen von BA2-1 bis BA2-4 stecken, während Sie LVL1 auf F-15C sind, also nur auf den F-15C-Steckplätzen von BA1-1 bis BA1-6 stecken können.
+- Sie müssen das AutoSpawn-Skript installiert haben
 
-If all the conditions are met, you will get a message as follows:
+Wenn alle Bedingungen erfüllt sind, erhalten Sie eine Meldung wie folgt:
 
-![Slot allowed](elodf_slot_allowed.png)
+![Steckplatz erlaubt](elodf_slot_allowed.png)
 
-If you don't have the correct LVL for the aircraft/BattleArea pair you are trying to enter, you will get a message like this:
+Wenn Sie nicht die richtige LVL für das Flugzeug/BattleArea-Paar haben, das Sie eingeben möchten, erhalten Sie eine Meldung wie diese:
 
-![Slot not allowed](elodf_slot_not_allowed.jpg)
+![Steckplatz nicht erlaubt](elodf_slot_not_allowed.jpg)
 
-When you are on a slot of a BA camp, you can change to another slot (provided that your LVL for this plane matches), you will then have a message as follows:
+Wenn Sie sich auf einem Slot eines BA-Camps befinden, können Sie zu einem anderen Slot wechseln (vorausgesetzt, dass Ihr LVL für dieses Flugzeug übereinstimmt), Sie erhalten eine Nachricht wie folgt:
 
-![Slot change](elodf_slot_change.jpg)
-
-
-## Start of the game
-
-This moment can be a little tricky, especially if you spawn while waiting for a player to join the arena in the opposite camp...
-
-The ideal is to coordinate the entry into the arena with your opponent, in order to start with the fuel levels that are going well. This also helps ensure that you agree on the aircraft that everyone is using.
-
-Be aware, however, that you can not engage the match, as long as there has not been a kill. You can become a spectator and engage in dialogue with the opponent if necessary. Again, it's best to have agreed before anyone starts spawning...
-
-But be careful, from the moment there has been a kill, the match is considered to be started! And you must go after the 3 points played.
-
-If one of the competitors leaves the server before the end of a match, all the points remaining to be played are awarded to the one left on the server.
+![Slot-Wechsel](elodf_slot_change.jpg)
 
 
-## Once the match has started
+## Start des Spiels
 
-A kill is validated if the killer survives his victim for at least 10 seconds.
+Dieser Moment kann ein wenig knifflig sein, besonders wenn du spawnst, während du darauf wartest, dass ein Spieler der Arena im gegenüberliegenden Lager beitritt...
 
-A countdown is displayed in steps of 2 seconds.
+Ideal ist es, den Eintritt in die Arena mit dem Gegner abzustimmen, um mit den Treibstoffwerten zu beginnen, die gut laufen. Dies hilft auch sicherzustellen, dass Sie sich auf das Flugzeug einigen, das alle verwenden.
 
-At the end of the countdown, both players are respawned automatically, and the intermediate score is displayed in the chat.
+Beachten Sie jedoch, dass Sie das Match nicht durchführen können, solange es keinen Kill gegeben hat. Sie können Zuschauer werden und bei Bedarf mit dem Gegner in einen Dialog treten. Auch hier ist es am besten, zugestimmt zu haben, bevor jemand mit dem Laichen beginnt...
 
-If the killer dies before 10 seconds, or in the case of **Lucky Luke**, the round is considered void and the point is replayed.
+Aber Vorsicht, von dem Moment an, in dem es einen Kill gegeben hat, gilt das Spiel als begonnen! Und Sie müssen nach den gespielten 3 Punkten gehen.
 
+Wenn einer der Teilnehmer den Server vor dem Ende eines Spiels verlässt, werden alle noch zu spielenden Punkte an den auf dem Server verbleibenden Punkte vergeben.
 
-## End of the match
+## Sobald das Spiel begonnen hat
 
-Once the last kill is validated, the final score is displayed as well as your new **ELO for the aircraft used**.
+Ein Kill wird validiert, wenn der Mörder sein Opfer für mindestens 10 Sekunden überlebt.
 
-You are automatically positioned as a spectator, in order to free the Battle Area.
+Ein Countdown wird in Schritten von 2 Sekunden angezeigt.
 
+Am Ende des Countdowns werden beide Spieler automatisch respawnt und die Zwischenpunktzahl wird im Chat angezeigt.
 
-## A last word
+Wenn der Killer vor 10 Sekunden stirbt, oder im Fall von **Lucky Luke**, gilt die Runde als ungültig und der Punkt wird wiederholt.
 
-On ELO Dogfight, I tried to offer the most fluid and dynamic experience possible (AutoSpawn script), as well as to automatically limit the conditions offering a match in the expected conditions (limitations to slot relative to occupation, levels, current matches ...). However, it is you, your state of mind, your little words for your competitors, your advice for newcomers that can allow this server to be a fun and cool place where everyone can come to challenge, progress and show their ability to engage canon. I'm counting on you to nurture this spirit, and I wish you **happy hunting!**
+## Ende des Spiels
 
-[Some complementary rules](/regles/).
+Sobald der letzte Kill validiert ist, wird das Endergebnis sowie dein neues **ELO für das verwendete Flugzeug** angezeigt.
 
-If you have any questions, feel free to come and ask them on Discord. I will see to add a page with the common questions and answers later.
+Du wirst automatisch als Zuschauer positioniert, um das Kampfgebiet zu befreien.
+
+## Ein letztes Wort
+
+Bei ELO Dogfight habe ich versucht, ein möglichst flüssiges und dynamisches Erlebnis zu bieten (AutoSpawn-Skript), sowie die Bedingungen, die ein Match unter den erwarteten Bedingungen anbietet, automatisch zu begrenzen (Einschränkungen des Slots in Bezug auf Besetzung, Level, aktuelle Matches ...). Es sind jedoch Sie, Ihr Geisteszustand, Ihre kleinen Worte für Ihre Konkurrenten, Ihre Ratschläge für Neulinge, die es diesem Server ermöglichen können, ein lustiger und cooler Ort zu sein, an dem jeder herausfordern, Fortschritte machen und seine Fähigkeit zeigen kann, Kanon zu engagieren. Ich zähle darauf, dass Sie diesen Geist pflegen, und ich wünsche Ihnen **viel Spaß beim Jagen!**
+
+[Einige ergänzende Regeln](/regles/).
+
+Wenn du irgendwelche Fragen hast, kannst du sie gerne auf Discord stellen. Ich werde später eine Seite mit den häufigsten Fragen und Antworten hinzufügen.
