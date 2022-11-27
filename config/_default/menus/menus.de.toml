@@ -122,12 +122,12 @@
   parent = "resultats"
 
 [[main]]
-  name = "Rules"
+  name = "Regeln"
   weight = 200
   url = "/regles/"
 
 [[main]]
-  name = "Questions/Answers"
+  name = "Fragen/Antworten"
   weight = 210
   url = "/questions/"
 
@@ -137,7 +137,7 @@
   weight = 10
 
 [[footer2]]
-  name = "Tanker Party"
+  name = "Tanker-Party"
   url = "https://tankerparty.cellules-rapaces.fr"
   weight = 20
 
@@ -147,11 +147,11 @@
   weight = 10
 
 [[footer3]]
-  name = "Contact"
+  name = "Kontakt"
   url = "/contact/"
   weight = 20
 
 [[footer3]]
-  name = "Legal notice"
+  name = "Impressum"
   url = "/mentionslegales/"
   weight = 30
