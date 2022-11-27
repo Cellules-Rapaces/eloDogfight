@@ -47,15 +47,13 @@
     footer5 = '⬆️'
 
 [de]
-  languageName = "German"
+  languageName = "Deutsch"
   contentDir = "content/de"
-  weight = 15
+  weight = 25
   [de.params]
     languageISO = "DE"
-
-[nl]
-  languageName = "Nederlands"
-  contentDir = "content/nl"
-  weight = 20
-  [nl.params]
-    languageISO = "NL"
+    footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Raptor-Zellen </br>bis CoubyStark</small>'
+    footer2 = 'Raptor Herausforderungen'
+    footer3 = 'Über'
+    footer4 = 'Soziale Netzwerke'
+    footer5 = '⬆️'
