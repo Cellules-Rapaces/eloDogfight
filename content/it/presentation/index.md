@@ -1,109 +1,106 @@
 ---
-title: "Introduction"
-description: "ELO Dogfight Challenge Introduction, by Coubystark."
+title: "Presentazione"
+description: "ELO Dogfight Challenge Introduzione, di Coubystark."
 date: 2022-07-25T08:49:55+00:00
 lastmod: 2022-07-25T08:49:55+00:00
 draft: false
 images: []
 ---
 
-Introducing the ELO Dogfight Challenge, by Coubystark.
+Presentazione della ELO Dogfight Challenge, di Coubystark.
 ![Image brief miz](elodf-pic01miz.png)
 
-## In short
+## In breve
 
-The ELO Dogfight server offers you to carry out **1 against 1 gun fights**, with the plane of your choice, **H24**, 7/7.</br>
-The matches are played **in 3 points** (possible results: 3-0 or 2-1).</br>
-All match results are saved on the server, and an **"ELO"** is calculated for each pilot, **per aircraft used**, based on the result of each match.
+Il server ELO Dogfight ti offre di eseguire **1 contro 1 sparatoria**, con l'aereo di tua scelta, **H24**, 7/7.</br>
+Le partite si giocano **in 3 punti** (risultati possibili: 3-0 o 2-1).</br>
+Tutti i risultati delle partite vengono salvati sul server e viene calcolato un **"ELO"** per ogni pilota, **per aereo utilizzato**, in base al risultato di ogni partita.
 
-{{< alert icon="⚠️" text="Caution, to be able to fly on this server, it is <strong>**mandatory**</strong> to install the script <strong>**AutoSpawn**</strong>. See the paragraph below for the download link and explanations." />}}
-
-
-## Battle Arenas
-
-![Battle areas](elodf_battle_areas.jpg)
-
-The server includes combat arenas reserved according to the level (ELO) of the players:
-- 6 Battle Areas for LVL1 players, from BA1-1 to BA1-6 - reserved for players whose ELO (for the plane used) is between 1000 and 1400
-- 4 Battle Areas for LVL2 players, from BA2-1 to BA2-4 - reserved for players whose ELO is between 1400 and 1800
-- 3 Battle Areas for LVL3 players, from BA3-1 to BA3-3 - reserved for players whose ELO is between 1800 and 2200
-- 3 Battle Areas for LVL4 players, from BA4-1 to BA4-3 - reserved for players whose ELO is between 2200 and 2600
-- 1 Battle Areas for LVL5 players, the BA5-1 - reserved for players whose ELO is greater than 2600
-
-You can find the reference of Battle Area and associated LVL in the beginning of the group name of the plane of the slot:
-![Slots](elodf_slots.jpg)
+{{< alert icon="⚠️" text="Attenzione, per poter volare su questo server, è **<strong>obbligatorio</strong>** installare lo script **<strong>AutoSpawn**</strong>. Vedere il paragrafo seguente per il link per il download e le spiegazioni." />}}
 
 
-## AutoSpawn Script
+## Arene di battaglia
 
-The implementation of the AutoSpawn script is mandatory in order to be able to slot on a server plane.
+![Aree di battaglia](elodf_battle_areas.jpg)
 
-💾 [Download AutoSpawn Script](ELO-DF_auto-spawn_GameGUI.lua)
+Il server include arene di combattimento riservate in base al livello (ELO) dei giocatori:
+- 6 aree di battaglia per i giocatori LVL1, da BA1-1 a BA1-6 - riservate ai giocatori il cui ELO (per l'aereo utilizzato) è compreso tra 1000 e 1400
+- 4 aree di battaglia per i giocatori di LVL2, da BA2-1 a BA2-4 - riservate ai giocatori il cui ELO è compreso tra 1400 e 1800
+- 3 aree di battaglia per i giocatori di LVL3, da BA3-1 a BA3-3 - riservate ai giocatori il cui ELO è compreso tra 1800 e 2200
+- 3 aree di battaglia per i giocatori LVL4, da BA4-1 a BA4-3 - riservate ai giocatori il cui ELO è compreso tra 2200 e 2600
+- 1 Aree di battaglia per i giocatori LVL5, il BA5-1 - riservato ai giocatori il cui ELO è superiore a 2600
 
-{{< alert icon="💡" text="Right click - save as - with your favorite browser. Check that the saved file has the extension <strong>.lua</strong>. Failing that, modify-add the to file."/>}}
-
-To be set up in **```[user]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
-
-This script allows, at the end of a round, to automatically reslot the two players!
-
-By setting up this script and slotting on an aircraft on the ELO Dogfight server, you accept the rules of participation and use in force in this digital space.
-
-
-## To slot in a server plane
-
-The requirements to be able to join a slot:
-- all the slots of the same camp on the same Battle Area must be free - if a player is already present, you will not be able to slot.
-- you must have an LVL/ELO in line with the LVL of the slot for the plane you are trying to join; you can be LVL2 on M-2000C, and thus only be able to slot on the M-2000C slots of BA2-1 to BA2-4, while being LVL1 on F-15C thus being able to slot only on the F-15C slots of BA1-1 to BA1-6.
-- you must have the AutoSpawn script installed
-
-If all the conditions are met, you will get a message as follows:
-
-![Slot allowed](elodf_slot_allowed.png)
-
-If you don't have the correct LVL for the aircraft/BattleArea pair you are trying to enter, you will get a message like this:
-
-![Slot not allowed](elodf_slot_not_allowed.jpg)
-
-When you are on a slot of a BA camp, you can change to another slot (provided that your LVL for this plane matches), you will then have a message as follows:
-
-![Slot change](elodf_slot_change.jpg)
+Puoi trovare il riferimento di Battle Area e LVL associato all'inizio del nome del gruppo del piano dello slot:
+![Slot](elodf_slots.jpg)
 
 
-## Start of the game
+## Script AutoSpawn
 
-This moment can be a little tricky, especially if you spawn while waiting for a player to join the arena in the opposite camp...
+L'implementazione dello script AutoSpawn è obbligatoria per poter effettuare lo slot su un piano server.
 
-The ideal is to coordinate the entry into the arena with your opponent, in order to start with the fuel levels that are going well. This also helps ensure that you agree on the aircraft that everyone is using.
+💾 [Scarica AutoSpawn Script](ELO-DF_auto-spawn_GameGUI.lua)
 
-Be aware, however, that you can not engage the match, as long as there has not been a kill. You can become a spectator and engage in dialogue with the opponent if necessary. Again, it's best to have agreed before anyone starts spawning...
+{{< alert icon="💡" text="Fai clic con il pulsante destro del mouse - salva con nome - con il tuo browser preferito. Verificare che il file salvato abbia l'estensione <strong>.lua</strong>. In caso contrario, modificare-aggiungere il file."/>}}
 
-But be careful, from the moment there has been a kill, the match is considered to be started! And you must go after the 3 points played.
+Da allestire in **```[user]\Saved Games\DCS.Openbeta\Scripts\Hooks```**.
 
-If one of the competitors leaves the server before the end of a match, all the points remaining to be played are awarded to the one left on the server.
+Questo script permette, alla fine di un round, di reinserire automaticamente i due giocatori!
+
+Impostando questo script e inserendo un aereo sul server ELO Dogfight, accetti le regole di partecipazione e utilizzo in vigore in questo spazio digitale.
+
+## Per inserire un piano server
+
+I requisiti per poter partecipare a uno slot:
+- tutte le slot dello stesso campo sulla stessa area di battaglia devono essere gratuite - se un giocatore è già presente, non sarai in grado di slot.
+- devi avere un LVL/ELO in linea con l'LVL dello slot per l'aereo che stai cercando di raggiungere; puoi essere LVL2 su M-2000C, e quindi essere in grado di inserire solo gli slot M-2000C da BA2-1 a BA2-4, mentre essere LVL1 su F-15C potendo quindi essere in grado di slot solo sugli slot F-15C di BA1-1 a BA1-6.
+- è necessario che sia installato lo script AutoSpawn
+
+Se tutte le condizioni sono soddisfatte, verrà visualizzato un messaggio come segue:
+
+![Slot consentito](elodf_slot_allowed.png)
+
+Se non hai l'LVL corretto per la coppia aereo/BattleArea che stai tentando di inserire, riceverai un messaggio simile al seguente:
+
+![Slot non consentito](elodf_slot_not_allowed.jpg)
+
+Quando ti trovi su uno slot di un campo BA, puoi passare a un altro slot (a condizione che il tuo LVL per questo aereo corrisponda), avrai quindi un messaggio come segue:
+
+![Cambio slot](elodf_slot_change.jpg)
 
 
-## Once the match has started
+## Inizio del gioco
 
-A kill is validated if the killer survives his victim for at least 10 seconds.
+Questo momento può essere un po 'complicato, specialmente se ti spawni mentre aspetti che un giocatore si unisca all'arena nel campo opposto...
 
-A countdown is displayed in steps of 2 seconds.
+L'ideale è coordinare l'ingresso nell'arena con il tuo avversario, in modo da iniziare con i livelli di carburante che stanno andando bene. Questo aiuta anche a garantire che tu sia d'accordo sull'aeromobile che tutti stanno utilizzando.
 
-At the end of the countdown, both players are respawned automatically, and the intermediate score is displayed in the chat.
+Tieni presente, tuttavia, che non puoi ingaggiare la partita, purché non ci sia stata un'uccisione. Puoi diventare uno spettatore e impegnarti in un dialogo con l'avversario, se necessario. Ancora una volta, è meglio aver concordato prima che qualcuno inizi a deporre le uova ...
 
-If the killer dies before 10 seconds, or in the case of **Lucky Luke**, the round is considered void and the point is replayed.
+Ma attenzione, dal momento in cui c'è stata un'uccisione, la partita è considerata iniziata! E devi andare dopo i 3 punti giocati.
+
+Se uno dei concorrenti lascia il server prima della fine di una partita, tutti i punti rimanenti da giocare vengono assegnati a quello lasciato sul server.
+
+## Una volta iniziata la partita
+
+Un'uccisione è convalidata se l'assassino sopravvive alla sua vittima per almeno 10 secondi.
+
+Un conto alla rovescia viene visualizzato in passi di 2 secondi.
+
+Alla fine del conto alla rovescia, entrambi i giocatori vengono rigenerati automaticamente e il punteggio intermedio viene visualizzato nella chat.
+
+Se l'assassino muore prima di 10 secondi, o nel caso di **Lucky Luke**, il round è considerato nullo e il punto viene rigiocato.
 
 
-## End of the match
+## Fine della partita
 
-Once the last kill is validated, the final score is displayed as well as your new **ELO for the aircraft used**.
+Una volta convalidata l'ultima uccisione, viene visualizzato il punteggio finale e il nuovo **ELO per l'aereo utilizzato**.
 
-You are automatically positioned as a spectator, in order to free the Battle Area.
+Sei automaticamente posizionato come spettatore, al fine di liberare l'Area di Battaglia.
 
+## Un'ultima parola
 
-## A last word
+Su ELO Dogfight, ho cercato di offrire l'esperienza più fluida e dinamica possibile (script AutoSpawn), nonché di limitare automaticamente le condizioni offrendo una partita nelle condizioni previste (limitazioni allo slot relative all'occupazione, livelli, partite attuali ...). Tuttavia, sei tu, il tuo stato d'animo, le tue piccole parole per i tuoi concorrenti, i tuoi consigli per i nuovi arrivati che possono consentire a questo server di essere un luogo divertente e interessante in cui tutti possono venire a sfidare, progredire e mostrare la loro capacità di coinvolgere il canone. Conto su di te per nutrire questo spirito, e ti auguro **buona caccia!**
 
-On ELO Dogfight, I tried to offer the most fluid and dynamic experience possible (AutoSpawn script), as well as to automatically limit the conditions offering a match in the expected conditions (limitations to slot relative to occupation, levels, current matches ...). However, it is you, your state of mind, your little words for your competitors, your advice for newcomers that can allow this server to be a fun and cool place where everyone can come to challenge, progress and show their ability to engage canon. I'm counting on you to nurture this spirit, and I wish you **happy hunting!**
+[Alcune norme complementari](/regles/).
 
-[Some complementary rules](/regles/).
-
-If you have any questions, feel free to come and ask them on Discord. I will see to add a page with the common questions and answers later.
+Se hai domande, sentiti libero di venire a chiedere loro su Discord. Vedrò di aggiungere una pagina con le domande e le risposte comuni in seguito.
