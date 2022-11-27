@@ -133,7 +133,7 @@
 
 [[footer2]]
   name = "艾洛混战"
-  url = "https://elodogfight.cellules-rapaces.fr"
+  url = "https://elodogfight.cellules-rapaces.fr/cn/"
   weight = 10
 
 [[footer2]]
@@ -148,10 +148,10 @@
 
 [[footer3]]
   name = "联系"
-  url = "/contact/"
+  url = "/cn/contact/"
   weight = 20
 
 [[footer3]]
   name = "法律声明"
-  url = "/mentionslegales/"
+  url = "/cn/mentionslegales/"
   weight = 30

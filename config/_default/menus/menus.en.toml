@@ -133,7 +133,7 @@
 
 [[footer2]]
   name = "ELO Dogfight"
-  url = "https://elodogfight.cellules-rapaces.fr"
+  url = "https://elodogfight.cellules-rapaces.fr/en/"
   weight = 10
 
 [[footer2]]
@@ -148,10 +148,10 @@
 
 [[footer3]]
   name = "Contact"
-  url = "/contact/"
+  url = "/en/contact/"
   weight = 20
 
 [[footer3]]
   name = "Legal notice"
-  url = "/mentionslegales/"
+  url = "/en/mentionslegales/"
   weight = 30
