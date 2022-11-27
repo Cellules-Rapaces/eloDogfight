@@ -30,6 +30,7 @@
   weight = 15
   [cn.params]
     languageISO = "CN"
+    brand_url = "/cn/"
     footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 纤维素拉佩斯 </br>由 CoubyStark</small>'
     footer2 = '猛禽挑战'
     footer3 = '大约'
@@ -42,6 +43,7 @@
   weight = 20
   [es.params]
     languageISO = "ES"
+    brand_url = "/es/"
     footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Células rapaces </br>por CoubyStark</small>'
     footer2 = 'Desafíos de Raptor'
     footer3 = 'Acerca de'
@@ -54,6 +56,7 @@
   weight = 25
   [de.params]
     languageISO = "DE"
+    brand_url = "/de/"
     footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Raptor-Zellen </br>bis CoubyStark</small>'
     footer2 = 'Raptor Herausforderungen'
     footer3 = 'Über'
