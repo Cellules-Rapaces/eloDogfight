@@ -4,6 +4,7 @@
   weight = 5
   [fr.params]
     languageISO = "FR"
+    brand_url = "/"
     footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Cellules Rapaces </br>par CoubyStark</small>'
     footer2 = 'Les défis Rapaces'
     footer3 = 'A propos'
@@ -16,6 +17,7 @@
   weight = 10
   [en.params]
     languageISO = "EN"
+    brand_url = "/en/"
     footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Cellules Rapaces </br>by CoubyStark</small>'
     footer2 = 'Raptor Challenges'
     footer3 = 'About'
