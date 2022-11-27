@@ -19,7 +19,7 @@ images: []
         Number of matches played: <span class="total_combats"></span><br />
         Wins: <span class="total_victoires"></span><br />
         Losses: <span class="total_defaites"></span><br />
-        Total kill ratio : <span class="total_killratio"></span><br />
+        Total kill ratio: <span class="total_killratio"></span><br />
         <br />
       </div>
     </div>

@@ -1,34 +1,34 @@
 ---
-title: "Legal Notice"
-description: "We do not use cookies and we do not collect any personal data."
+title: "Note legali"
+description: "Non utilizziamo cookie e non raccogliamo dati personali."
 date: 2020-08-27T19:23:18+02:00
 lastmod: 2020-08-27T19:23:18+02:00
 draft: false
 images: []
 ---
 
-__TLDR__: We do not use cookies and we do not collect any personal data.
+__TLDR__: Non utilizziamo cookie e non raccogliamo dati personali.
 
-## Website visitors
+## Visitatori del sito web
 
-- No personal information is collected.
-- No information is stored in the browser.
-- No information is shared with, sent to or sold to third-parties.
-- No information is shared with advertising companies.
-- No information is mined and harvested for personal and behavioral trends.
-- No information is monetized.
+- Non vengono raccolte informazioni personali.
+- Nessuna informazione viene memorizzata nel browser.
+- Nessuna informazione viene condivisa, inviata o venduta a terzi.
+- Nessuna informazione viene condivisa con le società pubblicitarie.
+- Nessuna informazione viene estratta e raccolta per le tendenze personali e comportamentali.
+- Nessuna informazione è monetizzata.
 
 <div class="pb-4">
-  <h2 class="py-2">Legal Notice</h2>
-  <h3 class="py-2">Author and hosting of the site</h3>
-    <p>This site is created and administered by <a href="https://www.linkedin.com/in/couby"><i class="fab fa-linkedin"></i> Frédéric "CoubyStark" Coubard</a>.</p>
-    <p>This site is hosted on <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">Github</a>.</p>
-  <h3 class="py-2">Use of cookies</h3>
-    <p>This site does not use Cookies.</p>
-  <h3 class="py-2">Personal data use</h3>
-    <p>This site does not use personal data.</p>
+  <h2 class="py-2">Note legali</h2>
+  <h3 class="py-2">Autore e hosting del sito</h3>
+    <p>Questo sito è creato e amministrato da <a href="https://www.linkedin.com/in/couby"><i class="fab fa-linkedin"></i> Frédéric "CoubyStark" Coubard</a>.</p>
+    <p>Questo sito è ospitato su <a href="https://docs.github.com/en/github/site-policy/github-terms-of-service">Github</a>.</p>
+  <h3 class="py-2">Utilizzo dei cookie</h3>
+    <p>Questo sito non utilizza Cookie.</p>
+  <h3 class="py-2">Utilizzo dei dati personali</h3>
+    <p>Questo sito non utilizza dati personali.</p>
 </div>
 
-## Contact us
+## Contattaci
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+[Contattaci]({{< relref "contact/index.md" >}}) se avete domande.
