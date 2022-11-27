@@ -1,7 +1,7 @@
 ---
-title: "F-15C Rating"
+title: "Klasse F-15C"
 description: ""
-lead: "F-15C Rating"
+lead: "Klasse F-15C"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,13 +30,13 @@ icon: "f-15-h"
   data-url="/data/en/elodf_1v1_classement_F15C_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
-      <th data-field="Country" data-sortable="true">Country</th>
+      <th data-field="Classement" data-sortable="true">Klassifikation</th>
+      <th data-field="Country" data-sortable="true">Land</th>
       <th data-field="Player">Pilot</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Fights</th>
-      <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Level</th>
+      <th data-field="Combats" data-sortable="true">Kämpft</th>
+      <th data-field="Kill ratio" data-sortable="true">Tötungsrate</th>
+      <th data-field="LVL" data-sortable="true">Niveau</th>
     </tr>
   </thead>
 </table>
