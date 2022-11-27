@@ -67,7 +67,7 @@
   languageName = "Italiano"
   contentDir = "content/it"
   weight = 30
-  [de.params]
+  [it.params]
     languageISO = "IT"
     brand_url = "/it/"
     footer1 = '<small class="d-block mb-3 text-muted text-center">&copy; 2004–2022 Cellules Rapaces </br>di CoubyStark</small>'

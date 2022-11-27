@@ -1,7 +1,7 @@
 ---
-title: "JF-17 Rating"
+title: "Classificazione JF-17"
 description: ""
-lead: "JF-17 Rating"
+lead: "Classificazione JF-17"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,13 +30,13 @@ icon: "jf-17-h"
   data-url="/data/en/elodf_1v1_classement_JF17_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
-      <th data-field="Country" data-sortable="true">Country</th>
-      <th data-field="Player">Pilot</th>
+      <th data-field="Classement" data-sortable="true">Graduatoria</th>
+      <th data-field="Country" data-sortable="true">Paese</th>
+      <th data-field="Player">Pilota</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Fights</th>
-      <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Level</th>
+      <th data-field="Combats" data-sortable="true">Combatte</th>
+      <th data-field="Kill ratio" data-sortable="true">Rapporto di uccisione</th>
+      <th data-field="LVL" data-sortable="true">Livello</th>
     </tr>
   </thead>
 </table>

@@ -1,7 +1,7 @@
 ---
-title: "F-86F Rating"
+title: "Classificazione F-86F"
 description: ""
-lead: "F-86F Rating"
+lead: "Classificazione F-86F"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -30,13 +30,13 @@ icon: "f-86-h"
   data-url="/data/en/elodf_1v1_classement_F86F_elo.json">
   <thead>
     <tr>
-      <th data-field="Classement" data-sortable="true">Rating</th>
-      <th data-field="Country" data-sortable="true">Country</th>
-      <th data-field="Player">Pilot</th>
+      <th data-field="Classement" data-sortable="true">Graduatoria</th>
+      <th data-field="Country" data-sortable="true">Paese</th>
+      <th data-field="Player">Pilota</th>
       <th data-field="ELO" data-sortable="true">ELO</th>
-      <th data-field="Combats" data-sortable="true">Fights</th>
-      <th data-field="Kill ratio" data-sortable="true">Kill ratio</th>
-      <th data-field="LVL" data-sortable="true">Level</th>
+      <th data-field="Combats" data-sortable="true">Combatte</th>
+      <th data-field="Kill ratio" data-sortable="true">Rapporto di uccisione</th>
+      <th data-field="LVL" data-sortable="true">Livello</th>
     </tr>
   </thead>
 </table>
