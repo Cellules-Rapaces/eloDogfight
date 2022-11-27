@@ -1,7 +1,7 @@
 ---
-title: "Questions - Answers"
+title: "Domande - Risposte"
 description: ""
-lead: "Questions - Answers"
+lead: "Domande - Risposte"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -9,91 +9,91 @@ images: []
 toc: true
 ---
 
-{{< alert icon="💡" text="Can't find your question? Come ask us on Discord." />}}
+{{< alert icon="💡" text="Non riesci a trovare la tua domanda? Vieni a chiederci su Discord." />}}
 
-## Once in game
+## Una volta in gioco
 
-### How do I know if the first merge happened?
-This point can be tricky, especially for newcomers. We recommend ensuring a crossing as close as possible.
+### Come faccio a sapere se è avvenuta la prima unione?
+Questo punto può essere complicato, soprattutto per i nuovi arrivati. Si consiglia di garantire un attraversamento il più vicino possibile.
 
-Failing that, when you see that the two planes have started to turn around having made more than 90° of course change... it means that the merge has passed!
+In caso contrario, quando vedi che i due aerei hanno iniziato a girare dopo aver fatto più di 90° di cambio di rotta... Significa che la fusione è passata!
 
-Be chivalrous and start with a helmet crossing!
+Sii cavalleresco e inizia con una traversata con il casco!
 
-### What to do if the AutoSpwan script "bugs"?
-You can still do a manual respawn. Become a spectator, and reslot on your plane (coordinate with the opponent). You will see that from the moment you have a match in progress, the server will not allow you to join another slot.
+### Cosa fare se lo script AutoSpwan "bug"?
+È comunque possibile eseguire un respawn manuale. Diventa uno spettatore e riposizionati sul tuo aereo (coordinati con l'avversario). Vedrai che dal momento in cui hai una partita in corso, il server non ti permetterà di unirti a un altro slot.
 
-### How can I know my ELOs and LVL when I'm in DCS?
-Simply ask the question in DCS chat (= **ELOs?** chat command) :
+### Come posso conoscere i miei ELO e LVL quando sono in DCS?
+Basta porre la domanda nella chat DCS (= **ELOs?** comando chat) :
 
-![ELOs? chat command](Elos.png)
+![ELO? comando chat](Elos.png)
 
-### What if both planes run out of fuel and manage to land?
-Be **fairplay**! By audio/chat exchange do you mean to eject at the same time. This will make a "null" round which will have to be replayed.
+### Cosa succede se entrambi gli aerei esauriscono il carburante e riescono ad atterrare?
+Sii **fairplay**! Per scambio audio/chat intendi espellere allo stesso tempo. Questo farà un round "nullo" che dovrà essere rigiocato.
 
-### For F-14 competitors, how do you prevent Jester from ejecting?
-The only identified way to do this is to disable Jester's ejection seat.
-For this, at each round, you have to make a pass in the back seat. Press the 2 key on the keyboard:
+### Per i concorrenti di F-14, come si fa a impedire a Jester di espellere?
+L'unico modo identificato per farlo è disabilitare il seggiolino eiettabile di Jester.
+Per questo, ad ogni round, devi fare un passaggio sul sedile posteriore. Premere il tasto 2 sulla tastiera:
 
-![Moving to the back seat of the F14](en_f14-ejection-seat-unarm_step1.jpg)
+![Spostamento sul sedile posteriore della F14](en_f14-ejection-seat-unarm_step1.jpg)
 
-Disable the ejection seat:
+Disattivare il seggiolino eiettabile:
 
-![Disable ejection seat](en_f14-ejection-seat-unarm_step2.jpg)
+![Disabilita seggiolino eiettabile](en_f14-ejection-seat-unarm_step2.jpg)
 
-Return to the front seat, key 1 on the keyboard:
+Torna al sedile anteriore, tasto 1 sulla tastiera:
 
-![Moving back on forward seat](en_f14-ejection-seat-unarm_step3.jpg)
+![Tornare sul sedile anteriore](en_f14-ejection-seat-unarm_step3.jpg)
 
-If anyone knows an easier/more effective way to prevent Jester from ejecting, please share it with CoubyStark.
-
-
-## ELO Dogfight design choices
-
-### How to find ELO Dogfight server?
-Search for **Rapace** or **ELO Dogfight**.
-
-![DCS Server settings](rapace_server.png)
-
-### What are server settings?
-
-![DCS Server settings](elodf_dcs_server_settings.jpg)
-
-### How are initial fuel levels set?
-For the moment, using the same settings as on the **canon BFR competition** and/or the **Dogfighters** server.
-
-They must allow 5 minutes of full afterburner/full throttle to each aircraft.
-
-![Fuel data](elodf_fuel_data.jpg)
-
-This point will be studied and documented more finely to take into account the different consumptions according to the altitudes. This is to ensure an even fairer balance.
-
-### What is ELO?
-The ELO represents the strength of a competitor and makes it possible to classify/compare players.
-This principle comes from the game of chess. Consult the Wikipedia article [ELO ranking](https://en.wikipedia.org/wiki/Elo_rating_system).
-
-### Is the number of fights played taken into account in the ELO coefficient? Can we have a good ELO by playing few matches? Can we increase our ELO indefinitely by always playing against the same people?
-The number of fights played is implicitly integrated into the principle of the ELO calculation. Indeed the ELO represents the "strength" of a player for given playing conditions. The more a player has played **a large number of matches** and against **a varied number of players**, **the more his ELO coefficient is representative of his strength**.</br >
-The proper functioning of the basis of this calculation algorithm is a mathematical problem that experienced mathematicians have studied. Being used for a long time for chess competitions, we have confidence in this one.</br >
-The **K factor** retained in the configuration of the algorithm on ELO Dogfight, does not allow a player to achieve a super ELO in a few matches. You really have to play a lot of games to be able to raise your ELO significantly.</br >
-Moreover, the principle of "levels" put in place very strongly limits the possibility of indefinitely increasing your ELO by always playing against the same people.
-
-### Who organizes and administers ELO Dogfight?
-**CoubyStark**, under the banner of **Cellules Rapaces**, eSport team of the **French Air and Space Force gamers community**.
+Se qualcuno conosce un modo più semplice / più efficace per impedire a Jester di espellere, per favore condividilo con CoubyStark.
 
 
-## In gamer hands
+## Scelte di design di ELO Dogfight
 
-### I can fight any plane with any plane?
-Yes.
+### Come trovare il server ELO Dogfight?
+Cerca **Rapace** o **ELO Dogfight**.
 
-However, pay attention to the balance of the match. It is up to each player to choose/manage which aircraft they use and battle against. It also requires agreeing with the adversary of the moment. There is no imposition/obligation. But keep in mind that the ELO calculation for the aircraft you are using only takes into account the match result and the opponent's ELO on the aircraft they are using. The calculation of the ELO does not take into account the type of aircraft confronted.
+![Impostazioni server DCS](rapace_server.png)
 
-### Is impersonation or identity conflict possible?
+### Cosa sono le impostazioni del server?
+
+![Impostazioni server DCS](elodf_dcs_server_settings.jpg)
+
+### Come vengono impostati i livelli iniziali del carburante?
+Per il momento, utilizzando le stesse impostazioni del **canon BFR competition** e/o del server **Dogfighters**.
+
+Devono consentire 5 minuti di postbruciatore completo/acceleratore completo a ciascun aeromobile.
+
+![Dati sul carburante](elodf_fuel_data.jpg)
+
+Questo punto sarà studiato e documentato più finemente per tenere conto dei diversi consumi a seconda delle altitudini. Questo per garantire un equilibrio ancora più equo.
+
+### Cos'è ELO?
+L'ELO rappresenta la forza di un concorrente e consente di classificare/confrontare i giocatori.
+Questo principio deriva dal gioco degli scacchi. Consulta l'articolo di Wikipedia [ELO](https://it.wikipedia.org/wiki/Elo).
+
+### Il numero di combattimenti giocati viene preso in considerazione nel coefficiente ELO? Possiamo avere un buon ELO giocando poche partite? Possiamo aumentare il nostro ELO indefinitamente giocando sempre contro le stesse persone?
+Il numero di combattimenti giocati è implicitamente integrato nel principio del calcolo ELO. Infatti l'ELO rappresenta la "forza" di un giocatore per determinate condizioni di gioco. Più un giocatore ha giocato **un gran numero di partite** e contro **un numero vario di giocatori**, **più il suo coefficiente ELO è rappresentativo della sua forza**.</br >
+Il corretto funzionamento della base di questo algoritmo di calcolo è un problema matematico che i matematici esperti hanno studiato. Essendo usato da molto tempo per le competizioni di scacchi, abbiamo fiducia in questo.</br >
+Il **K factor** mantenuto nella configurazione dell'algoritmo su ELO Dogfight, non consente a un giocatore di ottenere un super ELO in poche partite. Devi davvero giocare a molti giochi per essere in grado di aumentare significativamente il tuo ELO.</br >
+Inoltre, il principio dei "livelli" messo in atto limita fortemente la possibilità di aumentare indefinitamente il tuo ELO giocando sempre contro le stesse persone.
+
+### Chi organizza e amministra ELO Dogfight?
+**CoubyStark**, sotto la bandiera di **Cellules Rapaces**, team eSport della **comunità di giocatori dell'Aeronautica e della Space Force francese**.
+
+
+## Nelle mani dei giocatori
+
+### Posso combattere qualsiasi aereo con qualsiasi aereo?
+Sì.
+
+Tuttavia, presta attenzione all'equilibrio della partita. Spetta a ciascun giocatore scegliere/gestire quale aereo usare e contro cui combattere. Richiede anche di essere d'accordo con l'avversario del momento. Non vi è alcuna imposizione/obbligo. Ma tieni presente che il calcolo ELO per l'aereo che stai utilizzando tiene conto solo del risultato della partita e dell'ELO dell'avversario sull'aereo che stanno utilizzando. Il calcolo dell'ELO non tiene conto del tipo di aeromobile affrontato.
+
+### È possibile la rappresentazione o il conflitto di identità?
 No.
-Server-level results all include player UCIDs. This is a unique identifier associated with the player's DCS account.
-Results displayed at the website level do not expose this UCID. These are based on the nickname. However as soon as there is a nickname conflict the administrator is warned to manually deal with the situation. It will adjust the nickname of the last player with this one (adding a hint).
+I risultati a livello di server includono tutti gli UCID dei giocatori. Si tratta di un identificatore univoco associato all'account DCS del giocatore.
+I risultati visualizzati a livello di sito Web non espongono questo UCID. Questi sono basati sul soprannome. Tuttavia, non appena c'è un conflitto di nickname, l'amministratore viene avvisato di affrontare manualmente la situazione. Regolerà il soprannome dell'ultimo giocatore con questo (aggiungendo un suggerimento).
 
-### Is it possible to modify my player nickname displayed in the results?
-Yes.
-To do this, contact **CoubyStark** on the Rapace Discord.
+### È possibile modificare il nickname del mio giocatore visualizzato nei risultati?
+Sì.
+Per fare ciò, contatta **CoubyStark** su Rapace Discord.

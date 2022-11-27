@@ -1,26 +1,26 @@
 ---
-title: "Rules"
-description: "Rules."
+title: "Norme"
+description: "Norme."
 date: 2022-07-25T08:49:55+00:00
 lastmod: 2022-07-25T08:49:55+00:00
 draft: false
 images: []
 ---
 
-Some rules to be respected by any participant in **ELO Dogfight**.
+Alcune regole devono essere rispettate da qualsiasi partecipante a **ELO Dogfight**.
 
-___Fighter Spirit___
-1) Whatever the circumstances, we stay cool and **we have fun**!
-2) The *throwing of the glove* is allowed, but must remain in a chivalrous and good-natured spirit.
-3) Exchanges on this server must remain limited to gun fights. For any philosophical, political, ethical debate, please find yourself on another media.
-4) Comments on the chat, in voice, and player name, racist, insulting, harassing, or having any background reprehensible by French law, are strictly prohibited. They will systematically be subject to definitive exclusion.
+___Spirito combattivo___
+1) Qualunque siano le circostanze, rimaniamo freschi e ci divertiamo **!
+2) Il *lancio del guanto* è permesso, ma deve rimanere in uno spirito cavalleresco e bonario.
+3) Gli scambi su questo server devono rimanere limitati agli scontri a fuoco. Per qualsiasi dibattito filosofico, politico, etico, per favore trovatevi su un altro media.
+4) I commenti sulla chat, in voce e nome del giocatore, razzisti, offensivi, molesti o con qualsiasi background riprovevole dalla legge francese, sono severamente vietati. Essi saranno sistematicamente soggetti ad esclusione definitiva.
 
-___Once in the arena___
-1) Free maneuvers before the first merge
-2) No shooting on the first merge
-3) It is forbidden to leave your Battle Area
-4) Any player coming to disturb a match in progress on a BattleArea which is not his one, will be excluded.
+___Una volta nell'arena___
+1) Manovre libere prima della prima fusione
+2) Nessuna ripresa al primo merge
+3) È vietato lasciare la propria Area di Battaglia
+4) Qualsiasi giocatore che venga a disturbare una partita in corso su una BattleArea che non è la sua, sarà escluso.
 
-The organizer reserves the right to adjust the rules such as the penalties as necessary, **written or not written**, in the spirit of maintaining a competition played in a spirit of fair play and fun.
+L'organizzatore si riserva il diritto di modificare le regole come le penalità se necessario, **scritte o non scritte**, nello spirito di mantenere una competizione giocata in uno spirito di fair play e divertimento.
 
-For any problem, go through the Discord dedicated to the competition.
+Per qualsiasi problema, passa attraverso il Discord dedicato alla competizione.

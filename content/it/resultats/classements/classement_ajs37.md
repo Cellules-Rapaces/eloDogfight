@@ -1,7 +1,7 @@
 ---
-title: "AJS-37 Rating"
+title: "Classificazione AJS-37"
 description: ""
-lead: "AJS-37 Rating"
+lead: "Classificazione AJS-37"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false

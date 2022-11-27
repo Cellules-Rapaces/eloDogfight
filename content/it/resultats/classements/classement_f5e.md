@@ -1,7 +1,7 @@
 ---
-title: "F-5E Rating"
+title: "Classificazione F-5E"
 description: ""
-lead: "F-5E Rating"
+lead: "Classificazione F-5E"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
