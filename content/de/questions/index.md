@@ -66,33 +66,32 @@ Dies muss jedem Flugzeug 5 Minuten Vollgas erlauben.
 
 ![Kraftstoffdaten](elodf_fuel_data.jpg)
 
-Dieser Punkt wird genauer untersucht und dokumentiert, um die unterschiedlichen Verbräuche je nach Höhenlage zu berücksichtigen. Damit soll ein noch gerechteres Gleichgewicht gewährleistet werden.
+Dieser Punkt wird genauer untersucht und dokumentiert, um die unterschiedlichen Kraftstoffverbräuche je nach Höhenlage zu berücksichtigen. Damit soll ein noch gerechterer Wettbewerb gewährleistet werden.
 
 ### Was ist ELO?
-Das ELO repräsentiert die Stärke eines Mitbewerbers und ermöglicht es, Spieler zu klassifizieren/vergleichen.
+Das ELO repräsentiert die Stärke eines Mitbewerbers und ermöglicht es, Spieler zu klassifizieren / zu vergleichen.
 Dieses Prinzip stammt aus dem Schachspiel. Konsultieren Sie den Wikipedia-Artikel [Elo-Zahl](https://de.wikipedia.org/wiki/Elo-Zahl).
 
-### Wird die Anzahl der gespielten Kämpfe im ELO-Koeffizienten berücksichtigt? Können wir ein gutes ELO haben, indem wir ein paar Spiele spielen? Können wir unsere ELO unbegrenzt erhöhen, indem wir immer gegen die gleichen Leute spielen?
-Die Anzahl der gespielten Kämpfe ist implizit in das Prinzip der ELO-Berechnung integriert. In der Tat repräsentiert das ELO die "Stärke" eines Spielers für gegebene Spielbedingungen. Je mehr ein Spieler **eine große Anzahl von Matches** und gegen **eine unterschiedliche Anzahl von Spielern** gespielt hat, **desto mehr ist sein ELO-Koeffizient repräsentativ für seine Stärke**.</br >
-Das ordnungsgemäße Funktionieren der Grundlage dieses Berechnungsalgorithmus ist ein mathematisches Problem, das erfahrene Mathematiker untersucht haben. Da es seit langem für Schachwettbewerbe verwendet wird, haben wir Vertrauen in diese.</br >
-Der **K-Faktor**, der in der Konfiguration des Algorithmus auf ELO Dogfight beibehalten wird, erlaubt es einem Spieler nicht, in wenigen Spielen ein Super-ELO zu erreichen. Sie müssen wirklich viele Spiele spielen, um Ihre ELO deutlich steigern zu können.</br >
-Darüber hinaus schränkt das Prinzip der "Levels" die Möglichkeit, Ihr ELO unbegrenzt zu erhöhen, indem Sie immer gegen dieselben Leute spielen, sehr stark ein.
+### Wird die Anzahl der gespielten Kämpfe im ELO-Koeffizienten berücksichtigt? Können wir ein gutes ELO haben, indem wir ein paar Matches spielen? Können wir unsere ELO unbegrenzt erhöhen, indem wir immer gegen die gleichen Leute spielen?
+Die Anzahl der geflogenen Luftkämpfe ist implizit in das Prinzip der ELO-Berechnung integriert. In der Tat repräsentiert das ELO die “Stärke” eines Spielers für gegebene Spielbedingungen. Je mehr ein Spieler **eine große Anzahl von Matches** und gegen **eine unterschiedliche Anzahl von Spielern** gespielt hat, **desto mehr ist sein ELO-Koeffizient repräsentativ für seine Stärke**.</br >
+Die Berechnungsbasis für den Algorithmus ist eine mathematische Herausforderung, welche von erfahrenen Mathematikern untersucht wurde. Der hierbei verwendete Algorithmus wird seit langer Zeit zur Errechnung des ELO-Wertes in der Schachcommunity verwendet, von daher vertrauen wir dieser Kalkulation.</br >
+Der **K-Faktor**, der in der Konfiguration des Algorithmus auf ELO Dogfight beibehalten wird, erlaubt es einem Spieler nicht, in wenigen Spielen ein Super-ELO zu erreichen. Es müssen wirklich viele Luftkämpfe bestritten werden, um den ELO deutlich steigern zu können.</br >
+Darüber hinaus schränkt das Prinzip der “Levels” die Möglichkeit ein, das ELO unbegrenzt erhöhen zu können, indem immer gegen dieselben Leute geflogen wird, sehr stark ein.
 
 ### Wer organisiert und verwaltet ELO Dogfight?
-**CoubyStark**, unter dem Banner von **Cellules Rapaces**, eSport-Team der **French Air and Space Force Gamers Community**.
+**CoubyStark**, unter dem Banner von **Cellules Rapaces**, dem eSport-Team der **French Air and Space Force Gamers Community**.
 
 
 ## In Spielerhänden
 
-### Ich kann jedes Flugzeug mit jedem Flugzeug bekämpfen?
+### ch kann mit jedem Flugzeug gegen jedes andere Flugzeug kämpfen?
 Ja.
 
-Achten Sie jedoch auf die Ausgewogenheit des Spiels. Es liegt an jedem Spieler zu wählen/verwalten, welches Flugzeug er verwendet und gegen das er kämpft. Es erfordert auch, mit dem Gegner des Augenblicks übereinzustimmen. Es gibt keine Auferlegung/Verpflichtung. Beachten Sie jedoch, dass die ELO-Berechnung für das von Ihnen verwendete Flugzeug nur das Spielergebnis und das ELO des Gegners auf dem von ihm verwendeten Flugzeug berücksichtigt. Bei der Berechnung des ELO wird der Flugzeugtyp nicht berücksichtigt.
+Achte jedoch auf die Ausgewogenheit des Luftkampfes. Es liegt an jedem Spieler zu wählen, welches Flugzeug er verwendet und gegen welches er kämpft. Es erfordert auch, sich mit dem Gegner abzustimmen. Es gibt keine Regel / Verpflichtung. Beachte jedoch, dass die ELO-Berechnung für das von Dir verwendete Flugzeug nur das Spielergebnis und das ELO des Gegners auf dem von ihm verwendeten Flugzeug berücksichtigt. Bei der Berechnung des ELO wird der Flugzeugtyp nicht berücksichtigt.
 
 ### Ist Identitätswechsel oder Identitätskonflikt möglich?
 Nein.
-Ergebnisse auf Serverebene enthalten alle Spieler-UCIDs. Dies ist eine eindeutige Kennung, die dem DCS-Konto des Spielers zugeordnet ist.
-Ergebnisse, die auf Website-Ebene angezeigt werden, machen diese UCID nicht verfügbar. Diese basieren auf dem Spitznamen. Sobald es jedoch einen Spitznamenkonflikt gibt, wird der Administrator gewarnt, sich manuell mit der Situation zu befassen. Es wird den Spitznamen des letzten Spielers mit diesem anpassen (Hinzufügen eines Hinweises).
+Ergebnisse auf Serverebene enthalten alle die Spieler-UCIDs. Dies ist eine eindeutige Kennung, die dem DCS-Konto des Spielers zugeordnet ist. Ergebnisse, die auf Website-Ebene angezeigt werden, zeigen die UCID nicht an. Diese basieren auf dem Spitznamen. Sobald es jedoch einen Spitznamenkonflikt gibt, wird der Administrator gewarnt, sich mit der Situation zu befassen. Es wird den Spitznamen des letzten Spielers mit diesem anpassen (Hinzufügen eines Hinweises).
 
 ### Ist es möglich, meinen Spieler-Nickname in den Ergebnissen zu ändern?
 Ja.
