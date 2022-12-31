@@ -9,60 +9,60 @@ images: []
 toc: true
 ---
 
-{{< alert icon="💡" text="Können Sie Ihre Frage nicht finden? Komm und frag uns auf Discord." />}}
+{{< alert icon="💡" text="Du kannst Deine Frage nicht finden? Komm und frag uns auf Discord." />}}
 
 ## Einmal im Spiel
 
-### Woher weiß ich, ob die erste Zusammenführung stattgefunden hat?
-Dieser Punkt kann vor allem für Neulinge knifflig sein. Wir empfehlen, eine Kreuzung so nah wie möglich zu gestalten.
+### Woher weiß ich, ob der erste Merge stattgefunden hat?
+Dieser Punkt kann vor allem für Neulinge knifflig sein. Wir empfehlen, das Vorbeifliegen so nah wie möglich zu gestalten.
 
-Gelingt das nicht, wenn man sieht, dass die beiden Flugzeuge begonnen haben, sich umzudrehen, nachdem sie mehr als 90° natürlich verändert haben... Es bedeutet, dass die Zusammenführung vorbei ist!
+Gelingt das nicht, dann achtet darauf, dass beide Flugzeuge einen Kurswechsel von mehr als 90° durchgeführt haben. Dies bedeutete, dass der Merge bereits passiert wurde.
 
-Seien Sie ritterlich und beginnen Sie mit einer Helmüberquerung!
+Seien Sie ritterlich und beginnen Sie mit einer „Helmbegegnung“!
 
-### Was tun, wenn das AutoSpwan-Skript "bugs" ist?
-Sie können immer noch einen manuellen Respawn durchführen. Werden Sie Zuschauer und setzen Sie sich wieder in Ihr Flugzeug (koordinieren Sie sich mit dem Gegner). Sie werden sehen, dass der Server Ihnen von dem Moment an, in dem Sie ein Spiel im Gange haben, nicht erlaubt, einem anderen Slot beizutreten.
 
-### Wie kann ich meine ELOs und LVL kennen, wenn ich in DCS bin?
-Stellen Sie einfach die Frage im DCS-Chat (= **ELOs?** Chat-Befehl):
+### Was tun, wenn das AutoSpawn-Skript “buggy” ist?
+Du kannst immer noch einen manuellen Respawn durchführen. Wechsle in die Zuschauerrolle und setze Dich wieder in Ihr Flugzeug (koordiniere das mit dem Gegner). Du wirst sehen, dass der Server von dem Moment an, in dem das Spiel im Gange ist, nicht erlaubt, einem anderen Slot beizutreten.
+
+### Wie kann ich meine ELOs und LVL erkennen, wenn ich in DCS bin?
+Stelle einfach folgende Frage im DCS-Chat (= **ELOs?** Chat-Befehl):
 
 ![ELOs? chat-Befehl](Elos.png)
 
 ### Was ist, wenn beiden Flugzeugen der Treibstoff ausgeht und sie landen können?
-Sei **fairplay**! Mit Audio/Chat-Austausch meinen Sie, gleichzeitig auszuwerfen. Dies führt zu einer "Null"-Runde, die wiederholt werden muss.
+Sei **fair**! Tauscht euch über Voice / Chat aus und steigt zur selben Zeit aus. Das führt dazu, dass die Runde als eine „Null-Runde“ gewertet wird.
 
-### Für F-14-Konkurrenten, wie verhindern Sie, dass Jester ausgeworfen wird?
-Der einzige identifizierte Weg, dies zu tun, besteht darin, Jesters Schleudersitz zu deaktivieren.
-Dafür müssen Sie bei jeder Runde einen Pass auf dem Rücksitz machen. Drücken Sie die Taste 2 auf der Tastatur:
+### Für F-14-Piloten – Wie kann ich verhindern, dass Jester aussteigt?
+Der einzige identifizierte Weg, dies zu tun, besteht darin, Jesters Schleudersitz zu deaktivieren. Dafür musst Du bei jeder Runde zum Rücksitz wechseln. Drücke dazu die Taste [2] auf der Tastatur:
 
 ![Auf den Rücksitz des F14](en_f14-ejection-seat-unarm_step1.jpg)
 
-Deaktivieren Sie den Schleudersitz:
+Deaktiviere den Schleudersitz:
 
 ![Schleudersitz deaktivieren](en_f14-ejection-seat-unarm_step2.jpg)
 
-Kehren Sie zum Vordersitz zurück, Taste 1 auf der Tastatur:
+Kehre zum Pilotensitz zurück, Taste [1]:
 
 ![Zurück auf dem vorderen Sitz](en_f14-ejection-seat-unarm_step3.jpg)
 
-Wenn jemand einen einfacheren / effektiveren Weg kennt, um zu verhindern, dass Jester ausgeworfen wird, teilen Sie ihn bitte mit CoubyStark.
+Wenn jemand einen einfacheren / effektiveren Weg kennt, um zu verhindern, dass Jester aussteigt, dann teilt ihn bitte CoubyStark mit.
 
 
-## ELO Dogfight Design-Entscheidungen
+## ELO Dogfight Fragen
 
 ### Wie finde ich den ELO Dogfight Server?
 Suche nach **Rapace** oder **ELO Dogfight**.
 
 ![DCS-Servereinstellungen](rapace_server.png)
 
-### Was sind Servereinstellungen?
+### Wie sind die Servereinstellungen?
 
 ![DCS-Servereinstellungen](elodf_dcs_server_settings.jpg)
 
-### Wie werden die anfänglichen Kraftstoffstände eingestellt?
-Im Moment mit den gleichen Einstellungen wie auf dem **Canon BFR Wettbewerb** und/oder dem **Dogfighters** Server.
+### Mit wieviel Kraftstoff starte ich initial in den Luftkampf?
+Im Moment mit den gleichen Einstellungen wie im **Canon BFR Wettbewerb** und/oder dem **Dogfighters** Server.
 
-Sie müssen jedem Flugzeug 5 Minuten Vollgas erlauben.
+Dies muss jedem Flugzeug 5 Minuten Vollgas erlauben.
 
 ![Kraftstoffdaten](elodf_fuel_data.jpg)
 
