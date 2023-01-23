@@ -19,11 +19,11 @@
 	},
 	{
 		"Classement": "<div style='color:green;'>3⯅</div>",
-		"Player": "<a href=\"/en/pilotes/willy\">Willy</a>",
+		"Player": "<a href=\"/en/pilotes/dikennek\">Dikennek</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1140,
-		"Combats": 7,
-		"Kill ratio": 1.33,
+		"ELO": 1136,
+		"Combats": 4,
+		"Kill ratio": 2,
 		"LVL": "LVL1"
 	}
 ]

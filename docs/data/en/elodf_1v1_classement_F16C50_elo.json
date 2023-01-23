@@ -30,13 +30,13 @@
 		"Classement": 4,
 		"Player": "<a href=\"/en/pilotes/wolkern721\">Wolkern721</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1099,
-		"Combats": 18,
-		"Kill ratio": 0.33,
+		"ELO": 1110,
+		"Combats": 19,
+		"Kill ratio": 0.37,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>5⯆</div>",
+		"Classement": 5,
 		"Player": "<a href=\"/en/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
@@ -54,7 +54,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>7⯅</div>",
+		"Classement": 7,
 		"Player": "<a href=\"/en/pilotes/exhaust-  haussmann 1-1\">Exhaust   Haussmann 1-1</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1045,
@@ -63,7 +63,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>8⯆</div>",
+		"Classement": 8,
 		"Player": "<a href=\"/en/pilotes/asta\">Asta</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1037,
@@ -72,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>9⯆</div>",
+		"Classement": 9,
 		"Player": "<a href=\"/en/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
@@ -81,7 +81,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>10⯆</div>",
+		"Classement": 10,
 		"Player": "<a href=\"/en/pilotes/stan-hursiak\">Stan Hursiak</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
@@ -90,7 +90,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>11⯆</div>",
+		"Classement": 11,
 		"Player": "<a href=\"/en/pilotes/raven-9-6\">Raven 9-6</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -99,7 +99,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>11⯆</div>",
+		"Classement": 11,
 		"Player": "<a href=\"/en/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,

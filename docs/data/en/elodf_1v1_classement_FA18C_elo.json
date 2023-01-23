@@ -19,20 +19,20 @@
 	},
 	{
 		"Classement": "<div style='color:green;'>3⯅</div>",
-		"Player": "<a href=\"/en/pilotes/willy\">Willy</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1140,
-		"Combats": 7,
-		"Kill ratio": 1.33,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": "<div style='color:red;'>4⯆</div>",
 		"Player": "<a href=\"/en/pilotes/dikennek\">Dikennek</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1136,
 		"Combats": 4,
 		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>4⯆</div>",
+		"Player": "<a href=\"/en/pilotes/willy\">Willy</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1106,
+		"Combats": 8,
+		"Kill ratio": 1.18,
 		"LVL": "LVL1"
 	},
 	{
@@ -171,7 +171,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>20⯅</div>",
+		"Classement": 20,
 		"Player": "<a href=\"/en/pilotes/exhaust-  haussmann 1-1\">Exhaust   Haussmann 1-1</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
