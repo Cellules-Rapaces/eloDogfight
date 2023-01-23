@@ -27,16 +27,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 4,
-		"Player": "<a href=\"/en/pilotes/willy\">Willy</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1135,
-		"Combats": 9,
-		"Kill ratio": 1.45,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 5,
+		"Classement": "<div style='color:green;'>4⯅</div>",
 		"Player": "<a href=\"/en/pilotes/xartos\">Xartos</a>",
 		"Country": "<span class=\"fi fi-us\"></span>",
 		"ELO": 1104,
@@ -45,7 +36,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 6,
+		"Classement": "<div style='color:red;'>5⯆</div>",
+		"Player": "<a href=\"/en/pilotes/willy\">Willy</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1094,
+		"Combats": 10,
+		"Kill ratio": 1.31,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:green;'>5⯅</div>",
 		"Player": "<a href=\"/en/pilotes/fanboy\">FanBoy</a>",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1094,
@@ -153,7 +153,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 18,
+		"Classement": "<div style='color:green;'>18⯅</div>",
+		"Player": "<a href=\"/en/pilotes/exhaust-  haussmann 1-1\">Exhaust   Haussmann 1-1</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1042,
+		"Combats": 2,
+		"Kill ratio": 1,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>19⯆</div>",
 		"Player": "<a href=\"/en/pilotes/rq\">rq</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1038,
@@ -162,7 +171,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 19,
+		"Classement": "<div style='color:red;'>20⯆</div>",
 		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1004,
@@ -171,16 +180,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 20,
-		"Player": "<a href=\"/en/pilotes/exhaust-  haussmann 1-1\">Exhaust   Haussmann 1-1</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1001,
-		"Combats": 1,
-		"Kill ratio": 0.5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 20,
+		"Classement": "<div style='color:red;'>21⯆</div>",
 		"Player": "<a href=\"/en/pilotes/jike\">Jike</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -189,7 +189,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 20,
+		"Classement": "<div style='color:red;'>21⯆</div>",
 		"Player": "<a href=\"/en/pilotes/0cage0\">0Cage0</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,
