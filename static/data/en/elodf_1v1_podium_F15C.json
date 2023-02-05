@@ -1,20 +1,20 @@
 [
 	{
-		"Classement": 1,
+		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Player": "<a href=\"/en/pilotes/phenex\">Phenex</a>",
+		"Country": "<span class=\"fi fi-be\"></span>",
+		"ELO": 1138,
+		"Combats": 8,
+		"Kill ratio": 0.85,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>2⯆</div>",
 		"Player": "<a href=\"/en/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1133,
 		"Combats": 7,
 		"Kill ratio": 1.1,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 2,
-		"Player": "<a href=\"/en/pilotes/phenex\">Phenex</a>",
-		"Country": "<span class=\"fi fi-be\"></span>",
-		"ELO": 1118,
-		"Combats": 7,
-		"Kill ratio": 0.75,
 		"LVL": "LVL1"
 	},
 	{
