@@ -1,20 +1,20 @@
 [
 	{
-		"Classement": 1,
+		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1175,
+		"Combats": 8,
+		"Kill ratio": 1.4,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>2⯆</div>",
 		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1168,
 		"Combats": 7,
 		"Kill ratio": 4.25,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 2,
-		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1144,
-		"Combats": 7,
-		"Kill ratio": 1.1,
 		"LVL": "LVL1"
 	},
 	{
@@ -36,7 +36,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": "<div style='color:green;'>5⯅</div>",
 		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1094,
@@ -45,7 +45,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 5,
+		"Classement": "<div style='color:green;'>5⯅</div>",
 		"Player": "<a href=\"/pilotes/fanboy\">FanBoy</a>",
 		"Country": "<span class=\"fi fi-gf\"></span>",
 		"ELO": 1094,
@@ -54,7 +54,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 7,
+		"Classement": "<div style='color:green;'>7⯅</div>",
 		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1092,
@@ -63,7 +63,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": "<div style='color:green;'>8⯅</div>",
 		"Player": "<a href=\"/pilotes/stan-hursiak\">Stan Hursiak</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1090,
@@ -72,7 +72,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": "<div style='color:green;'>9⯅</div>",
 		"Player": "<a href=\"/pilotes/camelia\">Camelia</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1087,
@@ -81,7 +81,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 10,
+		"Classement": "<div style='color:green;'>10⯅</div>",
 		"Player": "<a href=\"/pilotes/dior\">Dior</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1081,
@@ -90,7 +90,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 11,
+		"Classement": "<div style='color:red;'>11⯆</div>",
+		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1075,
+		"Combats": 8,
+		"Kill ratio": 0.71,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 12,
 		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1074,
@@ -99,7 +108,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": 13,
 		"Player": "<a href=\"/pilotes/crizeo\">CrizEo</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1073,
@@ -108,21 +117,12 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": 14,
 		"Player": "<a href=\"/pilotes/viper\">VIPER</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1069,
 		"Combats": 2,
 		"Kill ratio": 5,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 14,
-		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1067,
-		"Combats": 5,
-		"Kill ratio": 0.88,
 		"LVL": "LVL1"
 	},
 	{
@@ -171,7 +171,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>20⯅</div>",
+		"Classement": 20,
 		"Player": "<a href=\"/pilotes/mitchos\">Mitchos</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
@@ -180,7 +180,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>21⯆</div>",
+		"Classement": 21,
 		"Player": "<a href=\"/pilotes/pluton\">PluToN</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1004,
@@ -189,7 +189,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>22⯅</div>",
+		"Classement": 22,
 		"Player": "<a href=\"/pilotes/scalou\">Scalou</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -198,7 +198,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>22⯆</div>",
+		"Classement": 22,
 		"Player": "<a href=\"/pilotes/jike\">Jike</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -207,7 +207,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>22⯆</div>",
+		"Classement": 22,
 		"Player": "<a href=\"/pilotes/0cage0\">0Cage0</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1001,

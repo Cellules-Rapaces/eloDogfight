@@ -1,20 +1,20 @@
 [
 	{
-		"Classement": 1,
+		"Classement": "<div style='color:green;'>1⯅</div>",
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1175,
+		"Combats": 8,
+		"Kill ratio": 1.4,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>2⯆</div>",
 		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1168,
 		"Combats": 7,
 		"Kill ratio": 4.25,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 2,
-		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1144,
-		"Combats": 7,
-		"Kill ratio": 1.1,
 		"LVL": "LVL1"
 	},
 	{
