@@ -1,20 +1,20 @@
 [
 	{
 		"Classement": 1,
+		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1232,
+		"Combats": 11,
+		"Kill ratio": 1.36,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": 2,
 		"Player": "<a href=\"/pilotes/heimdall\">Heimdall</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1209,
 		"Combats": 13,
 		"Kill ratio": 2.9,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 2,
-		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1206,
-		"Combats": 10,
-		"Kill ratio": 1.14,
 		"LVL": "LVL1"
 	},
 	{
