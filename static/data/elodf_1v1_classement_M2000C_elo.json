@@ -57,9 +57,9 @@
 		"Classement": "<div style='color:green;'>7⯅</div>",
 		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1121,
+		"ELO": 1119,
 		"Combats": 50,
-		"Kill ratio": 0.72,
+		"Kill ratio": 0.7,
 		"LVL": "LVL1"
 	},
 	{
@@ -68,7 +68,7 @@
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1112,
 		"Combats": 24,
-		"Kill ratio": 0.64,
+		"Kill ratio": 0.67,
 		"LVL": "LVL1"
 	},
 	{
