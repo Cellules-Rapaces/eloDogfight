@@ -27,7 +27,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>4⯅</div>",
+		"Classement": 4,
 		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1098,
@@ -36,7 +36,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>5⯆</div>",
+		"Classement": 5,
 		"Player": "<a href=\"/pilotes/wolkern721\">Wolkern721</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1093,
@@ -63,7 +63,16 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 8,
+		"Classement": "<div style='color:green;'>8⯅</div>",
+		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1041,
+		"Combats": 1,
+		"Kill ratio": 2,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>9⯆</div>",
 		"Player": "<a href=\"/pilotes/asta\">Asta</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1037,
@@ -72,7 +81,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 9,
+		"Classement": "<div style='color:red;'>10⯆</div>",
 		"Player": "<a href=\"/pilotes/le-bibs\">Le Bibs</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1035,
@@ -81,7 +90,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 10,
+		"Classement": "<div style='color:red;'>11⯆</div>",
 		"Player": "<a href=\"/pilotes/phenex\">Phenex</a>",
 		"Country": "<span class=\"fi fi-be\"></span>",
 		"ELO": 1030,
@@ -90,7 +99,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 11,
+		"Classement": "<div style='color:red;'>12⯆</div>",
 		"Player": "<a href=\"/pilotes/brot\">Brot</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1005,
@@ -99,7 +108,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 12,
+		"Classement": "<div style='color:red;'>13⯆</div>",
 		"Player": "<a href=\"/pilotes/stan-hursiak\">Stan Hursiak</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1002,
@@ -108,7 +117,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": "<div style='color:red;'>14⯆</div>",
 		"Player": "<a href=\"/pilotes/raven-9-6\">Raven 9-6</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
@@ -117,7 +126,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": "<div style='color:red;'>14⯆</div>",
 		"Player": "<a href=\"/pilotes/willy\">Willy</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1001,
