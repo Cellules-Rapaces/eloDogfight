@@ -37,6 +37,15 @@
 	},
 	{
 		"Classement": "<div style='color:green;'>5⯅</div>",
+		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1129,
+		"Combats": 27,
+		"Kill ratio": 0.76,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>6⯆</div>",
 		"Player": "<a href=\"/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1124,
@@ -45,7 +54,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:green;'>6⯅</div>",
+		"Classement": "<div style='color:red;'>7⯆</div>",
 		"Player": "<a href=\"/pilotes/frencheagle\">FrenchEagle</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1122,
@@ -54,21 +63,12 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>7⯆</div>",
+		"Classement": "<div style='color:red;'>8⯆</div>",
 		"Player": "<a href=\"/pilotes/coubystark\">CoubyStark</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1115,
 		"Combats": 52,
 		"Kill ratio": 0.71,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": 8,
-		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1114,
-		"Combats": 26,
-		"Kill ratio": 0.7,
 		"LVL": "LVL1"
 	},
 	{
