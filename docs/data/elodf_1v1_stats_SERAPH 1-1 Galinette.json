@@ -1,0 +1,33 @@
+{
+	"Player_Name": "SERAPH 1-1 Galinette",
+	"Player_Country": "fr",
+	"M2000C": {
+		"LVL": "LVL1",
+		"ELO": [
+			1001,
+			1000
+		],
+		"Kills": 0,
+		"Morts": 3,
+		"Resultats": [
+			0,
+			0
+		],
+		"Match_date": [
+			"2025-10-01T21:27:15.000Z",
+			"2022-05-25T21:10:53.000Z"
+		],
+		"Tracers": [
+			1,
+			0
+		],
+		"Ratings": [
+			20,
+			1000000
+		],
+		"Latest_Ratings": [
+			20,
+			1000000
+		]
+	}
+}
