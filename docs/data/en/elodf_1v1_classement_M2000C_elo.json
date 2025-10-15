@@ -37,20 +37,20 @@
 	},
 	{
 		"Classement": "<div style='color:green;'>5⯅</div>",
+		"Player": "<a href=\"/en/pilotes/coubystark\">CoubyStark</a>",
+		"Country": "<span class=\"fi fi-fr\"></span>",
+		"ELO": 1131,
+		"Combats": 56,
+		"Kill ratio": 0.77,
+		"LVL": "LVL1"
+	},
+	{
+		"Classement": "<div style='color:red;'>6⯆</div>",
 		"Player": "<a href=\"/en/pilotes/sstt\">SStt</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1124,
 		"Combats": 4,
 		"Kill ratio": 3,
-		"LVL": "LVL1"
-	},
-	{
-		"Classement": "<div style='color:green;'>6⯅</div>",
-		"Player": "<a href=\"/en/pilotes/coubystark\">CoubyStark</a>",
-		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1123,
-		"Combats": 55,
-		"Kill ratio": 0.76,
 		"LVL": "LVL1"
 	},
 	{
@@ -63,7 +63,7 @@
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": "<div style='color:red;'>8⯆</div>",
+		"Classement": 8,
 		"Player": "<a href=\"/en/pilotes/madmat\">Madmat</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1115,
@@ -111,13 +111,13 @@
 		"Classement": 13,
 		"Player": "<a href=\"/en/pilotes/seraph-1-1 galinette\">SERAPH 1-1 Galinette</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1042,
-		"Combats": 2,
+		"ELO": 1043,
+		"Combats": 3,
 		"Kill ratio": 0.5,
 		"LVL": "LVL1"
 	},
 	{
-		"Classement": 13,
+		"Classement": "<div style='color:red;'>14⯆</div>",
 		"Player": "<a href=\"/en/pilotes/crizeo\">CrizEo</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
 		"ELO": 1042,
