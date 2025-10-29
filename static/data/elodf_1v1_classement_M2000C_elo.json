@@ -66,9 +66,9 @@
 		"Classement": 8,
 		"Player": "<a href=\"/pilotes/madmat\">Madmat</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1105,
-		"Combats": 31,
-		"Kill ratio": 0.75,
+		"ELO": 1113,
+		"Combats": 32,
+		"Kill ratio": 0.78,
 		"LVL": "LVL1"
 	},
 	{
@@ -111,8 +111,8 @@
 		"Classement": 13,
 		"Player": "<a href=\"/pilotes/seraph-1-1 galinette\">SERAPH 1-1 Galinette</a>",
 		"Country": "<span class=\"fi fi-fr\"></span>",
-		"ELO": 1043,
-		"Combats": 3,
+		"ELO": 1044,
+		"Combats": 4,
 		"Kill ratio": 0.5,
 		"LVL": "LVL1"
 	},
